@@ -455,3 +455,32 @@ body {
 .sort-select:hover {
   color: #1c1c1e;
 }
+
+.scroll-top-btn {
+  position: fixed;
+  bottom: 50px;
+  right: 20px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #dfdede;
+  color: #000000;
+  border: none;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  z-index: 999;
+  transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+.scroll-top-btn:hover {
+  background-color: #dfdede;
+  transform: translateY(-2px);
+}
+
+.scroll-top-btn:active {
+  transform: translateY(0);
+}

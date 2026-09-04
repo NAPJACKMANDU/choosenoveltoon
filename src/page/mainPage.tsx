@@ -5,28 +5,56 @@ import { useFilterHook } from '../hook/filterHook';
 
 export const MainHPage = () => {
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
-  // 1. 카테고리 상태 추가 ('all' | 'webtoon' | 'novel')
   const [selectedCategory, setSelectedCategory] = useState<'all' | 'webtoon' | 'novel'>('all');
   const [currentPage, setCurrentPage] = useState<number>(1);
   const [sortOption, setSortOption] = useState<'latest' | 'oldest' | 'likes' | 'views'>('latest');
+
+  // 스크롤 방향 상태 ('top': 위로 이동 / 'bottom': 아래로 이동)
+  const [scrollDirection, setScrollDirection] = useState<'top' | 'bottom'>('bottom');
 
   const ITEMS_PER_PAGE = 20;
   const PAGE_BLOCK_SIZE = 5;
 
   const filteredPosts = useFilterHook(selectedTags);
 
-  // 2. 카테고리 필터링 적용
+  // 스크롤 위치 감지 (300px 기준으로 버튼 방향 전환)
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 300) {
+        setScrollDirection('top');
+      } else {
+        setScrollDirection('bottom');
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  // 맨 위 또는 맨 아래로 이동하는 함수
+  const handleScrollTo = () => {
+    if (scrollDirection === 'top') {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    } else {
+      window.scrollTo({
+        top: document.body.scrollHeight,
+        behavior: 'smooth'
+      });
+    }
+  };
+
   const categoryFilteredPosts = filteredPosts.filter((post) => {
     if (selectedCategory === 'all') return true;
     return post.category === selectedCategory;
   });
 
-  // 태그나 카테고리가 바뀌면 1페이지로 리셋
   useEffect(() => {
     setCurrentPage(1);
   }, [selectedTags, selectedCategory]);
 
-  // 3. 정렬 로직 적용
   const sortedPosts = [...categoryFilteredPosts].sort((a, b) => {
     if (sortOption === 'latest') {
       return new Date(b.date).getTime() - new Date(a.date).getTime();
@@ -43,7 +71,6 @@ export const MainHPage = () => {
     return 0;
   });
 
-  // 4. 정렬된 데이터 기준 페이지네이션 계산
   const totalItems = sortedPosts.length;
   const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE) || 1;
 
@@ -88,7 +115,6 @@ export const MainHPage = () => {
         setSelectedTags={setSelectedTags} 
       />
 
-      {/* 카테고리 탭 영역 */}
       <nav className="category-tabs">
         <button 
           className={`tab ${selectedCategory === 'all' ? 'active' : ''}`}
@@ -110,7 +136,6 @@ export const MainHPage = () => {
         </button>
       </nav>
 
-      {/* 검색 결과 개수 및 우측 정렬 옵션 드롭다운 */}
       <div className="search-result-bar">
         <div className="search-result-count">
           검색 결과 <span>{totalItems.toLocaleString()}</span>개
@@ -138,7 +163,6 @@ export const MainHPage = () => {
         </div>
       )}
 
-      {/* 포스트 리스트 */}
       <main className="post-list">
         {currentPosts.map((post) => (
           <article key={post.url} className="post-card">
@@ -162,12 +186,10 @@ export const MainHPage = () => {
               ))}
             </div>
 
-            {/* 포스트 통계 (조회수) */}
             <div className="post-stats">
               <span className="views">조회 {formatNumber(post.views)}</span>
             </div>
 
-            {/* 하단 상호작용 바 (좋아요) */}
             <div className="interaction-bar">
               <button className="action-btn">❤️ {formatNumber(post.likes)}</button>
               <button className="action-btn">💰 {Number(post.price).toLocaleString()}P</button>
@@ -186,7 +208,6 @@ export const MainHPage = () => {
         ))}
       </main>
 
-      {/* 페이지네이션 바 */}
       {totalPages > 1 && (
         <div className="pagination-container">
           <button 
@@ -232,6 +253,30 @@ export const MainHPage = () => {
           </button>
         </div>
       )}
+
+      {/* 스크롤 위치에 따라 ▲ / ▼ 토글되는 플로팅 버튼 */}
+      <button 
+        className="scroll-top-btn" 
+        onClick={handleScrollTo}
+        aria-label={scrollDirection === 'top' ? '맨 위로 이동' : '맨 아래로 이동'}
+      >
+       <svg 
+        width="18" 
+        height="18" 
+        viewBox="0 0 24 24" 
+        fill="none" 
+        stroke="currentColor" 
+        strokeWidth="2.5" 
+        strokeLinecap="round" 
+        strokeLinejoin="round"
+      >
+        {scrollDirection === 'top' ? (
+          <path d="M18 15l-6-6-6 6" /> 
+        ) : (
+          <path d="M6 9l6 6 6-6" />  
+        )}
+      </svg>
+      </button>
     </div>
   );
 };
