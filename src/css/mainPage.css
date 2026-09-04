@@ -1,3 +1,4 @@
+/* 1. 기본 리셋 및 모바일 컨테이너 */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -13,29 +14,26 @@ body {
 
 .mobile-container {
   width: 100%;
-  max-width: 430px; /* 모바일 Viewport 기준 */
+  max-width: 100%; /* 모바일 Viewport 기준 */
   background-color: #ffffff;
   min-height: 100vh;
 }
 
-/* 1. 상단 검색 헤더 */
-.search-header {
+/* 2. 상단 검색 영역 */
+.search-section {
+  width: 100%;
+  background-color: #ffffff;
+  padding: 12px 16px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.search-bar-wrapper {
   display: flex;
   align-items: center;
-  gap: 12px;
-  padding: 12px 16px;
-  background-color: #ffffff;
+  gap: 8px;
 }
 
-.icon-btn {
-  background: none;
-  border: none;
-  font-size: 20px;
-  cursor: pointer;
-  color: #1c1c1e; 
-}
-
-.search-input-wrapper {
+.search-input-box {
   flex: 1;
   display: flex;
   align-items: center;
@@ -46,30 +44,105 @@ body {
 
 .search-icon {
   font-size: 14px;
-  margin-right: 6px;
   color: #8e8e93;
 }
 
-.search-input {
+.search-input-box input {
   border: none;
   background: transparent;
   width: 100%;
-  font-size: 15px;
+  margin: 0 8px;
   outline: none;
+  font-size: 14px;
+  color: black;
 }
 
 .clear-btn {
   border: none;
   background: #c7c7cc;
-  color: #fff;
+  color: #ffffff;
   border-radius: 50%;
   width: 16px;
   height: 16px;
   font-size: 10px;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-/* 2. 카테고리 탭 바 */
+/* 필터 아이콘 버튼 */
+.filter-toggle-btn {
+  background: #f2f2f7;
+  border: none;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666666;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.filter-toggle-btn.active {
+  background-color: #f4a460;
+  color: #ffffff;
+}
+
+/* 3. 토글 태그 필터 영역 */
+.tag-filter-container {
+  margin-top: 12px;
+  padding: 12px;
+  background-color: #f9f9fb;
+  border-radius: 12px;
+  animation: fadeIn 0.2s ease-in-out;
+}
+
+.tag-filter-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  color: #8e8e93;
+  margin-bottom: 8px;
+  font-weight: 600;
+}
+
+.reset-btn {
+  background: none;
+  border: none;
+  color: #f4a460;
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.tag-chip-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.tag-chip {
+  padding: 5px 10px;
+  border-radius: 14px;
+  border: 1px solid #e5e5ea;
+  background-color: #ffffff;
+  font-size: 12px;
+  color: #3a3a3c;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.tag-chip.selected {
+  background-color: #f4a460;
+  color: #ffffff;
+  border-color: #f4a460;
+  font-weight: 600;
+}
+
+/* 4. 카테고리 탭 바 */
 .category-tabs {
   display: flex;
   border-bottom: 1px solid #e5e5ea;
@@ -104,7 +177,7 @@ body {
   background-color: #1c1c1e;
 }
 
-/* 3. 검색 결과 수 */
+/* 5. 검색 결과 수 */
 .search-result-count {
   padding: 16px;
   font-size: 13px;
@@ -112,9 +185,9 @@ body {
   font-weight: 700;
 }
 
-/* 4. 포스트 카드 */
+/* 6. 포스트 카드 */
 .post-card {
-  padding: 0 16px 10px 16px;
+  padding: 0 16px 16px 16px;
   border-bottom: 8px solid #f2f2f7;
 }
 
@@ -122,7 +195,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 12px;
+  margin: 12px 0 7px 0;
 }
 
 .author-info {
@@ -135,6 +208,7 @@ body {
   width: 36px;
   height: 36px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .author-details {
@@ -143,36 +217,22 @@ body {
 }
 
 .nickname {
-  font-size: 14px;
-  font-weight: 700;
+  font-size: 12px;
+  color: #5e5e5f;
 }
 
-.meta {
-  font-size: 12px;
-  color: #8e8e93;
-}
-
-.subscribe-btn {
-  padding: 6px 16px;
-  font-size: 12px;
-  background-color: #f2f2f7;
-  color: #3a3a3c;
-  border: none;
-  border-radius: 16px;
-  font-weight: 600;
-}
 
 .title {
   font-size: 15px;
   font-weight: 700;
   line-height: 1.4;
-  margin-bottom: 6px;
+  margin-bottom: 6px 0 6px 0;
 }
 
 .preview-text {
   font-size: 13px;
   line-height: 1.5;
-  color: #636366;
+  color: #353434;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
@@ -204,11 +264,23 @@ body {
   color: #8e8e93;
 }
 
+/* 하단 상호작용 바 */
 .interaction-bar {
   display: flex;
   align-items: center;
-  margin: 12px 0;
+  margin-top: 12px;
   gap: 12px;
+}
+
+.action-btn {
+  background: none;
+  border: none;
+  font-size: 13px;
+  color: #636366;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
 }
 
 .right-actions {
@@ -217,50 +289,169 @@ body {
   gap: 12px;
 }
 
-.comment-preview {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  background-color: #f8f8f9;
-  padding: 10px 12px;
-  border-radius: 12px;
-}
-
-.mini-avatar {
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-}
-
-.comment-text {
-  font-size: 12px;
-  color: #1c1c1e;
-}
-
-/* 기존 .action-btn 기본 스타일 */
-.action-btn {
-  background: none;
-  border: none;
-  font-size: 13px;
-  color: #636366;
-  cursor: pointer;
-  text-decoration: none; /* a 태그 기본 밑줄 제거 */
-  display: inline-flex;
-  align-items: center;
-}
-
-/* 포스타입 이동 버튼 전용 추가 스타일 */
 .postype-link-btn {
   font-size: 12px;
   font-weight: 600;
-  color: #ffffff; /* 강조용 포인트 컬러 */
-  background-color: #f4a460; /* 연한 배경색 */
-  padding: 4px 8px;
+  color: #ffffff;
+  background-color: #f4a460;
+  padding: 6px 12px;
   border-radius: 6px;
   transition: background-color 0.2s ease;
 }
 
 .postype-link-btn:hover {
-  background-color: #ffe5e5;
+  background-color: #e09350;
   text-decoration: none;
+}
+
+/* 애니메이션 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 안내 텍스트 */
+.guide-text {
+  color: #f80606;
+  font-weight: 600;
+}
+
+/* 첫 번째 선택(왼) 상태 스타일 */
+.tag-chip.selected-first {
+  background-color: #f4a460;
+  color: #ffffff;
+  border-color: #f4a460;
+  font-weight: 700;
+  transform: scale(1.05);
+}
+
+/* 적용된 태그 영역 */
+.selected-tags-display {
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px dashed #e5e5ea;
+}
+
+.selected-title {
+  font-size: 11px;
+  color: #8e8e93;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.selected-chip-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.active-tag-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background-color: #f4a460;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 8px;
+  border-radius: 12px;
+}
+
+.remove-tag-btn {
+  background: none;
+  border: none;
+  color: #ffffff;
+  font-size: 10px;
+  cursor: pointer;
+  padding: 0 2px;
+}
+
+/* 페이지네이션 컨테이너 */
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px; /* 버튼 간격을 좁힘 */
+  padding: 20px 8px;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* 모든 페이지 버튼 크기 고정 */
+.page-number-btn,
+.page-nav-btn {
+  min-width: 32px;
+  height: 32px;
+  padding: 0 4px;
+  border: 1px solid #e5e5ea;
+  background-color: #ffffff;
+  color: #333333;
+  border-radius: 6px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  flex-shrink: 0; /* 화면이 줄어들어도 버튼 모양이 깨지지 않게 방지 */
+}
+
+.page-number-btn.active {
+  background-color: #4a90e2;
+  color: #ffffff;
+  border-color: #4a90e2;
+  font-weight: 600;
+}
+
+.page-nav-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.page-number-btn:hover:not(.active),
+.page-nav-btn:hover:not(:disabled) {
+  background-color: #f2f2f7;
+}
+
+/* 검색 결과 및 정렬 영역 상위 바 */
+.search-result-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+}
+
+.search-result-count {
+  font-size: 13px;
+  color: #1c1c1e;
+  font-weight: 700;
+  padding: 0; /* 상위 영역 패딩으로 대체 */
+}
+
+/* 정렬 드롭다운 스타일 */
+.sort-select-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.sort-select {
+  border: none;
+  background: transparent;
+  font-size: 12px;
+  font-weight: 600;
+  color: #636366;
+  outline: none;
+  cursor: pointer;
+  padding: 2px 4px;
+}
+
+.sort-select:hover {
+  color: #1c1c1e;
 }
