@@ -55,12 +55,23 @@ export const MainHPage = () => {
     setCurrentPage(1);
   }, [selectedTags, selectedCategory]);
 
+  const getPostDate = (date: string): number => {
+    const koreanDate = date.match(/^(\d{4})\D+(\d{1,2})\D+(\d{1,2})/);
+    if (koreanDate) {
+      const [, year, month, day] = koreanDate;
+      return Date.UTC(Number(year), Number(month) - 1, Number(day));
+    }
+
+    const parsedDate = Date.parse(date);
+    return Number.isNaN(parsedDate) ? 0 : parsedDate;
+  };
+
   const sortedPosts = [...categoryFilteredPosts].sort((a, b) => {
     if (sortOption === 'latest') {
-      return new Date(b.date).getTime() - new Date(a.date).getTime();
+      return getPostDate(b.date) - getPostDate(a.date);
     }
     if (sortOption === 'oldest') {
-      return new Date(a.date).getTime() - new Date(b.date).getTime();
+      return getPostDate(a.date) - getPostDate(b.date);
     }
     if (sortOption === 'likes') {
       return Number(b.likes ?? 0) - Number(a.likes ?? 0);
