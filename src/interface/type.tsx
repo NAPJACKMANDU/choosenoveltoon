@@ -1,6 +1,8 @@
 export interface MainSearchFilterProps {
-    selectedTags: string[];
-    setSelectedTags: React.Dispatch<React.SetStateAction<string[]>>;
+  selectedTags: string[];
+  setSelectedTags: React.Dispatch<React.SetStateAction<string[]>>;
+  searchTerm: string;
+  setSearchTerm: React.Dispatch<React.SetStateAction<string>>;
 }
 
 export interface novelToonData {

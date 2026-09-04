@@ -6,7 +6,9 @@ const MEMBERS = ['숕', '석', '돌', '은', '숑', '넨', '히', '또', '톤', 
 
 export const MainSearchFilter: React.FC<MainSearchFilterProps> = ({
   selectedTags,
-  setSelectedTags
+  setSelectedTags,
+  searchTerm,
+  setSearchTerm
 }) => {
   const [isFilterOpen, setIsFilterOpen] = useState<boolean>(false);
   const [firstPick, setFirstPick] = useState<string>('');
@@ -42,13 +44,28 @@ export const MainSearchFilter: React.FC<MainSearchFilterProps> = ({
     setFirstPick('');
   };
 
+  const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setSearchTerm(e.target.value);
+  };
+
+  const handleClearSearch = () => {
+    setSearchTerm('');
+  };
+
   return (
     <div className="search-section">
       <div className="search-bar-wrapper">
         <div className="search-input-box">
           <span className="search-icon">🔍</span>
-          <input type="text" placeholder="검색어를 입력하세요" />
-          <button className="clear-btn">✕</button>
+          <input 
+            onChange={handleSearchChange} 
+            value={searchTerm} 
+            type="text" 
+            placeholder="검색어를 입력하세요" 
+          />
+          {searchTerm && (
+            <button className="clear-btn" onClick={handleClearSearch}>✕</button>
+          )}
         </div>
         
         <button 

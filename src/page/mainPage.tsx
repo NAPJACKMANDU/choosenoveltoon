@@ -6,6 +6,7 @@ import { useFilterHook } from '../hook/filterHook';
 export const MainHPage = () => {
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
   const [selectedCategory, setSelectedCategory] = useState<'all' | 'webtoon' | 'novel'>('all');
+  const [searchTerm, setSearchTerm] = useState<string>('');
   const [currentPage, setCurrentPage] = useState<number>(1);
   const [sortOption, setSortOption] = useState<'latest' | 'oldest' | 'likes' | 'views'>('latest');
 
@@ -46,14 +47,25 @@ export const MainHPage = () => {
     }
   };
 
+  // 카테고리 + 검색어 통합 필터링
   const categoryFilteredPosts = filteredPosts.filter((post) => {
-    if (selectedCategory === 'all') return true;
-    return post.category === selectedCategory;
+    // 1. 카테고리 조건
+    const matchesCategory = selectedCategory === 'all' || post.category === selectedCategory;
+
+    // 2. 검색어 조건 (제목, 작가, CP명 중 하나라도 포함되는지)
+    const query = searchTerm.trim().toLowerCase();
+    const matchesSearch = !query || (
+      post.title?.toLowerCase().includes(query) ||
+      post.author?.toLowerCase().includes(query) ||
+      post.cpName?.some((cp) => cp.toLowerCase().includes(query))
+    );
+
+    return matchesCategory && matchesSearch;
   });
 
   useEffect(() => {
     setCurrentPage(1);
-  }, [selectedTags, selectedCategory]);
+  }, [selectedTags, selectedCategory, searchTerm]);
 
   const getPostDate = (date: string): number => {
     const koreanDate = date.match(/^(\d{4})\D+(\d{1,2})\D+(\d{1,2})/);
@@ -124,6 +136,8 @@ export const MainHPage = () => {
       <MainSearchFilter 
         selectedTags={selectedTags} 
         setSelectedTags={setSelectedTags} 
+        searchTerm={searchTerm}
+        setSearchTerm={setSearchTerm}
       />
 
       <nav className="category-tabs">
@@ -271,22 +285,22 @@ export const MainHPage = () => {
         onClick={handleScrollTo}
         aria-label={scrollDirection === 'top' ? '맨 위로 이동' : '맨 아래로 이동'}
       >
-       <svg 
-        width="18" 
-        height="18" 
-        viewBox="0 0 24 24" 
-        fill="none" 
-        stroke="currentColor" 
-        strokeWidth="2.5" 
-        strokeLinecap="round" 
-        strokeLinejoin="round"
-      >
-        {scrollDirection === 'top' ? (
-          <path d="M18 15l-6-6-6 6" /> 
-        ) : (
-          <path d="M6 9l6 6 6-6" />  
-        )}
-      </svg>
+        <svg 
+          width="18" 
+          height="18" 
+          viewBox="0 0 24 24" 
+          fill="none" 
+          stroke="currentColor" 
+          strokeWidth="2.5" 
+          strokeLinecap="round" 
+          strokeLinejoin="round"
+        >
+          {scrollDirection === 'top' ? (
+            <path d="M18 15l-6-6-6 6" /> 
+          ) : (
+            <path d="M6 9l6 6 6-6" />  
+          )}
+        </svg>
       </button>
     </div>
   );
