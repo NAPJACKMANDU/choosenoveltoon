@@ -1,0 +1,118 @@
+/* 기본 (라이트 모드) 색상 변수 정의 */
+:root {
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --bg-card: #ffffff;
+  --text-primary: #212529;
+  --text-secondary: #6c757d;
+  --border-color: rgba(0, 0, 0, 0.08);
+  --shadow-color: rgba(0, 0, 0, 0.08);
+  --input-bg: #f1f3f5;
+  --chip-bg: #e9ecef;
+  --chip-text: #495057;
+  --tag-bg: #f1f3f5;
+  --tag-text: #495057;
+  --btn-bg: rgba(255, 255, 255, 0.9);
+  --btn-text: #333333;
+  --tab-active-bg: #333333;
+  --tab-active-text: #ffffff;
+}
+
+/* 다크 모드 스타일 클래스 */
+.dark-mode {
+  --bg-primary: #121212;
+  --bg-secondary: #1e1e1e;
+  --bg-card: #1e1e1e;
+  --text-primary: #f1f3f5;
+  --text-secondary: #a0a0a0;
+  --border-color: rgba(255, 255, 255, 0.12);
+  --shadow-color: rgba(0, 0, 0, 0.5);
+  --input-bg: #2c2c2c;
+  --chip-bg: #2c2c2c;
+  --chip-text: #d0d0d0;
+  --tag-bg: #2c2c2c;
+  --tag-text: #e0e0e0;
+  --btn-bg: rgba(30, 30, 30, 0.9);
+  --btn-text: #f1f3f5;
+  --tab-active-bg: #ffffff;
+  --tab-active-text: #121212;
+}
+
+/* 전체 배경 및 기본 글자색 적용 */
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.mobile-container {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+.post-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  box-shadow: 0 2px 8px var(--shadow-color);
+  color: var(--text-primary);
+}
+
+.title, .nickname, .preview-text {
+  color: var(--text-primary);
+}
+
+.search-input-box {
+  background-color: var(--input-bg);
+}
+
+.search-input-box input {
+  color: var(--text-primary);
+  background: transparent;
+}
+
+.sort-select {
+  background-color: var(--bg-card);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+}
+
+.tag-chip {
+  background-color: var(--chip-bg);
+  color: var(--chip-text);
+}
+
+.tag {
+  background-color: var(--tag-bg);
+  color: var(--tag-text);
+}
+
+/* 플로팅 다크모드/스크롤 버튼 공통 스타일 */
+.floating-btn-group {
+  position: fixed;
+  bottom: 24px;
+  right: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  z-index: 999;
+}
+
+.floating-btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background-color: var(--btn-bg);
+  color: var(--btn-text);
+  border: 1px solid var(--border-color);
+  backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 14px var(--shadow-color);
+  transition: all 0.2s ease-in-out;
+}
+
+.floating-btn:active {
+  transform: scale(0.92);
+}

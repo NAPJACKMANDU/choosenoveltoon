@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import "../css/mainPage.css";
 import MainSearchFilter from './mainSearchFilter';
 import { useFilterHook } from '../hook/filterHook';
+import "../css/darkmode.css"
 
 export const MainHPage = () => {
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
@@ -10,6 +11,11 @@ export const MainHPage = () => {
   const [currentPage, setCurrentPage] = useState<number>(1);
   const [sortOption, setSortOption] = useState<'latest' | 'oldest' | 'likes' | 'views'>('latest');
 
+  // 다크 모드 상태 (기존 설정 불러오기)
+  const [isDarkMode, setIsDarkMode] = useState<boolean>(() => {
+    return localStorage.getItem('theme') === 'dark';
+  });
+
   // 스크롤 방향 상태 ('top': 위로 이동 / 'bottom': 아래로 이동)
   const [scrollDirection, setScrollDirection] = useState<'top' | 'bottom'>('bottom');
 
@@ -17,6 +23,22 @@ export const MainHPage = () => {
   const PAGE_BLOCK_SIZE = 5;
 
   const filteredPosts = useFilterHook(selectedTags);
+
+  // 다크모드 변경 시 body 클래스 및 localStorage 반영
+  useEffect(() => {
+    if (isDarkMode) {
+      document.body.classList.add('dark-mode');
+      localStorage.setItem('theme', 'dark');
+    } else {
+      document.body.classList.remove('dark-mode');
+      localStorage.setItem('theme', 'light');
+    }
+  }, [isDarkMode]);
+
+  // 다크모드 토글 핸들러
+  const toggleDarkMode = () => {
+    setIsDarkMode((prev) => !prev);
+  };
 
   // 스크롤 위치 감지 (300px 기준으로 버튼 방향 전환)
   useEffect(() => {
@@ -49,10 +71,8 @@ export const MainHPage = () => {
 
   // 카테고리 + 검색어 통합 필터링
   const categoryFilteredPosts = filteredPosts.filter((post) => {
-    // 1. 카테고리 조건
     const matchesCategory = selectedCategory === 'all' || post.category === selectedCategory;
 
-    // 2. 검색어 조건 (제목, 작가, CP명 중 하나라도 포함되는지)
     const query = searchTerm.trim().toLowerCase();
     const matchesSearch = !query || (
       post.title?.toLowerCase().includes(query) ||
@@ -112,7 +132,7 @@ export const MainHPage = () => {
   const handlePageChange = (page: number) => {
     setCurrentPage(page);
     window.scrollTo({
-      top: document.body.scrollHeight,
+      top: 0,
       behavior: 'smooth'
     });
   };
@@ -183,7 +203,7 @@ export const MainHPage = () => {
       </div>
 
       {selectedTags.length > 0 && (
-        <div style={{ padding: '0 16px', fontSize: '12px', color: '#666' }}>
+        <div style={{ padding: '0 16px', fontSize: '12px', color: 'var(--text-secondary)' }}>
           선택된 필터: {selectedTags.map(tag => `#${tag}`).join(', ')}
         </div>
       )}
@@ -279,29 +299,39 @@ export const MainHPage = () => {
         </div>
       )}
 
-      {/* 스크롤 위치에 따라 ▲ / ▼ 토글되는 플로팅 버튼 */}
-      <button 
-        className="scroll-top-btn" 
-        onClick={handleScrollTo}
-        aria-label={scrollDirection === 'top' ? '맨 위로 이동' : '맨 아래로 이동'}
-      >
-        <svg 
-          width="18" 
-          height="18" 
-          viewBox="0 0 24 24" 
-          fill="none" 
-          stroke="currentColor" 
-          strokeWidth="2.5" 
-          strokeLinecap="round" 
-          strokeLinejoin="round"
+      {/* 우측 하단 플로팅 버튼 그룹 (다크모드 토글 + 스크롤) */}
+      <div className="floating-btn-group">
+        <button 
+          className="floating-btn" 
+          onClick={toggleDarkMode}
+          aria-label="다크 모드 토글"
         >
-          {scrollDirection === 'top' ? (
-            <path d="M18 15l-6-6-6 6" /> 
-          ) : (
-            <path d="M6 9l6 6 6-6" />  
-          )}
-        </svg>
-      </button>
+          {isDarkMode ? '☀️' : '🌙'}
+        </button>
+
+        <button 
+          className="floating-btn" 
+          onClick={handleScrollTo}
+          aria-label={scrollDirection === 'top' ? '맨 위로 이동' : '맨 아래로 이동'}
+        >
+          <svg 
+            width="18" 
+            height="18" 
+            viewBox="0 0 24 24" 
+            fill="none" 
+            stroke="currentColor" 
+            strokeWidth="2.5" 
+            strokeLinecap="round" 
+            strokeLinejoin="round"
+          >
+            {scrollDirection === 'top' ? (
+              <path d="M18 15l-6-6-6 6" /> 
+            ) : (
+              <path d="M6 9l6 6 6-6" />  
+            )}
+          </svg>
+        </button>
+      </div>
     </div>
   );
 };

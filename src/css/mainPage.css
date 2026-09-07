@@ -1,3 +1,65 @@
+/* ==========================================
+   0. 테마 변수 정의 (라이트 / 다크)
+========================================== */
+:root {
+  --bg-body: #f2f2f7;
+  --bg-container: #ffffff;
+  --bg-card: #ffffff;
+  --bg-input: #f2f2f7;
+  --bg-sub: #f9f9fb;
+  --bg-btn: #f2f2f7;
+  --bg-btn-hover: #e5e5ea;
+  --bg-scroll: #dfdede;
+  
+  --text-main: #1c1c1e;
+  --text-sub: #5e5e5f;
+  --text-muted: #8e8e93;
+  --text-preview: #353434;
+  --text-chip: #3a3a3c;
+  --text-action: #636366;
+  --text-scroll: #000000;
+
+  --border-color: #f0f0f0;
+  --border-divider: #e5e5ea;
+  --border-chip: #e5e5ea;
+
+  --point-color: #f4a460;
+  --point-hover: #e09350;
+  --point-blue: #4a90e2;
+  --adult-bg: #fff0ed;
+  --adult-text: #ff9500;
+  
+  --shadow-scroll: rgba(0, 0, 0, 0.2);
+}
+
+body.dark-mode {
+  --bg-body: #121212;
+  --bg-container: #1e1e1e;
+  --bg-card: #1e1e1e;
+  --bg-input: #2a2a2c;
+  --bg-sub: #252528;
+  --bg-btn: #2c2c2e;
+  --bg-btn-hover: #3a3a3c;
+  --bg-scroll: #3a3a3c;
+
+  --text-main: #f2f2f7;
+  --text-sub: #aeaeb2;
+  --text-muted: #8e8e93;
+  --text-preview: #d1d1d6;
+  --text-chip: #e5e5ea;
+  --text-action: #98989d;
+  --text-scroll: #ffffff;
+
+  --border-color: #2c2c2e;
+  --border-divider: #2c2c2e;
+  --border-chip: #3a3a3c;
+
+  --adult-bg: #3a1d1d;
+  --adult-text: #ff9500;
+
+  --shadow-scroll: rgba(0, 0, 0, 0.6);
+}
+
 /* 1. 기본 리셋 및 모바일 컨테이너 */
 * {
   box-sizing: border-box;
@@ -7,24 +69,26 @@
 }
 
 body {
-  background-color: #f2f2f7;
+  background-color: var(--bg-body);
   display: flex;
   justify-content: center;
+  transition: background-color 0.2s ease, color 0.2s ease;
 }
 
 .mobile-container {
   width: 100%;
   max-width: 100%; /* 모바일 Viewport 기준 */
-  background-color: #ffffff;
+  background-color: var(--bg-container);
   min-height: 100vh;
+  transition: background-color 0.2s ease;
 }
 
 /* 2. 상단 검색 영역 */
 .search-section {
   width: 100%;
-  background-color: #ffffff;
+  background-color: var(--bg-container);
   padding: 12px 16px;
-  border-bottom: 1px solid #f0f0f0;
+  border-bottom: 1px solid var(--border-color);
 }
 
 .search-bar-wrapper {
@@ -37,14 +101,14 @@ body {
   flex: 1;
   display: flex;
   align-items: center;
-  background-color: #f2f2f7;
+  background-color: var(--bg-input);
   border-radius: 20px;
   padding: 8px 12px;
 }
 
 .search-icon {
   font-size: 14px;
-  color: #8e8e93;
+  color: var(--text-muted);
 }
 
 .search-input-box input {
@@ -54,12 +118,12 @@ body {
   margin: 0 8px;
   outline: none;
   font-size: 14px;
-  color: black;
+  color: var(--text-main);
 }
 
 .clear-btn {
   border: none;
-  background: #c7c7cc;
+  background: var(--text-muted);
   color: #ffffff;
   border-radius: 50%;
   width: 20px;
@@ -73,7 +137,7 @@ body {
 
 /* 필터 아이콘 버튼 */
 .filter-toggle-btn {
-  background: #f2f2f7;
+  background: var(--bg-btn);
   border: none;
   width: 36px;
   height: 36px;
@@ -81,13 +145,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #666666;
+  color: var(--text-action);
   cursor: pointer;
   transition: all 0.2s ease;
 }
 
 .filter-toggle-btn.active {
-  background-color: #f4a460;
+  background-color: var(--point-color);
   color: #ffffff;
 }
 
@@ -95,7 +159,7 @@ body {
 .tag-filter-container {
   margin-top: 12px;
   padding: 12px;
-  background-color: #f9f9fb;
+  background-color: var(--bg-sub);
   border-radius: 12px;
   animation: fadeIn 0.2s ease-in-out;
 }
@@ -105,7 +169,7 @@ body {
   justify-content: space-between;
   align-items: center;
   font-size: 12px;
-  color: #8e8e93;
+  color: var(--text-muted);
   margin-bottom: 8px;
   font-weight: 600;
 }
@@ -113,7 +177,7 @@ body {
 .reset-btn {
   background: none;
   border: none;
-  color: #f4a460;
+  color: var(--point-color);
   font-size: 11px;
   cursor: pointer;
 }
@@ -127,25 +191,25 @@ body {
 .tag-chip {
   padding: 5px 10px;
   border-radius: 14px;
-  border: 1px solid #e5e5ea;
-  background-color: #ffffff;
+  border: 1px solid var(--border-chip);
+  background-color: var(--bg-card);
   font-size: 12px;
-  color: #3a3a3c;
+  color: var(--text-chip);
   cursor: pointer;
   transition: all 0.15s ease;
 }
 
 .tag-chip.selected {
-  background-color: #f4a460;
+  background-color: var(--point-color);
   color: #ffffff;
-  border-color: #f4a460;
+  border-color: var(--point-color);
   font-weight: 600;
 }
 
 /* 4. 카테고리 탭 바 */
 .category-tabs {
   display: flex;
-  border-bottom: 1px solid #e5e5ea;
+  border-bottom: 1px solid var(--border-divider);
   overflow-x: auto;
   white-space: nowrap;
 }
@@ -156,13 +220,13 @@ body {
   background: none;
   border: none;
   font-size: 14px;
-  color: #8e8e93;
+  color: var(--text-muted);
   cursor: pointer;
   position: relative;
 }
 
 .tab.active {
-  color: #1c1c1e;
+  color: var(--text-main);
   font-weight: 700;
 }
 
@@ -174,21 +238,21 @@ body {
   transform: translateX(-50%);
   width: 80%;
   height: 2px;
-  background-color: #1c1c1e;
+  background-color: var(--text-main);
 }
 
 /* 5. 검색 결과 수 */
 .search-result-count {
   padding: 16px;
   font-size: 13px;
-  color: #1c1c1e;
+  color: var(--text-main);
   font-weight: 700;
 }
 
 /* 6. 포스트 카드 */
 .post-card {
   padding: 0 16px 16px 16px;
-  border-bottom: 8px solid #f2f2f7;
+  border-bottom: 8px solid var(--bg-body);
 }
 
 .author-header {
@@ -218,21 +282,21 @@ body {
 
 .nickname {
   font-size: 12px;
-  color: #5e5e5f;
+  color: var(--text-sub);
 }
-
 
 .title {
   font-size: 15px;
   font-weight: 700;
   line-height: 1.4;
-  margin-bottom: 6px 0 6px 0;
+  margin-bottom: 6px;
+  color: var(--text-main);
 }
 
 .preview-text {
   font-size: 13px;
   line-height: 1.5;
-  color: #353434;
+  color: var(--text-preview);
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
@@ -249,19 +313,19 @@ body {
 .tag {
   font-size: 11px;
   padding: 1px 10px;
-  background-color: #f2f2f7;
-  color: #8e8e93;
+  background-color: var(--bg-input);
+  color: var(--text-muted);
   border-radius: 4px;
 }
 
 .tag-adult {
-  background-color: #fff0ed;
-  color: #ff9500;
+  background-color: var(--adult-bg);
+  color: var(--adult-text);
 }
 
 .views {
   font-size: 12px;
-  color: #8e8e93;
+  color: var(--text-muted);
 }
 
 /* 하단 상호작용 바 */
@@ -276,7 +340,7 @@ body {
   background: none;
   border: none;
   font-size: 13px;
-  color: #636366;
+  color: var(--text-action);
   cursor: pointer;
   text-decoration: none;
   display: inline-flex;
@@ -293,14 +357,14 @@ body {
   font-size: 12px;
   font-weight: 600;
   color: #ffffff;
-  background-color: #f4a460;
+  background-color: var(--point-color);
   padding: 6px 12px;
   border-radius: 6px;
   transition: background-color 0.2s ease;
 }
 
 .postype-link-btn:hover {
-  background-color: #e09350;
+  background-color: var(--point-hover);
   text-decoration: none;
 }
 
@@ -324,9 +388,9 @@ body {
 
 /* 첫 번째 선택(왼) 상태 스타일 */
 .tag-chip.selected-first {
-  background-color: #f4a460;
+  background-color: var(--point-color);
   color: #ffffff;
-  border-color: #f4a460;
+  border-color: var(--point-color);
   font-weight: 700;
   transform: scale(1.05);
 }
@@ -335,12 +399,12 @@ body {
 .selected-tags-display {
   margin-top: 12px;
   padding-top: 10px;
-  border-top: 1px dashed #e5e5ea;
+  border-top: 1px dashed var(--border-divider);
 }
 
 .selected-title {
   font-size: 11px;
-  color: #8e8e93;
+  color: var(--text-muted);
   display: block;
   margin-bottom: 6px;
 }
@@ -355,7 +419,7 @@ body {
   display: inline-flex;
   align-items: center;
   gap: 4px;
-  background-color: #f4a460;
+  background-color: var(--point-color);
   color: #ffffff;
   font-size: 12px;
   font-weight: 600;
@@ -390,9 +454,9 @@ body {
   min-width: 32px;
   height: 32px;
   padding: 0 4px;
-  border: 1px solid #e5e5ea;
-  background-color: #ffffff;
-  color: #333333;
+  border: 1px solid var(--border-divider);
+  background-color: var(--bg-card);
+  color: var(--text-main);
   border-radius: 6px;
   font-size: 12px;
   display: flex;
@@ -404,9 +468,9 @@ body {
 }
 
 .page-number-btn.active {
-  background-color: #4a90e2;
+  background-color: var(--point-blue);
   color: #ffffff;
-  border-color: #4a90e2;
+  border-color: var(--point-blue);
   font-weight: 600;
 }
 
@@ -417,7 +481,7 @@ body {
 
 .page-number-btn:hover:not(.active),
 .page-nav-btn:hover:not(:disabled) {
-  background-color: #f2f2f7;
+  background-color: var(--bg-btn-hover);
 }
 
 /* 검색 결과 및 정렬 영역 상위 바 */
@@ -430,7 +494,7 @@ body {
 
 .search-result-count {
   font-size: 13px;
-  color: #1c1c1e;
+  color: var(--text-main);
   font-weight: 700;
   padding: 0; /* 상위 영역 패딩으로 대체 */
 }
@@ -446,38 +510,78 @@ body {
   background: transparent;
   font-size: 12px;
   font-weight: 600;
-  color: #636366;
+  color: var(--text-action);
   outline: none;
   cursor: pointer;
   padding: 2px 4px;
 }
 
-.sort-select:hover {
-  color: #1c1c1e;
+.sort-select option {
+  background-color: var(--bg-card);
+  color: var(--text-main);
 }
 
-.scroll-top-btn {
+.sort-select:hover {
+  color: var(--text-main);
+}
+
+/* 플로팅 버튼 그룹 및 개별 버튼 스타일 */
+.floating-btn-group {
   position: fixed;
-  bottom: 50px;
+  bottom: 24px;
   right: 20px;
-  width: 30px;
-  height: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  z-index: 999;
+}
+
+.floating-btn {
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
-  background-color: #dfdede;
-  color: #000000;
+  background-color: var(--bg-scroll);
+  color: var(--text-scroll);
   border: none;
   font-size: 16px;
   display: flex;
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 10px var(--shadow-scroll);
+  transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out, background-color 0.2s ease;
+}
+
+.floating-btn:hover {
+  transform: translateY(-2px);
+}
+
+.floating-btn:active {
+  transform: translateY(0);
+}
+
+/* 기존 단일 스크롤 버튼 하위 호환 클래스 */
+.scroll-top-btn {
+  position: fixed;
+  bottom: 50px;
+  right: 20px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: var(--bg-scroll);
+  color: var(--text-scroll);
+  border: none;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 10px var(--shadow-scroll);
   z-index: 999;
-  transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+  transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out, background-color 0.2s ease;
 }
 
 .scroll-top-btn:hover {
-  background-color: #dfdede;
   transform: translateY(-2px);
 }
 
