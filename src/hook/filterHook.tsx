@@ -39,7 +39,8 @@ export const useFilterHook = (filterTag: string[]) => {
   useEffect(() => {
 
     const notKey = [
-      "돌숑", "석숑", "또숑", "석톤", "은톤", "히톤"  
+      "돌숑", "석숑", "또숑", "석톤", "은톤", "히톤", "숕돌", "숕은",
+      "숕히", "톤은", "톤돌", "톤히"
     ]
 
     
