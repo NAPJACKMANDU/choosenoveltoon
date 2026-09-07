@@ -615,7 +615,7 @@ export const shoShongData = [
         "url": "https://www.postype.com/@samill2/post/22931947",
         "title": "뺏고, 뺏는 上",
         "author": "이일삼",
-        "date": "2026. 09. 03",
+        "date": "2026. 9. 3.",
         "is_adult": "True",
         views: 108,
         price: 300,

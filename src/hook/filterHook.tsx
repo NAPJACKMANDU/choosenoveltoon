@@ -10,20 +10,20 @@ import { dolShongData } from '../component/shongRight/dolshong';
 import { binShongData } from '../component/shongRight/binshong';
 import { heeShongData } from '../component/shongRight/heeshong';
 import { tonShongData } from '../component/shongRight/tonshong';
+import { binDolData } from '../component/dolRight/bindol';
+import { shongDolData } from '../component/dolRight/shongdol';
 
 export const useFilterHook = (filterTag: string[]) => {
   const [filteredPosts, setFilteredPosts] = useState<novelToonData[]>([]);
 
   const handlers: Record<string, novelToonData[]> = {
-    "숕톤": taroTonData,
-    "돌톤": dolTonData,
-    "석톤": dolTonData,
-    "은톤": dolTonData,
-    "숑톤": shongTonData,
-    "넨톤": binTonData,
-    "또톤": heeTonData,
-    "히톤": heeTonData,
-    "톤른": [...taroTonData, ...shongTonData, ...binTonData, ...dolTonData, ...heeTonData],
+
+    "넨석" : binDolData,
+    "넨은" : binDolData,
+    "넨돌" : binDolData,
+    "숑석" : shongDolData,
+    "숑은" : shongDolData,
+    "숑돌" : shongDolData,
 
     "숕숑": shoShongData,
     "돌숑": dolShongData,
@@ -33,14 +33,24 @@ export const useFilterHook = (filterTag: string[]) => {
     "또숑": heeShongData,
     "히숑": heeShongData,
     "톤숑": tonShongData,
-    "숑른": [...shoShongData, ...dolShongData, ...binShongData, ...heeShongData, ...tonShongData]
+    "숑른": [...shoShongData, ...dolShongData, ...binShongData, ...heeShongData, ...tonShongData],
+
+    "숕톤": taroTonData,
+    "돌톤": dolTonData,
+    "석톤": dolTonData,
+    "은톤": dolTonData,
+    "숑톤": shongTonData,
+    "넨톤": binTonData,
+    "또톤": heeTonData,
+    "히톤": heeTonData,
+    "톤른": [...taroTonData, ...shongTonData, ...binTonData, ...dolTonData, ...heeTonData]
   };
 
   useEffect(() => {
 
     const notKey = [
       "돌숑", "석숑", "또숑", "석톤", "은톤", "히톤", "숕돌", "숕은",
-      "숕히", "톤은", "톤돌", "톤히"
+      "숕히", "톤은", "톤돌", "톤히", "넨은", "넨돌", "숑은", "숑돌"
     ]
 
     

@@ -2979,7 +2979,7 @@ export const dolShongData = [
         "url": "https://www.postype.com/@midsummer-23/post/23005586",
         "title": "태산이 높다하되2",
         "author": "한여름",
-        "date": "2026. 08. 29.",
+        "date": "2026. 8. 29..",
         "is_adult": "True",
         views: 102,
         price: 0,
