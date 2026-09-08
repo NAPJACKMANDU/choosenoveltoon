@@ -1,4 +1,4 @@
-[
+export const shoHeeData = [
     {
         "url": "https://www.postype.com/@ddoinmanggo/post/18711865",
         "title": "범인은 누구",
@@ -117,7 +117,7 @@
         price: 0,
         likes: 117,
         "category": "webtoon",
-        "summary": "만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@kwaikiawk2/post/22136451",
@@ -153,7 +153,7 @@
         price: 0,
         likes: 108,
         "category": "webtoon",
-        "summary": "만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@dawndo/post/20160213",
@@ -165,7 +165,7 @@
         price: 0,
         likes: 101,
         "category": "webtoon",
-        "summary": "후원XX 순서는 마음가는대로.. 만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "후원XX 순서는 마음가는대로.. "
     },
     {
         "url": "https://www.postype.com/@duchangsiksbinhee/post/17416195",
@@ -189,7 +189,7 @@
         price: 0,
         likes: 92,
         "category": "webtoon",
-        "summary": "만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@dawndo/post/20386178",
@@ -201,7 +201,7 @@
         price: 0,
         likes: 86,
         "category": "webtoon",
-        "summary": "후원XX 소히위주.. 어디까지 올린지 헷갈려서 중복 있을 수도 만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "후원XX 소히위주.. 어디까지 올린지 헷갈려서 중복 있을 수도 "
     },
     {
         "url": "https://www.postype.com/@dawndo/post/19643480",
@@ -213,7 +213,7 @@
         price: 0,
         likes: 81,
         "category": "webtoon",
-        "summary": "만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@white-brain2/post/21898903",
@@ -240,18 +240,6 @@
         "summary": "소희야. 네. 내기 함 할래. 웬 내기. 눈깔을 치뜨고 봐도 소희와 원빈 사이 굴러다니는 후레시 병이 넷은 넘어가는데 이제 와서? 더 마시면 꼭 네발로 기어 귀가할 요량이다. 소희..."
     },
     {
-        "url": "https://www.postype.com/@sammuntarot/post/17176083",
-        "title": "톤넨 숑석 숕또 연애 타로",
-        "author": "삼문",
-        "date": "2024. 7. 17.",
-        "is_adult": "False",
-        views: 1900,
-        price: 0,
-        likes: 71,
-        "category": "novel",
-        "summary": "*과몰입 금지 및 태클 금지 1. 세 커플 각자 연애 방식/무드가 어떻게 다른지 [숑석] 이 커플은 유대감은 있으나 서로의 눈치를 많이 보는 편입니다. 로맨틱한 분위기를 만들고 싶..."
-    },
-    {
         "url": "https://www.postype.com/@white-brain2/post/21918021",
         "title": "운명공동체 2",
         "author": "WHITE",
@@ -273,7 +261,7 @@
         price: 0,
         likes: 70,
         "category": "webtoon",
-        "summary": "만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@dawndo/post/19721893",
@@ -285,7 +273,7 @@
         price: 0,
         likes: 70,
         "category": "webtoon",
-        "summary": "만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@dawndo/post/20400846",
@@ -297,7 +285,7 @@
         price: 0,
         likes: 69,
         "category": "webtoon",
-        "summary": "후원XX 만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "후원XX "
     },
     {
         "url": "https://www.postype.com/@dawndo/post/19590579",
@@ -309,7 +297,7 @@
         price: 0,
         likes: 67,
         "category": "webtoon",
-        "summary": "불미스러운 이슈로 재발행... 투표는 꼭 하세여... 만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "불미스러운 이슈로 재발행... 투표는 꼭 하세여... "
     },
     {
         "url": "https://www.postype.com/@hururuk/post/16217980",
@@ -333,7 +321,7 @@
         price: 0,
         likes: 60,
         "category": "webtoon",
-        "summary": "만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@dawndo/post/19575334",
@@ -345,7 +333,7 @@
         price: 0,
         likes: 60,
         "category": "webtoon",
-        "summary": "만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@white-brain2/post/21979930",
@@ -369,7 +357,7 @@
         price: 0,
         likes: 59,
         "category": "webtoon",
-        "summary": "만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@white-brain2/post/22095351",
@@ -477,7 +465,7 @@
         price: 0,
         likes: 54,
         "category": "webtoon",
-        "summary": "만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@white-brain2/post/22249853",
@@ -490,30 +478,6 @@
         likes: 51,
         "category": "novel",
         "summary": "센티넬버스 가이드물이라 약하렘적이지만 주 커플링은 넨또 석또입니다. 연재 주기는 맘대로입니다. 놈은 소리를 지르고 나니 몸이 아파오는지 얼굴을 와락 구기곤 연신 씩씩 소리 내며 성..."
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/21739863",
-        "title": "라이즈 소희, 사주로 보는 앙케이트 분석 [고교편]",
-        "author": "규월",
-        "date": "2026. 2. 27.",
-        "is_adult": "False",
-        views: 1600,
-        price: 1300,
-        likes: 51,
-        "category": "webtoon",
-        "summary": "MD 속 앙케이트 차트 분석 원빈편 에 이어, 댓글로 바로 요청이 들어왔던 소희편 말아보자. 그간 여러번 말했지만 라이즈라는 그룹은 멤버들 각자의 사주팔자 키워드에 따른 언행이 유..."
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/19117531",
-        "title": "라이즈 소희X쇼타로, 사주로 보는 관계성",
-        "author": "규월",
-        "date": "2025. 3. 29.",
-        "is_adult": "False",
-        views: 2200,
-        price: 900,
-        likes: 50,
-        "category": "webtoon",
-        "summary": "라이즈에서 춤짱인 쇼타로랑 노래짱인 소희 이 능력충들의 관계성을 알아보쟈. 이 둘의 관계성에선 '눈치' 라는 단어가 핵심 키워드가 된다. 눈치가 없어서 눈치를 오지게 보는 놈 vs..."
     },
     {
         "url": "https://www.postype.com/@white-brain2/post/22344801",
@@ -550,18 +514,6 @@
         likes: 48,
         "category": "novel",
         "summary": "센티넬버스 가이드물이라 약하렘적이지만 주 커플링은 넨또 석또입니다. 연재 주기는 맘대로입니다. 텍스트 10,623 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@sammuntarot/post/17979002",
-        "title": "톤넨 숑석 숕또 연애 타로",
-        "author": "삼문",
-        "date": "2025. 1. 3.",
-        "is_adult": "False",
-        views: 1400,
-        price: 0,
-        likes: 48,
-        "category": "novel",
-        "summary": "*과몰입 금지 및 태클 금지 1. 연말에 둘이 하는 무대 같은 떡밥이 있는지 톤넨은 전에도 그랬는데 같이 할 수 있는 게 너무 많다고 나옵니다. 처음부터 두 사람이 같이 했으면 좋..."
     },
     {
         "url": "https://www.postype.com/@riizeontop/post/16806918",
@@ -681,7 +633,7 @@
         price: 0,
         likes: 41,
         "category": "webtoon",
-        "summary": "후원XXX 소히위주 잡식모음 순서랜덤 만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "후원XXX 소히위주 잡식모음 순서랜덤 "
     },
     {
         "url": "https://www.postype.com/@dawndo/post/22418306",
@@ -693,7 +645,7 @@
         price: 0,
         likes: 40,
         "category": "webtoon",
-        "summary": "후원Xxx 소히위주 이것저것.. 순서대로 아님요 만동 만동 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "후원Xxx 소히위주 이것저것.. 순서대로 아님요 "
     },
     {
         "url": "https://www.postype.com/@dud1hee/post/16652502",
@@ -717,7 +669,7 @@
         price: 0,
         likes: 32,
         "category": "webtoon",
-        "summary": "aka... aka... 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@shoddoricake/post/16679895",
@@ -741,7 +693,7 @@
         price: 0,
         likes: 30,
         "category": "webtoon",
-        "summary": "내가 인기 있어서 어쩌자는 거야 (원작: JUNKO) 린자 린자 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "내가 인기 있어서 어쩌자는 거야 (원작: JUNKO)"
     },
     {
         "url": "https://www.postype.com/@pibisi/post/21189769",
@@ -1029,7 +981,7 @@
         price: 0,
         likes: 10,
         "category": "webtoon",
-        "summary": "백업 💨💨 🍭🍬 금발 투스잼 X 흑발 교정기 시토 시토네 아지트 시토 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "백업 💨💨 🍭🍬 금발 투스잼 X 흑발 교정기"
     },
     {
         "url": "https://www.postype.com/@chichiiii/post/20195312",
@@ -1090,29 +1042,5 @@
         likes: 4,
         "category": "novel",
         "summary": ". . . 쓱싹쓱싹 청소하는 뒷모습이 보인다. 언뜻봐도 똘망하게생겼지만 어딘가 모르게 오리를 닮은 소년이다. 딸랑- 네에~ 어서오세요! 쇼탐정 사무소입니다! 엇 탐정님! 쇼탐..."
-    },
-    {
-        "url": "https://www.postype.com/@riizessoo/post/20273324",
-        "title": "박원빈 이소희, 화해 후 인스타 개설!",
-        "author": "귤락",
-        "date": "2025. 8. 23.",
-        "is_adult": "False",
-        views: 528,
-        price: 0,
-        likes: 1,
-        "category": "novel",
-        "summary": "박원빈 @biiinii.02 이소희 @arqtdft (위 계정은 실제로 제가 운영하는 계정으로 포스타입 글도 위의 계정을 중심으로 적을 예정입니다. 많은 관심 부탁드립니다.) 귤락..."
-    },
-    {
-        "url": "https://www.postype.com/@kwewkwew9/post/21967410",
-        "title": "ㄹㅇㅈ 사주궁합",
-        "author": "꽥꽥도령",
-        "date": "2026. 3. 30.",
-        "is_adult": "False",
-        views: 111,
-        price: 1000,
-        likes: 0,
-        "category": "novel",
-        "summary": "소희 사주분석 / 또른 궁합분석 / 최고궁합 / 최악궁합 / 연애궁합 / 사주팔자 / 숕또 / 숑또 / 석또 / 넨또 / 톤또 / 라이즈 텍스트 4,630 자 공백 제외"
     }
 ]

@@ -1,4 +1,4 @@
-[
+export const dolShoData = [
     {
         "url": "https://www.postype.com/@25lovu/post/15819465",
         "title": "아마도 바른 생활 사나이 송군",
@@ -105,7 +105,7 @@
         price: 0,
         likes: 185,
         "category": "webtoon",
-        "summary": "woozoo woozoo 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@youandmememories/post/15850929",
@@ -261,7 +261,7 @@
         price: 0,
         likes: 146,
         "category": "webtoon",
-        "summary": "헤어진지 2주째 눅 눅 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@loveach0ther/post/16665165",
@@ -333,7 +333,7 @@
         price: 0,
         likes: 135,
         "category": "webtoon",
-        "summary": "woozoo woozoo 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@bakubakuds/post/21871895",
@@ -513,7 +513,7 @@
         price: 0,
         likes: 116,
         "category": "webtoon",
-        "summary": "마지막은 살짝 뒤조심 Busan 안경굴절 귀여워 무드등 귀여워 눅 눅 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "마지막은 살짝 뒤조심 Busan 안경굴절 귀여워 무드등 귀여워"
     },
     {
         "url": "https://www.postype.com/@bakubakuds/post/19626668",
@@ -597,7 +597,7 @@
         price: 0,
         likes: 110,
         "category": "webtoon",
-        "summary": "+ woozoo woozoo 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@otatogo/post/18740966",
@@ -705,7 +705,7 @@
         price: 0,
         likes: 102,
         "category": "webtoon",
-        "summary": "woozoo woozoo 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@sotjwo/post/16872607",
@@ -1041,7 +1041,7 @@
         price: 0,
         likes: 73,
         "category": "webtoon",
-        "summary": "woozoo woozoo 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@hosa904/post/16918069",
@@ -1089,7 +1089,7 @@
         price: 0,
         likes: 68,
         "category": "webtoon",
-        "summary": "woozoo woozoo 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@otatogo/post/19053417",
@@ -1284,18 +1284,6 @@
         "summary": "오랜 외사랑은 사람을 다소 처량하게 만드는 구석이 있다. 혼자 좋아하는 일은 상당히 에너지가 많이 든다. 서로 좋아서 한다는 연애도 물론 이것저것 소모적이긴 하겠지만, 짝사랑하는 ..."
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/19918689",
-        "title": "라이즈, 사주로 보는 은석이 쓰는 인물관계도",
-        "author": "규월",
-        "date": "2025. 7. 13.",
-        "is_adult": "False",
-        views: 4000,
-        price: 1300,
-        likes: 59,
-        "category": "webtoon",
-        "summary": "얼마 전, 공개된 라이즈 콘서트 MD 프리뷰 중 이런 게 떴다. '은석이 쓰는 인물관계도' 흠.. 전에 썼던 은석이에 대한 원빈이의 시선 글에서 은석이가 도대체 왜 멀쩡히 달릴 거..."
-    },
-    {
         "url": "https://www.postype.com/@matcha26/post/18593430",
         "title": "재에서 피는 것 01",
         "author": "떼마차",
@@ -1365,7 +1353,7 @@
         price: 0,
         likes: 57,
         "category": "webtoon",
-        "summary": "woozoo woozoo 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@amondbullhejju/post/17872759",
@@ -1414,18 +1402,6 @@
         likes: 55,
         "category": "webtoon",
         "summary": "오랜만이에요❣️ 그동안 그린 것들이 조금 쌓여서 같이 올려봅니다! 이번에는 전부 일본어로 되어 있어요… 읽기 불편하실 수도 있어서 죄송해요 (ᐡ •̥ ̫ •̥ ᐡ) 아직 추운 날씨..."
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/19755983",
-        "title": "라이즈, 사주로 보는 비행기 짝꿍의 진실",
-        "author": "규월",
-        "date": "2025. 6. 24.",
-        "is_adult": "False",
-        views: 3200,
-        price: 1300,
-        likes: 55,
-        "category": "novel",
-        "summary": "우리 굶주리다 못해 아사 직전인 숑넨러들이 무한 뇌절로 물핥빨하는 제 옆자린 항상 박원비니 라는 발언대로 라이즈는 대부분의 비행기를 쇼타로&은석 / 성찬&원빈 / 소희&앤톤 이..."
     },
     {
         "url": "https://www.postype.com/@multiuniverse/post/17855356",
@@ -1617,7 +1593,7 @@
         price: 0,
         likes: 48,
         "category": "webtoon",
-        "summary": "⚠️all日本語 모든 이야기는 서로 이어지지 않습니다〜 ⚠️3P 요소 있음 1 / 3 1 / 2 ⚠️여장 표현 있음 1 / 2 ⚠️비밀 연애 중인 집사🪨🦦+도련님🦌 1 / 2 오미..."
+        "summary": "⚠️all日本語 모든 이야기는 서로 이어지지 않습니다〜 ⚠️3P 요소 있음 ⚠️여장 표현 있음 ⚠️비밀 연애 중인 집사🪨🦦+도련님🦌"
     },
     {
         "url": "https://www.postype.com/@0mis0-shiruchan/post/20127155",
@@ -1629,7 +1605,7 @@
         price: 0,
         likes: 48,
         "category": "webtoon",
-        "summary": "항상 감사드려요(⁎˃ᴗ˂⁎) 1 / 3 없애려고 했는데 아까워서 한정 공개해요😅 （엄청 대충 그린 거라서요 ㅎㅎ） 텍스트 1 자 공백 제외 이미지 2 장"
+        "summary": "항상 감사드려요(⁎˃ᴗ˂⁎) 없애려고 했는데 아까워서 한정 공개해요😅 （엄청 대충 그린 거라서요 ㅎㅎ） 텍스트 1 자 공백 제외 이미지 2 장"
     },
     {
         "url": "https://www.postype.com/@he110btflppl/post/19928362",
@@ -1785,7 +1761,7 @@
         price: 0,
         likes: 44,
         "category": "webtoon",
-        "summary": "타로엉아랑 자기 최애 햄부기 먹을 생각에 잔뜩 신낫지만,, 혼자 눈물 젖은 햄부기 먹음,,,,, 쩜 숑이숕이 쩜 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "타로엉아랑 자기 최애 햄부기 먹을 생각에 잔뜩 신낫지만,, 혼자 눈물 젖은 햄부기 먹음,,,,, "
     },
     {
         "url": "https://www.postype.com/@rock-festival/post/17328183",
@@ -2001,7 +1977,7 @@
         price: 0,
         likes: 37,
         "category": "webtoon",
-        "summary": "넨숕 트레틀썼어용 1 / 4 뇨타숕른 트레틀썼습니당 1 / 2 스핀리퀘 넨숕/돌숕입니다~ 당분간 그림에 슬럼프가 좀 와서ㅠㅠ 괜찮아지면 그림을 다시 그릴 것 같아요... 한동안은 ..."
+        "summary": "넨숕 트레틀썼어용 뇨타숕른 트레틀썼습니당 스핀리퀘 넨숕/돌숕입니다~ 당분간 그림에 슬럼프가 좀 와서ㅠㅠ 괜찮아지면 그림을 다시 그릴 것 같아요... 한동안은 ..."
     },
     {
         "url": "https://www.postype.com/@color-blind/post/22758079",
@@ -2038,18 +2014,6 @@
         likes: 36,
         "category": "novel",
         "summary": "은석이 처음 이 영화를 보게 된 이유는 단순한 호기심이었다. 1년전 LP 진열대에서 영화의 포스터로 장식된 LP가 유독 눈에 들어왔다. 쨍한 파란색 배경이 눈에 띄었고, 유명 할리..."
-    },
-    {
-        "url": "https://www.postype.com/@shozip/post/18929146",
-        "title": "쇼타로에 대한 고찰",
-        "author": "나민",
-        "date": "2025. 3. 4.",
-        "is_adult": "False",
-        views: 1500,
-        price: 0,
-        likes: 35,
-        "category": "webtoon",
-        "summary": "1. 몸 키가 큰 편인데 체구가 큰 편은 아니고 봤을 때 전체적으로 살이 말랑할거같다 느낌이 있음. 딱딱하다가 아니라 탄탄하다 쪽으로 보임. 손목이나 발목 같은데 보면 말라서 살이..."
     },
     {
         "url": "https://www.postype.com/@hutonn/post/17431269",
@@ -2229,7 +2193,7 @@
         price: 0,
         likes: 32,
         "category": "webtoon",
-        "summary": "고고씽 1 / 3 1 검도부 돌숕 1 / 3 1 야선반인돌숕 1 / 3 1 / 5 만마석만두쇼 돌지고쿠쇼 밤구미 밤구미 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "고고씽검도부 돌숕야선반인돌숕 만마석만두쇼 돌지고쿠쇼"
     },
     {
         "url": "https://www.postype.com/@so-hyo/post/19583007",
@@ -2601,7 +2565,7 @@
         price: 0,
         likes: 27,
         "category": "webtoon",
-        "summary": "돌숕녀 트레 1 / 2 넨숕히 짭근 욕망가득 숕녀 낙서 지하돌 쇼코쨩 과 연하들 돌숕? 박사님과 섹스돌 츠숕 같이하실분 디엠 ㅂㅌ 여장공 넨숕 욕망분출 그림들... 앞으로 이런소재..."
+        "summary": "돌숕녀 트레 넨숕히 짭근 욕망가득 숕녀 낙서 지하돌 쇼코쨩 과 연하들 돌숕? 박사님과 섹스돌 츠숕 같이하실분 디엠 ㅂㅌ 여장공 넨숕 욕망분출 그림들... 앞으로 이런소재..."
     },
     {
         "url": "https://www.postype.com/@eillsam/post/22240018",
@@ -2744,8 +2708,8 @@
         views: 297,
         price: 0,
         likes: 25,
-        "category": "webtoon",
-        "summary": "약간 돌숕밥~~~ 뇨타있 돌숕녀 돌숕밥 1 / 5 1 / 4 찐따반장2 1 / 6 1 / 4 1 / 3 1 / 5 밤구미 밤구미 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "category": "novel",
+        "summary": "약간 돌숕밥~~~ 뇨타있 돌숕녀 돌숕밥 찐따반장2"
     },
     {
         "url": "https://www.postype.com/@multiuniverse/post/21145877",
@@ -2937,7 +2901,7 @@
         price: 100,
         likes: 24,
         "category": "webtoon",
-        "summary": "숑숕앤 형제삼각?관계 넨숕 넨숕 별 가지 싫어하는 숕과 가지가 된 톤 스포일러 넨숕 1 / 2 로판au 숕른 북부대공 넨, 대상단주 숑, 황태자 석, 정령 톤, 마법사 숕 1 / ..."
+        "summary": "숑숕앤 형제삼각?관계 넨숕 넨숕 별 가지 싫어하는 숕과 가지가 된 톤 스포일러 넨숕 로판au 숕른 북부대공 넨, 대상단주 숑, 황태자 석, 정령 톤, 마법사 숕."
     },
     {
         "url": "https://www.postype.com/@color-blind/post/23009593",
@@ -3477,7 +3441,7 @@
         price: 0,
         likes: 18,
         "category": "webtoon",
-        "summary": "1 / 2 크싸레 넨숕뇨백이 보고싶어서... 손가락 입에 넣기 죠시자세 숕형... 넷카마 버튜버 숕형과 그의 큰손들 돌,넨이라는 게 보고싶었어요 ㅋㅋ... 여러분의 숕녀는 빈유인가..."
+        "summary": "크싸레 넨숕뇨백이 보고싶어서... 손가락 입에 넣기 죠시자세 숕형... 넷카마 버튜버 숕형과 그의 큰손들 돌,넨이라는 게 보고싶었어요 ㅋㅋ... 여러분의 숕녀는 빈유인가..."
     },
     {
         "url": "https://www.postype.com/@multiuniverse/post/22938305",
@@ -3669,7 +3633,7 @@
         price: 0,
         likes: 16,
         "category": "webtoon",
-        "summary": "유후~~~ 순서가 지맘대로에요.. **돌숕넨 돌숕밥 있음 1 / 4 1 / 4 1 욕탕러브 1 / 4 1 돌숕밥 추석 결혼 1 / 2 1 물주물주 1 / 4 1 / 3 밤구미 밤구..."
+        "summary": "유후~~~ 순서가 지맘대로에요.. **돌숕넨 돌숕밥 있음 욕탕러브 돌숕밥 추석 결혼 물주물주 밤구미 밤구..."
     },
     {
         "url": "https://www.postype.com/@multiuniverse/post/20904632",
@@ -3873,7 +3837,7 @@
         price: 100,
         likes: 15,
         "category": "webtoon",
-        "summary": "1 / 2 생일그림들 로또즈 생일주간에 그렸습니당 넨숕 가챠37 넨숕 우리집고양이형아를좋아해 앤숕 데이트거절당한 톤자님 내맘대로 랒 해포AU 넨숕 중경삼림st...(사진참고했습니다..."
+        "summary": "생일그림들 로또즈 생일주간에 그렸습니당 넨숕 가챠37 넨숕 우리집고양이형아를좋아해 앤숕 데이트거절당한 톤자님 내맘대로 랒 해포AU 넨숕 중경삼림st...(사진참고했습니다..."
     },
     {
         "url": "https://www.postype.com/@color-blind/post/22829065",
@@ -4860,18 +4824,6 @@
         "summary": "쇼타로 송은석 연애 50문 후속 번역기 사용(CHN→KOR；CHN→JPN) 번역이 틀릴수도 있어서 밑에 원문을 올려놓고 있습니다. 🎶: 老派约会之必要 - MC张天赋 CHN orig..."
     },
     {
-        "url": "https://www.postype.com/@woalrp/post/19029162",
-        "title": "[라이즈 사주 풀이] 송은석의 연애 스타일은?- 송은석 사주 풀이, 송은석 나페스, 돌넨 돌톤 은숑 석또 돌숕 숕석 숑석 넨석 또석 톤석",
-        "author": "현자",
-        "date": "2025. 9. 17.",
-        "is_adult": "False",
-        views: 944,
-        price: 500,
-        likes: 6,
-        "category": "webtoon",
-        "summary": "송은석의 연애 스타일은 복잡하면서도 매력적이에요. 딱 한마디로 표현하자면, 겉은 차가운 얼음처럼 시크하지만 그 안은 활활 불타는 화산처럼 뜨겁고 강렬한 사랑을 품고 있어요. 쉽게 ..."
-    },
-    {
         "url": "https://www.postype.com/@space3945/post/22868202",
         "title": "【06- 도대체 내가 고양이냐, 호랑이냐, 아니면 비에 쫄딱 젖은 강아지냐?】 그가 말하길, 내가 취했을 때의 모습이 고백받은 직후의 고등학생 같다고",
         "author": "spaceuntarok",
@@ -5037,7 +4989,7 @@
         price: 0,
         likes: 4,
         "category": "webtoon",
-        "summary": "한장짜리이지만... 백업해둡니다 히고가 히고가 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "한장짜리이지만... 백업해둡니다"
     },
     {
         "url": "https://www.postype.com/@space3945/post/22885597",
@@ -5181,6 +5133,6 @@
         price: 0,
         likes: 1,
         "category": "webtoon",
-        "summary": "001125 001125 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     }
 ]

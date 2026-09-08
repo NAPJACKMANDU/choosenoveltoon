@@ -2340,18 +2340,6 @@ export const binShongData = [
         "summary": "야... 너 근데 진짜 아직도 몰라? 날도 더워 쓰러지겠는데 일부러 짜증이라도 내게 하려는 건지. 옆자리에서 웃음을 참느라 꾹 말려들어 간 입술이 말의 의도를 전혀 모르겠는 멍..."
     },
     {
-        "url": "https://www.postype.com/@fairytarot/post/19025602",
-        "title": "성찬 원빈 섹못방 타로 캐해석",
-        "author": "페어리타로",
-        "date": "2025. 3. 16.",
-        "is_adult": "True",
-        views: 333,
-        price: 2000,
-        likes: 1,
-        "category": "novel",
-        "summary": "요즘 대세 라이즈.. 타로로 섹못방에 한번 가둬봤어요 ㅎㅎㅎㅎ 즐겁게 읽어주세요! 0. 성찬과 원빈은 서로 어떤 관계였나? (연인, 친구, 처음 보는 사이 등) 1. 방이 원하는 ..."
-    },
-    {
         "url": "https://www.postype.com/@note12321/post/19419146",
         "title": "을의 연애 (2)",
         "author": "치즈양초",

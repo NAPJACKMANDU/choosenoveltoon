@@ -1,4 +1,4 @@
-[
+export const heeDolData = [
     {
         "url": "https://www.postype.com/@riizeontop/post/16551341",
         "title": "원테이크",
@@ -228,18 +228,6 @@
         "summary": "*글에 나오는 모든 지명과 이름, 사건은 허구입니다. 4. 발발 잡힐 듯 잡히지 않는 그 위태로움이 좋았던 것 같다. 나는 네가 위태로운 게 좋아. 이실장 걔가 그러더라. 뭘 선택..."
     },
     {
-        "url": "https://www.postype.com/@woalrp/post/19029506",
-        "title": "[라이즈 사주 풀이] 송은석은 어떤 짝사랑을 할까? - 송은석 사주 풀이, 송은석 나페스, 석넨, 석숕, 석넨, 석숑,석톤,석또,숕석 숑석 넨석 또석 톤석 송은석 사주 풀이",
-        "author": "현자",
-        "date": "2025. 9. 17.",
-        "is_adult": "False",
-        views: 1200,
-        price: 500,
-        likes: 10,
-        "category": "webtoon",
-        "summary": "송은석은 사실 얼굴만 봐도 사연 500개 있는 사람 같잖아요.. 철저하고 이성적이여보이는데 사실 그 안에 수많은 사연을 안고있을 것 같은, 눈물 한 번 잘 안 흘리는 그런 사람 같..."
-    },
-    {
         "url": "https://www.postype.com/@yallario/post/22650643",
         "title": "숑또석 낙인",
         "author": "호잇",
@@ -272,20 +260,8 @@
         views: 304,
         price: 0,
         likes: 6,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "-형, 키스해요. -나 립밤 발랐어.- -어쩌라고요, 입술 대요~ -..안된다고 말 했잖아. 송은석의 뺨을 가볍게 감싸고 평소처럼 익숙하게 키스하는 이소희, 송은석의..."
-    },
-    {
-        "url": "https://www.postype.com/@woalrp/post/19029162",
-        "title": "[라이즈 사주 풀이] 송은석의 연애 스타일은?- 송은석 사주 풀이, 송은석 나페스, 돌넨 돌톤 은숑 석또 돌숕 숕석 숑석 넨석 또석 톤석",
-        "author": "현자",
-        "date": "2025. 9. 17.",
-        "is_adult": "False",
-        views: 949,
-        price: 500,
-        likes: 6,
-        "category": "webtoon",
-        "summary": "송은석의 연애 스타일은 복잡하면서도 매력적이에요. 딱 한마디로 표현하자면, 겉은 차가운 얼음처럼 시크하지만 그 안은 활활 불타는 화산처럼 뜨겁고 강렬한 사랑을 품고 있어요. 쉽게 ..."
     },
     {
         "url": "https://www.postype.com/@frozen-everything/post/19022240",
@@ -417,7 +393,7 @@
         price: 0,
         likes: 1,
         "category": "webtoon",
-        "summary": "(자꾸 늘어나는데 얘로 끝낼거임..진짜) 평행세계의 루벨이랑 몰다 사귄..다.... (이때까지만 해도 모브..였음.....) ㄹ 롭 ㄹ 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "(자꾸 늘어나는데 얘로 끝낼거임..진짜) 평행세계의 루벨이랑 몰다 사귄..다.... (이때까지만 해도 모브..였음.....)"
     },
     {
         "url": "https://www.postype.com/@dropchodori/post/5463299",
@@ -429,7 +405,7 @@
         price: 0,
         likes: 1,
         "category": "webtoon",
-        "summary": "버닝장르라서 에유 100일겸 크리스마스축전 ㄹ 롭 ㄹ 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "버닝장르라서 에유 100일겸 크리스마스축전"
     },
     {
         "url": "https://www.postype.com/@dropchodori/post/4756474",
@@ -441,18 +417,6 @@
         price: 0,
         likes: 1,
         "category": "webtoon",
-        "summary": "ㄹ 롭 ㄹ 님의 창작활동을 응원하고 싶으세요? 후원하기"
-    },
-    {
-        "url": "https://www.postype.com/@roku99/post/19188113",
-        "title": "은석 소희 타로 궁합",
-        "author": "roku",
-        "date": "2025. 4. 8.",
-        "is_adult": "False",
-        views: 144,
-        price: 500,
-        likes: 0,
-        "category": "novel",
-        "summary": "1. 성격 2. 은석이 보는 소희 3. 소희가 보는 은석 4. 누가 더 좋아하는지, 고백은 누가 먼저 했을지 5. 지금 관계는 어떤지 6. 첫인상 7. 속궁합 1. 성격 은석은 섬..."
+        "summary": ""
     }
 ]

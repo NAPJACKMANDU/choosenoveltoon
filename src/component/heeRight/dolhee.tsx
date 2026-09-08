@@ -1,4 +1,4 @@
-[
+export const dolHeeData = [
     {
         "url": "https://www.postype.com/@rpsshelter/post/16147527",
         "title": "펭또리",
@@ -45,7 +45,7 @@
         price: 0,
         likes: 1100,
         "category": "webtoon",
-        "summary": "개막장ㅈㅅ합니다. 님들이 자꾸 박수쳐주니까... 신나가지고... 똥 똥 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "개막장ㅈㅅ합니다. 님들이 자꾸 박수쳐주니까... 신나가지고..."
     },
     {
         "url": "https://www.postype.com/@thunderstone/post/16678726",
@@ -140,7 +140,7 @@
         views: 24000,
         price: 500,
         likes: 813,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "* 묘사주의... (매듭짓기에서 이어집니다) roto 2024. 4. 17. · 심야영화 매듭짓기 석또 형 제발. 그만. 그만해. 그만해? 힘들어? 어… 나 진짜 죽을, ..."
     },
     {
@@ -765,7 +765,7 @@
         price: 0,
         likes: 385,
         "category": "webtoon",
-        "summary": "개인 사정으로 연중했습니다... 시간이 괜찮아지면 다시 시작하겠습니다. 🙇‍♂️💦 기다려주시고 좋은 말 남겨주셔서 감사했습니다. 똥 똥 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "개인 사정으로 연중했습니다... 시간이 괜찮아지면 다시 시작하겠습니다. 🙇‍♂️💦 기다려주시고 좋은 말 남겨주셔서 감사했습니다."
     },
     {
         "url": "https://www.postype.com/@sogoodim/post/19394423",
@@ -956,7 +956,7 @@
         views: 5700,
         price: 0,
         likes: 352,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "1. 당돌한 일방통행 2. 과속방지턱 + + 내가 그렇게까지 웃었나....; 3. 일시정지 (.....) + ++ 4. 2차선 갈림길 + v 오늘 과외 아닌가... + + + ++..."
     },
     {
@@ -1737,7 +1737,7 @@
         price: 0,
         likes: 228,
         "category": "webtoon",
-        "summary": "리퀘 근데이제 혐관은 실패했어요 히 히 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "리퀘 근데이제 혐관은 실패했어요"
     },
     {
         "url": "https://www.postype.com/@kongaruu/post/17262507",
@@ -1785,7 +1785,7 @@
         price: 0,
         likes: 224,
         "category": "webtoon",
-        "summary": "1. 1 / 11 2. 1 / 14 고구마 1 / 2 또냥이와 코트 1 / 4 멍서기와 먼지 1 / 2 스톰베리 ^^...♡ 스톰베리 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@ftmorgana/post/18754388",
@@ -1977,7 +1977,7 @@
         price: 0,
         likes: 181,
         "category": "webtoon",
-        "summary": "우당탕탕 또냥이(순서 뒤죽박죽입니다^^...) 1 / 24 멍서기랑 다른 동물들이랑 같이 1 / 9 송집사랑 1 / 17 인형뽑기 1 / 6 스톰베리 ^^...♡ 스톰베리 님의 창..."
+        "summary": "우당탕탕 또냥이(순서 뒤죽박죽입니다^^...)"
     },
     {
         "url": "https://www.postype.com/@roxxxanne/post/17886913",
@@ -2337,7 +2337,7 @@
         price: 0,
         likes: 155,
         "category": "webtoon",
-        "summary": "숭이 @tnddl1121 숭이 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@act-impulsively/post/17381286",
@@ -2493,7 +2493,7 @@
         price: 0,
         likes: 147,
         "category": "webtoon",
-        "summary": "또른 합시다 플망고우 @manggosohee 플망고우 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "또른 합시다"
     },
     {
         "url": "https://www.postype.com/@perspace/post/19107710",
@@ -2529,7 +2529,7 @@
         price: 0,
         likes: 145,
         "category": "webtoon",
-        "summary": "소히 1 / 9 더 좋아하는 짤들.. 1 / 5 긍서기 1 / 2 페어♡ 1 / 11 스톰베리 ^^...♡ 스톰베리 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@roxxxanne/post/17662190",
@@ -2745,7 +2745,7 @@
         price: 0,
         likes: 127,
         "category": "webtoon",
-        "summary": "히 히 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@loooooooook/post/22151795",
@@ -2840,7 +2840,7 @@
         views: 2600,
         price: 0,
         likes: 117,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "* 우선 환승연애를 제대로 본 적이 없어서 다를수도... 제가 무지햇을수도... 그리고 주절주절 쓴 거 캡쳐한거라 오타가 많지만 양해 부탁드립미더.... 노래 꼭 들어주세욤......."
     },
     {
@@ -3309,7 +3309,7 @@
         price: 0,
         likes: 98,
         "category": "webtoon",
-        "summary": "숭이 @tnddl1121 숭이 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@loooooooook/post/22299988",
@@ -3501,7 +3501,7 @@
         price: 0,
         likes: 88,
         "category": "webtoon",
-        "summary": "원래 본편에 첨부하려다가 말았던 이조아의 그림 일기장 ..~ 두장 뿐이지만 재밌게 봐주십셩~ 파해 파해 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "원래 본편에 첨부하려다가 말았던 이조아의 그림 일기장 ..~ 두장 뿐이지만 재밌게 봐주십셩~"
     },
     {
         "url": "https://www.postype.com/@perspace/post/19277815",
@@ -4101,7 +4101,7 @@
         price: 0,
         likes: 63,
         "category": "webtoon",
-        "summary": "플망고우 @manggosohee 플망고우 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@mireee/post/18131399",
@@ -4270,18 +4270,6 @@
         likes: 59,
         "category": "novel",
         "summary": "정략결혼+불륜+오메가버스AU 텍스트 14,510 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/19918689",
-        "title": "라이즈, 사주로 보는 은석이 쓰는 인물관계도",
-        "author": "규월",
-        "date": "2025. 7. 13.",
-        "is_adult": "False",
-        views: 4000,
-        price: 1300,
-        likes: 59,
-        "category": "webtoon",
-        "summary": "얼마 전, 공개된 라이즈 콘서트 MD 프리뷰 중 이런 게 떴다. '은석이 쓰는 인물관계도' 흠.. 전에 썼던 은석이에 대한 원빈이의 시선 글에서 은석이가 도대체 왜 멀쩡히 달릴 거..."
     },
     {
         "url": "https://www.postype.com/@morethanwaste/post/19824772",
@@ -4584,18 +4572,6 @@
         "summary": "센티넬버스 가이드물이라 약하렘적이지만 주 커플링은 넨또 석또입니다. 연재 주기는 맘대로입니다. 한참을 걸어도 길은 험했고 일행이 보이진 않으니 초조하지 않다면 거짓말이었다. 쉽게 ..."
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/19949231",
-        "title": "라이즈, 사주로 보는 소희에 대한 은석이의 시선",
-        "author": "규월",
-        "date": "2025. 7. 20.",
-        "is_adult": "False",
-        views: 2100,
-        price: 1200,
-        likes: 55,
-        "category": "novel",
-        "summary": "우리 은석이의 추구미는 소희의 '스승'이 아닌가. 그리고 소희보고는 내 제자라고 하지 않고 '부하' 라고 하신다. 이러한 발언을 입 밖으로 내뱉기까지 은석이 머릿속에서 어떤 프로세..."
-    },
-    {
         "url": "https://www.postype.com/@kintsugi/post/17263104",
         "title": "세 개의 낱말들",
         "author": "Kintsugi",
@@ -4701,7 +4677,7 @@
         price: 0,
         likes: 53,
         "category": "webtoon",
-        "summary": "*트레틀 참고 ddo ddo 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "*트레틀 참고"
     },
     {
         "url": "https://www.postype.com/@morethanwaste/post/20000276",
@@ -4824,18 +4800,6 @@
         "summary": "개ㅐㅐㅐ빻음. 송은석이 이소희를 알게 된 경로도 정성찬임. 송은석이 러트 올때마다 좆같고 매번 오메가 바꾸는 것도 귀찮다고 투덜거려서 정성찬이 러트 때 몇 번 불렀던 이소희를 송은..."
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/21739863",
-        "title": "라이즈 소희, 사주로 보는 앙케이트 분석 [고교편]",
-        "author": "규월",
-        "date": "2026. 2. 27.",
-        "is_adult": "False",
-        views: 1600,
-        price: 1300,
-        likes: 51,
-        "category": "webtoon",
-        "summary": "MD 속 앙케이트 차트 분석 원빈편 에 이어, 댓글로 바로 요청이 들어왔던 소희편 말아보자. 그간 여러번 말했지만 라이즈라는 그룹은 멤버들 각자의 사주팔자 키워드에 따른 언행이 유..."
-    },
-    {
         "url": "https://www.postype.com/@miablog21/post/18173914",
         "title": "선을 넘어",
         "author": "하루",
@@ -4882,18 +4846,6 @@
         likes: 50,
         "category": "novel",
         "summary": "글 원하시는 거 있음 스핀에 넣어주세요! 쓴다 해놓고 안 쓰고 안 쓴다 해놓고 씁니다….. https://spin-spin.com/case case의 리퀘박스 case님의 리퀘박스..."
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/19106418",
-        "title": "라이즈 은석X소희, 사주로 보는 관계성",
-        "author": "규월",
-        "date": "2025. 3. 27.",
-        "is_adult": "False",
-        views: 2200,
-        price: 900,
-        likes: 50,
-        "category": "webtoon",
-        "summary": "은석이의 담당동생 소희, 이 둘은 어떤 형제(?)일지 함 봐보자. 결론부터 말하자면 한마디로 소희라는 바위 앞에 은석이라는 돌멩이가 '니도 내도 돌이다아이가~' 하는 관계다. 은석..."
     },
     {
         "url": "https://www.postype.com/@riizeontop/post/17564449",
@@ -5301,7 +5253,7 @@
         price: 0,
         likes: 43,
         "category": "webtoon",
-        "summary": "aka... aka... 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@neverthe1es2/post/16970042",
@@ -5601,7 +5553,7 @@
         price: 0,
         likes: 35,
         "category": "webtoon",
-        "summary": "백업 🍫 ❄️ 한터차트 알러지 (=_=) 👀 . 커플크록스 날짜는 섞여있네용 시토 시토네 아지트 시토 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "백업 🍫 ❄️ 한터차트 알러지 (=_=) 👀 . 커플크록스 날짜는 섞여있네용"
     },
     {
         "url": "https://www.postype.com/@hapoomm/post/20213817",
@@ -5661,7 +5613,7 @@
         price: 0,
         likes: 35,
         "category": "webtoon",
-        "summary": "aka... aka... 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@coralatoll/post/17494768",
@@ -5829,7 +5781,7 @@
         price: 0,
         likes: 32,
         "category": "webtoon",
-        "summary": "*트레틀 참고 ddo ddo 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "*트레틀 참고"
     },
     {
         "url": "https://www.postype.com/@tjreeh/post/16078837",
@@ -6021,7 +5973,7 @@
         price: 0,
         likes: 30,
         "category": "webtoon",
-        "summary": "내가 인기 있어서 어쩌자는 거야 (원작: JUNKO) 린자 린자 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "내가 인기 있어서 어쩌자는 거야 (원작: JUNKO)"
     },
     {
         "url": "https://www.postype.com/@2sh1121/post/17659396",
@@ -6357,7 +6309,7 @@
         price: 0,
         likes: 27,
         "category": "webtoon",
-        "summary": "집착도망어쩌구... aka... aka... 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "집착도망어쩌구... "
     },
     {
         "url": "https://www.postype.com/@iroironaxai/post/17681142",
@@ -6501,7 +6453,7 @@
         price: 0,
         likes: 25,
         "category": "webtoon",
-        "summary": "또른 합작 : 暖春 또른 합작 : 暖春 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@riizeontop/post/19605562",
@@ -6526,18 +6478,6 @@
         likes: 25,
         "category": "novel",
         "summary": "끙.. 소희가 지끈거리는 머리와 콕콕 쑤시는 배를 부여잡고 오만상을 찌푸리며 뒤척이다가 뻑뻑한 눈꺼풀을 들어올렸을 땐 몸부림 친 결과로 잔뜩 구겨진 시트와 맨살을 훤히 드러낸 ..."
-    },
-    {
-        "url": "https://www.postype.com/@thunderstone/post/18683593",
-        "title": "과잉 / 영점 소장본 수요조사",
-        "author": "roto",
-        "date": "2025. 2. 7.",
-        "is_adult": "False",
-        views: 1600,
-        price: 0,
-        likes: 25,
-        "category": "webtoon",
-        "summary": "안녕하세요 토로입니다. 많은 사랑을 받은 과잉 / 영점 소장본 수요조사를 진행합니다. 수요에 따라 일정과 사양에 많은 변화가 생길 수 있으니 신중히 참여해 주시기를 부탁 드립니다...."
     },
     {
         "url": "https://www.postype.com/@miiiiji/post/17917530",
@@ -6993,7 +6933,7 @@
         price: 0,
         likes: 19,
         "category": "webtoon",
-        "summary": "X → 1my_taste 마테 마테 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "X → 1my_taste"
     },
     {
         "url": "https://www.postype.com/@a-waysbethere/post/21380690",
@@ -7821,7 +7761,7 @@
         price: 0,
         likes: 12,
         "category": "webtoon",
-        "summary": "추가될 때마다 덧붙입니다. 히고가 히고가 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "추가될 때마다 덧붙입니다."
     },
     {
         "url": "https://www.postype.com/@essh-ddz0802/post/19764509",
@@ -7845,7 +7785,7 @@
         price: 0,
         likes: 12,
         "category": "webtoon",
-        "summary": "그냥 소희(상탈주의) 석또(소희 없고 제스쳐주의) aka... aka... 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "그냥 소희(상탈주의) 석또(소희 없고 제스쳐주의) "
     },
     {
         "url": "https://www.postype.com/@risepass/post/18227051",
@@ -8170,18 +8110,6 @@
         likes: 10,
         "category": "novel",
         "summary": "이번엔 좀 가벼운 느낌으로 썼어요. 평소랑 조금 다른 형태로 써봤습니다! 카페에서 알바 중이던 송은석 청소하다가 분명 종소리 들려서 손님 온 줄 알고 어서오세요~ 했는데 아무도..."
-    },
-    {
-        "url": "https://www.postype.com/@woalrp/post/19029506",
-        "title": "[라이즈 사주 풀이] 송은석은 어떤 짝사랑을 할까? - 송은석 사주 풀이, 송은석 나페스, 석넨, 석숕, 석넨, 석숑,석톤,석또,숕석 숑석 넨석 또석 톤석 송은석 사주 풀이",
-        "author": "현자",
-        "date": "2025. 9. 17.",
-        "is_adult": "False",
-        views: 1200,
-        price: 500,
-        likes: 10,
-        "category": "webtoon",
-        "summary": "송은석은 사실 얼굴만 봐도 사연 500개 있는 사람 같잖아요.. 철저하고 이성적이여보이는데 사실 그 안에 수많은 사연을 안고있을 것 같은, 눈물 한 번 잘 안 흘리는 그런 사람 같..."
     },
     {
         "url": "https://www.postype.com/@selflv/post/18992063",
@@ -8688,18 +8616,6 @@
         "summary": "(문체주의) 현피뜰려다가 섹뜨는 석또 보고싶음(유사성행위) 25살 개백수 은석은 오늘도 피씨방에서 게임중 근데 오늘따라 게임도 잘 안풀리는데 팀원이 자꾸 시비터는거야 닉네임도 『인..."
     },
     {
-        "url": "https://www.postype.com/@woalrp/post/19029162",
-        "title": "[라이즈 사주 풀이] 송은석의 연애 스타일은?- 송은석 사주 풀이, 송은석 나페스, 돌넨 돌톤 은숑 석또 돌숕 숕석 숑석 넨석 또석 톤석",
-        "author": "현자",
-        "date": "2025. 9. 17.",
-        "is_adult": "False",
-        views: 950,
-        price: 500,
-        likes: 6,
-        "category": "webtoon",
-        "summary": "송은석의 연애 스타일은 복잡하면서도 매력적이에요. 딱 한마디로 표현하자면, 겉은 차가운 얼음처럼 시크하지만 그 안은 활활 불타는 화산처럼 뜨겁고 강렬한 사랑을 품고 있어요. 쉽게 ..."
-    },
-    {
         "url": "https://www.postype.com/@selflv/post/18915375",
         "title": "사랑을 어떻게 배워서 해요? - 11",
         "author": "후허하핳",
@@ -8733,7 +8649,7 @@
         price: 0,
         likes: 5,
         "category": "webtoon",
-        "summary": "_ gimme love SD카드 > 드로잉 기록 SD카드 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "_ gimme love"
     },
     {
         "url": "https://www.postype.com/@qoqnffj/post/19617092",
@@ -9072,18 +8988,6 @@
         "summary": "긍석이랑 소히는 사촌이라 명절이나 특별한 날에만 모여서 그때말곤 볼 기회가 없음 긍석이는 갓 취업한 직장인이고 소희는 고3임 할아버지 생신이라 모이기로 했는데 사촌끼리 별로 안친하..."
     },
     {
-        "url": "https://www.postype.com/@butter-jg-k/post/22206942",
-        "title": "라이즈 은석 소희 (석또) 사주 분석",
-        "author": "사주광",
-        "date": "2026. 5. 4.",
-        "is_adult": "False",
-        views: 97,
-        price: 500,
-        likes: 1,
-        "category": "novel",
-        "summary": "은석님과 소희님, 단순히 잘 맞는 형동생으로 정리하는 순간 가장 중요한 한 가지를 놓치게 됩니다. 겉으로 보기엔 한없이 편안하고 자연스러운 조합. 하지만 사주를 들여다보면 이 관계..."
-    },
-    {
         "url": "https://www.postype.com/@mousse-047/post/22113493",
         "title": "이소희 조용히 따먹기",
         "author": "yo",
@@ -9168,18 +9072,6 @@
         "summary": "오늘은 모두 스케줄이 없어 쉬는날이다. 각자 운동을 가거나 쇼핑을 가는 등 자기만의 시간들을 보내러 밖으로 나갔다. 소희와 은석 둘만이 숙소에 남아있었다. 은석은 게임을 하고 있었..."
     },
     {
-        "url": "https://www.postype.com/@skskal780-12/post/19468812",
-        "title": "라이즈 은석 사주풀이 (기본특성, 성격, 외적이상형)",
-        "author": "사주풀이",
-        "date": "2025. 5. 18.",
-        "is_adult": "False",
-        views: 288,
-        price: 1500,
-        likes: 1,
-        "category": "novel",
-        "summary": "라이즈 은석 사주풀니 기본 성격, 특성, 직업적 가능성, 이상형 성향, 연애 성향, 외적 이상형 텍스트 894 자 공백 제외"
-    },
-    {
         "url": "https://www.postype.com/@case23-sec/post/19252239",
         "title": "석또 신혼부부 썰",
         "author": "case",
@@ -9188,7 +9080,7 @@
         views: 1000,
         price: 0,
         likes: 1,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "석또 14067자 https://posty.pe/j7pgwd case 2025. 3. 15. · te quiero 석또 신혼부부 썰 송은석 이소희 *문체 섞임 약간 판타지임 뽀뽀중..."
     },
     {
@@ -9240,66 +9132,6 @@
         "summary": "살짝 소름 돋는 내용입니다 (약 공포) *논컾에 가까운 (약)석또입니다! 소희 시점으로 이야기가 진행되고, 은석이 아주 늦게 등장합니다!! 모브들이 더 많이 나옴. *이 이야기는 ..."
     },
     {
-        "url": "https://www.postype.com/@moaemoaequng/post/22741248",
-        "title": "소희(RIIZE) 사주",
-        "author": "토모에",
-        "date": "2026. 8. 6.",
-        "is_adult": "False",
-        views: 42,
-        price: 500,
-        likes: 0,
-        "category": "novel",
-        "summary": "아래로는 *기본 성향/연애운 및 연애성향/이상형/잘 맞는 여성 사주 구조/결혼운 및 결혼생활* 텍스트 11,864 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@ogongsamooiia/post/22738813",
-        "title": "라이즈 은석(송은석) 사주 정밀 분석",
-        "author": "오영삼",
-        "date": "2026. 8. 7.",
-        "is_adult": "False",
-        views: 27,
-        price: 500,
-        likes: 0,
-        "category": "novel",
-        "summary": "1 . 성격운 2 . 단점 위주 심층 분석 3 . 연애성향 (연애할 때 섬세한 편인지, 덤덤한 편일지?/안정형일까, 불안형일까?/리드를 하는 성향인지, 오히려 리드 당하고자 하는 ..."
-    },
-    {
-        "url": "https://www.postype.com/@lovebysomeone/post/22530714",
-        "title": "라이즈 소희 연애운, 이상형 분석",
-        "author": "정서",
-        "date": "2026. 7. 4.",
-        "is_adult": "False",
-        views: 71,
-        price: 500,
-        likes: 0,
-        "category": "novel",
-        "summary": "텍스트 4,595 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@weatherrehtaew/post/22529173",
-        "title": "라이즈 소희 사주 풀이",
-        "author": "015B2026. 7. 14.·날씨가 좋으면 찾아가겠어요구독",
-        "date": "2026. 7. 14.",
-        "is_adult": "False",
-        views: 47,
-        price: 500,
-        likes: 0,
-        "category": "novel",
-        "summary": "텍스트 8,468 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@ddanddandan/post/22367867",
-        "title": "라이즈(RIIZE) 소희 사주 해석(+성격운, 연애운 및 연애 성향, 사주 궁합, 이상형, 짝사랑 및 플러팅 성향, 결혼운 및 결혼 성향)",
-        "author": "도래",
-        "date": "2026. 6. 5.",
-        "is_adult": "False",
-        views: 71,
-        price: 500,
-        likes: 0,
-        "category": "novel",
-        "summary": "텍스트 13,754 자 공백 제외"
-    },
-    {
         "url": "https://www.postype.com/@heartm/post/22219166",
         "title": "석또 이것저것..",
         "author": "ㄴㅔ",
@@ -9324,30 +9156,6 @@
         "summary": "그냥 석또가 하는 사진 하나 잇습니대 이미지 1 장 이미지 1 장 200 P"
     },
     {
-        "url": "https://www.postype.com/@rttggyjj/post/22123261",
-        "title": "라이즈 은석 사주",
-        "author": "Rtttu",
-        "date": "2026. 4. 22.",
-        "is_adult": "False",
-        views: 129,
-        price: 2000,
-        likes: 0,
-        "category": "novel",
-        "summary": "1. 사주 특징 2. 쿨한 척하면서 할거 다하는 집착적 면모 3. 드러내지 않는 강한 통제욕구 4. 인간관계 특성 5. 성격적 특성 6. 연애관 7. 이상형 (외적, 성격적) 8...."
-    },
-    {
-        "url": "https://www.postype.com/@kwewkwew9/post/21967410",
-        "title": "ㄹㅇㅈ 사주궁합",
-        "author": "꽥꽥도령",
-        "date": "2026. 3. 30.",
-        "is_adult": "False",
-        views: 113,
-        price: 1000,
-        likes: 0,
-        "category": "novel",
-        "summary": "소희 사주분석 / 또른 궁합분석 / 최고궁합 / 최악궁합 / 연애궁합 / 사주팔자 / 숕또 / 숑또 / 석또 / 넨또 / 톤또 / 라이즈 텍스트 4,630 자 공백 제외"
-    },
-    {
         "url": "https://www.postype.com/@case23-sec/post/20013387",
         "title": "석또 신혼부부 썰 2",
         "author": "case",
@@ -9356,7 +9164,7 @@
         views: 307,
         price: 0,
         likes: 0,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "석또 10857자 https://posty.pe/omxl32 case 2025. 7. 24. · te quiero 석또 신혼부부 썰 2 글 원하시는 거 있음 스핀에 넣어주세요! 쓴..."
     },
     {
@@ -9370,30 +9178,6 @@
         likes: 0,
         "category": "novel",
         "summary": "살아있다는 걸, 숨쉰다는 걸, 이 세계는 죄라고 불렀다. 1 비는 끊임없이 내렸다. 하늘은 석 달 전부터 파랗지 않았다. 지구는 여전히 돌고 있지만, 그 위에 있던 생명들은 더 이..."
-    },
-    {
-        "url": "https://www.postype.com/@matdorijungri/post/19769515",
-        "title": "라이즈 알페스 추천+노션 정리",
-        "author": "맛집이면어디든지찾아갑니다",
-        "date": "2025. 6. 28.",
-        "is_adult": "False",
-        views: 781,
-        price: 1000,
-        likes: 0,
-        "category": "novel",
-        "summary": "맛집이면어디든지찾아갑니다 2025. 6. 28. · 맛도리정리용 공지 제발 필독(결제, 노션 사용 등) 최대한 사담 빼고 결론만 말하겠습니다. 1. 추천한다=/=돈이 안 아깝다. ..."
-    },
-    {
-        "url": "https://www.postype.com/@roku99/post/19188113",
-        "title": "은석 소희 타로 궁합",
-        "author": "roku",
-        "date": "2025. 4. 8.",
-        "is_adult": "False",
-        views: 145,
-        price: 500,
-        likes: 0,
-        "category": "novel",
-        "summary": "1. 성격 2. 은석이 보는 소희 3. 소희가 보는 은석 4. 누가 더 좋아하는지, 고백은 누가 먼저 했을지 5. 지금 관계는 어떤지 6. 첫인상 7. 속궁합 1. 성격 은석은 섬..."
     },
     {
         "url": "https://www.postype.com/@ddoreun-ntst/post/18790393",

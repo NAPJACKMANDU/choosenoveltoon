@@ -1,4 +1,4 @@
-[
+export const shoDolData = [
     {
         "url": "https://www.postype.com/@sweetpoison/post/18660512",
         "title": "의외의 진심",
@@ -213,7 +213,7 @@
         price: 0,
         likes: 51,
         "category": "webtoon",
-        "summary": "좀 쌓여서 옛날꺼까지 다 모아서 같이 백업합니둥 uc uc 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "좀 쌓여서 옛날꺼까지 다 모아서 같이 백업합니둥"
     },
     {
         "url": "https://www.postype.com/@stone69/post/18247605",
@@ -562,30 +562,6 @@
         likes: 12,
         "category": "novel",
         "summary": "보스가 죽었다. 그리고 그에는 은석의 공이 컸다. 은석이 꾸민 일이었으니까. 은석은 남의 미래는 귀신처럼 점치면서 자신의 미래는 한 치 앞도 몰랐다. 그러므로 이런 상황이 그에게 ..."
-    },
-    {
-        "url": "https://www.postype.com/@woalrp/post/19029506",
-        "title": "[라이즈 사주 풀이] 송은석은 어떤 짝사랑을 할까? - 송은석 사주 풀이, 송은석 나페스, 석넨, 석숕, 석넨, 석숑,석톤,석또,숕석 숑석 넨석 또석 톤석 송은석 사주 풀이",
-        "author": "현자",
-        "date": "2025. 9. 17.",
-        "is_adult": "False",
-        views: 1200,
-        price: 500,
-        likes: 10,
-        "category": "webtoon",
-        "summary": "송은석은 사실 얼굴만 봐도 사연 500개 있는 사람 같잖아요.. 철저하고 이성적이여보이는데 사실 그 안에 수많은 사연을 안고있을 것 같은, 눈물 한 번 잘 안 흘리는 그런 사람 같..."
-    },
-    {
-        "url": "https://www.postype.com/@woalrp/post/19029162",
-        "title": "[라이즈 사주 풀이] 송은석의 연애 스타일은?- 송은석 사주 풀이, 송은석 나페스, 돌넨 돌톤 은숑 석또 돌숕 숕석 숑석 넨석 또석 톤석",
-        "author": "현자",
-        "date": "2025. 9. 17.",
-        "is_adult": "False",
-        views: 946,
-        price: 500,
-        likes: 6,
-        "category": "webtoon",
-        "summary": "송은석의 연애 스타일은 복잡하면서도 매력적이에요. 딱 한마디로 표현하자면, 겉은 차가운 얼음처럼 시크하지만 그 안은 활활 불타는 화산처럼 뜨겁고 강렬한 사랑을 품고 있어요. 쉽게 ..."
     },
     {
         "url": "https://www.postype.com/@frozen-everything/post/19022240",

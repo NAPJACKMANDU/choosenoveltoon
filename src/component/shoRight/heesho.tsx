@@ -1,4 +1,4 @@
-[
+export const heeShoData = [
     {
         "url": "https://www.postype.com/@a-ng-a-ng/post/17197904",
         "title": "비계썰 백업",
@@ -58,18 +58,6 @@
         likes: 36,
         "category": "novel",
         "summary": "형, 편하게 머물러요. 여기가 거실, 여기가 주방. 저기는 제 방이랑 서재, 드레스룸 그리고 이제부터 여기가 형 방이에요. 찬영은 한국에서 혼자 살고있는 자취집으로 쇼타로를 데..."
-    },
-    {
-        "url": "https://www.postype.com/@shozip/post/18929146",
-        "title": "쇼타로에 대한 고찰",
-        "author": "나민",
-        "date": "2025. 3. 4.",
-        "is_adult": "False",
-        views: 1500,
-        price: 0,
-        likes: 35,
-        "category": "webtoon",
-        "summary": "1. 몸 키가 큰 편인데 체구가 큰 편은 아니고 봤을 때 전체적으로 살이 말랑할거같다 느낌이 있음. 딱딱하다가 아니라 탄탄하다 쪽으로 보임. 손목이나 발목 같은데 보면 말라서 살이..."
     },
     {
         "url": "https://www.postype.com/@multiuniverse/post/20479426",
@@ -417,7 +405,7 @@
         price: 0,
         likes: 11,
         "category": "webtoon",
-        "summary": "진짜 옛날꺼부터 있어서 부끄럽네요......히숕붐업을빌며... *뇨타주의! 1 / 3 1 히숕녀 1 / 3 1 / 2 1 / 2 밤구미 밤구미 님의 창작활동을 응원하고 싶으세요? ..."
+        "summary": "진짜 옛날꺼부터 있어서 부끄럽네요......히숕붐업을빌며... *뇨타주의! 히숕녀"
     },
     {
         "url": "https://www.postype.com/@shoiloveyou/post/21580464",
@@ -453,7 +441,7 @@
         price: 0,
         likes: 8,
         "category": "webtoon",
-        "summary": "트레 폭력유혈잇 앙앙 앙앙 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "트레 폭력유혈잇"
     },
     {
         "url": "https://www.postype.com/@multiuniverse/post/20005234",

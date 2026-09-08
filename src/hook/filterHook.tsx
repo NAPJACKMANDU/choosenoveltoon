@@ -12,18 +12,37 @@ import { heeShongData } from '../component/shongRight/heeshong';
 import { tonShongData } from '../component/shongRight/tonshong';
 import { binDolData } from '../component/dolRight/bindol';
 import { shongDolData } from '../component/dolRight/shongdol';
+import { shoDolData } from '../component/dolRight/shodol';
+import { tonDolData } from '../component/dolRight/tondol';
+import { heeDolData } from '../component/dolRight/heedol';
+import { shoHeeData } from '../component/heeRight/shohee';
+import { dolHeeData } from '../component/heeRight/dolhee';
+import { shongHeeData } from '../component/heeRight/shonghee';
 
 export const useFilterHook = (filterTag: string[]) => {
   const [filteredPosts, setFilteredPosts] = useState<novelToonData[]>([]);
 
   const handlers: Record<string, novelToonData[]> = {
 
-    "넨석" : binDolData,
-    "넨은" : binDolData,
-    "넨돌" : binDolData,
+    "숕석" : shoDolData,
+    "숕은" : shoDolData,
+    "숕돌" : shoDolData,
     "숑석" : shongDolData,
     "숑은" : shongDolData,
     "숑돌" : shongDolData,
+    "넨석" : binDolData,
+    "넨은" : binDolData,
+    "넨돌" : binDolData,
+    "히석" : heeDolData,
+    "히은" : heeDolData,
+    "히돌" : heeDolData,
+    "또석" : heeDolData,
+    "또은" : heeDolData,
+    "또돌" : heeDolData,
+    "톤석" : tonDolData,
+    "톤은" : tonDolData,
+    "톤돌" : tonDolData,
+    "돌른": [...shoDolData, ...shongDolData, ...binDolData, ...heeDolData, ...tonDolData],
 
     "숕숑": shoShongData,
     "돌숑": dolShongData,
@@ -34,6 +53,18 @@ export const useFilterHook = (filterTag: string[]) => {
     "히숑": heeShongData,
     "톤숑": tonShongData,
     "숑른": [...shoShongData, ...dolShongData, ...binShongData, ...heeShongData, ...tonShongData],
+
+    "숕히": shoHeeData,
+    "숕또": shoHeeData,
+    "돌히": dolHeeData,
+    "석또": dolHeeData,
+    "숑히": shongHeeData,
+    "숑또": shongHeeData,
+    //"넨히": binHeeData,
+    //"넨또": binHeeData,
+    //"톤히": shoHeeData,
+    //"톤또": shoHeeData,
+    "또른": [...shoHeeData, ...dolShongData, ...shongHeeData],
 
     "숕톤": taroTonData,
     "돌톤": dolTonData,

@@ -21216,18 +21216,6 @@ export const shongTonData = [
         "summary": "위가 jpg 아래가 png 크기 297*210 mm"
     },
     {
-        "url": "https://www.postype.com/@star-1234/post/16053229",
-        "title": "남돌포타추천",
-        "author": "星",
-        "date": "2024. 6. 25.",
-        "is_adult": "False",
-        views: 4300,
-        price: 500,
-        likes: 7,
-        "category": "novel",
-        "summary": "씨피마다 약 20~30개 설명 따로 없음 순서 - 연숩 숩준 연밤 밤텬 텬밤 밤숩 닝숩 탯재 멍산 잏링 탯한 한탯 탯성 숑넨 넨숑 톤넨 숑석 숑톤 닉쭈 쭈네코 죠켕 성젱 젱양 밀빵..."
-    },
-    {
         "url": "https://www.postype.com/@haa565/post/15412118",
         "title": "Fall In Love",
         "author": "앤톤치드",

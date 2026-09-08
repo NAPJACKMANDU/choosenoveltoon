@@ -1,4 +1,4 @@
-[
+export const tonShoData = [
     {
         "url": "https://www.postype.com/@skssfthv/post/15775392",
         "title": "립서비스 (1)",
@@ -189,7 +189,7 @@
         price: 0,
         likes: 40,
         "category": "webtoon",
-        "summary": "겟어기타 엠카인가,,,그거 직캠보고 입덕함 아기수달 코여움 진짜 수달이된 아기수달군 🦕과 🦦 찹쌀떡 맏막즈와 원넨이 넨숕 맛있더라구요... 몽 낙서올림 몽 님의 창작활동을 응원하고..."
+        "summary": "겟어기타 엠카인가,,,그거 직캠보고 입덕함 아기수달 코여움 진짜 수달이된 아기수달군 🦕과 🦦 찹쌀떡 맏막즈와 원넨이 넨숕 맛있더라구요..."
     },
     {
         "url": "https://www.postype.com/@icandoitjustdoit/post/16597417",
@@ -250,29 +250,5 @@
         likes: 4,
         "category": "novel",
         "summary": "조금만 더 깊게, 찬영아. 쇼타로는 문이 닫힌 벽에 엎드려 힘겹게 숨을 쉬고 있었고, 경혈은 이미 부풀어 올랐지만, 여전히 끊어지는 말로 자신의 몸 안에서 움직이는 사람을 상기시..."
-    },
-    {
-        "url": "https://www.postype.com/@bobdodukgif/post/15747650",
-        "title": "숕톤숕 gif",
-        "author": "본체는밴드",
-        "date": "2023. 11. 30.",
-        "is_adult": "False",
-        views: 280,
-        price: 0,
-        likes: 1,
-        "category": "webtoon",
-        "summary": "본체는밴드 운영 중단 본체는밴드 님의 창작활동을 응원하고 싶으세요? 후원하기"
-    },
-    {
-        "url": "https://www.postype.com/@bobdodukgif/post/15747714",
-        "title": "숑톤숑 숕톤숕 나머지 gif",
-        "author": "본체는밴드",
-        "date": "2023. 11. 30.",
-        "is_adult": "False",
-        views: 401,
-        price: 0,
-        likes: 0,
-        "category": "webtoon",
-        "summary": "본체는밴드 운영 중단 본체는밴드 님의 창작활동을 응원하고 싶으세요? 후원하기"
     }
 ]

@@ -4392,18 +4392,6 @@ export const binDolData = [
         "summary": "친구웃기려고 쓴글임. 박원빈과 송은석은 철저히 이용당함.. 캐붕주의^^ 어릴적부터 어머니는 말씀해오셨다. 본인의 완식을 만나는 순간 쟁.취하는거라고...(이 방법으로 나의 마마는 ..."
     },
     {
-        "url": "https://www.postype.com/@ccs2es/post/21049376",
-        "title": "넨석 포타 추천",
-        "author": "ccs",
-        "date": "2025. 12. 6.",
-        "is_adult": "False",
-        views: 240,
-        price: 100,
-        likes: 2,
-        "category": "novel",
-        "summary": "추가예정 텍스트 304 자 공백 제외 링크 10 개"
-    },
-    {
         "url": "https://www.postype.com/@case23-sec/post/20030809",
         "title": "Gee 1",
         "author": "case",
@@ -4522,17 +4510,5 @@ export const binDolData = [
         likes: 0,
         "category": "novel",
         "summary": "텍스트 2,588 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@matdorijungri/post/19769515",
-        "title": "라이즈 알페스 추천+노션 정리",
-        "author": "맛집이면어디든지찾아갑니다",
-        "date": "2025. 6. 28.",
-        "is_adult": "False",
-        views: 779,
-        price: 1000,
-        likes: 0,
-        "category": "novel",
-        "summary": "맛집이면어디든지찾아갑니다 2025. 6. 28. · 맛도리정리용 공지 제발 필독(결제, 노션 사용 등) 최대한 사담 빼고 결론만 말하겠습니다. 1. 추천한다=/=돈이 안 아깝다. ..."
     }
 ]
