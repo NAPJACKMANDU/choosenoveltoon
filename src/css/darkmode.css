@@ -85,6 +85,11 @@ body {
   color: var(--tag-text);
 }
 
+.tag-adult {
+  background-color: var(--point-color);
+  color: var(--tag-bg);
+}
+
 /* 플로팅 다크모드/스크롤 버튼 공통 스타일 */
 .floating-btn-group {
   position: fixed;

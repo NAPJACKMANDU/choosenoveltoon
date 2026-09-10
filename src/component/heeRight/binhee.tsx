@@ -8442,19 +8442,6 @@ export const binHeeData = [
         "summary": "이 형 진짜 미친듯. 이소희는 끈질기게 달라붙는 박원빈을 피해 도망치며 생각했다. 고백을 할 때까지만 해도 좋았다. 아니 고백하고난 직후만 좋고 사실 그 전은 개짜증났다. 삽질을 ..."
     },
     {
-        "url": "https://www.postype.com/@nentto012/post/16643317",
-        "title": "넨또 포타 추천 (25.8.27. update)",
-        "author": "미식가",
-        "date": "2025. 8. 27.",
-        "is_adult": "False",
-        views: 13000,
-        price: 0,
-        likes: 263
-,
-        "category": "novel",
-        "summary": "텍스트 4,660 자 공백 제외"
-    },
-    {
         "url": "https://www.postype.com/@nos-29/post/21316573",
         "title": "[특종] 유명 아이돌 박모 씨는 어쩌다 아빠가... (2)",
         "author": "노스",
@@ -31816,19 +31803,6 @@ export const binHeeData = [
         "summary": "형 팔뚝 진짜 대박.. 술을 마셔서 붉어진 눈가를 아닌 척 힐끔힐끔 살피던 원빈은 소희가 작게 감탄하는 소리를 내며 제 팔뚝을 조물딱거리자 어색한 표정으로 굳어버렸다. 반팔 아..."
     },
     {
-        "url": "https://www.postype.com/@byebyebyebyebyebye/post/16748023",
-        "title": "라이즈 노딱 포타 추천 ②",
-        "author": "i.dollo.ver",
-        "date": "2024. 5. 6.",
-        "is_adult": "True",
-        views: 4600,
-        price: 300,
-        likes: 39
-,
-        "category": "novel",
-        "summary": "소재주의.. 제가 좋아하는 취향만 있음 ❤️❤️❤️❤️ 순서 랜덤 씨피는 ① 보다 좀 더 다양한 듯? [숑넨] 다정함이 이겨 외전: 아 나 이거 너무좋아해서 본편이랑 외전 둘 다 ..."
-    },
-    {
         "url": "https://www.postype.com/@figbs-r/post/16713920",
         "title": "사랑하면 새싹이 나는 소희",
         "author": "무화과",
@@ -32929,19 +32903,6 @@ export const binHeeData = [
 ,
         "category": "novel",
         "summary": "트리거 요소 있을 수 있습니다 주의! 텍스트 1,221 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@no-929/post/21145556",
-        "title": "라이즈 포타 추천",
-        "author": "9292026. 1. 4.·아직구독",
-        "date": "2026. 1. 4.",
-        "is_adult": "False",
-        views: 1800,
-        price: 0,
-        likes: 34
-,
-        "category": "novel",
-        "summary": "제가 다시 보고싶은 글 모아둘겸 추천글을 썼는데요, 제취향 100%라 노딱이 대부분에 유료글도 많고 완결, 연재중 중구난방에 이미 유명한 글이 대부분이라 큰 도움이 안될거같지만 그..."
     },
     {
         "url": "https://www.postype.com/@252904/post/20978545",

@@ -2760,18 +2760,6 @@ export const dolBinData = [
         "summary": "*상당히 불쾌할수 있는 대사와 묘사가 다분히 포함되어 있습니다....구매에 유의해주세요. 부부의 공생관계 上 흑사 송은석 X 토끼 박원빈 각오는 했지만, 발정기의 열기는 생각보다 ..."
     },
     {
-        "url": "https://www.postype.com/@aiotsutae/post/16750234",
-        "title": "진짜 개.고.트한 넨른 노딱 포타 추천",
-        "author": "묭",
-        "date": "2024. 5. 6.",
-        "is_adult": "True",
-        views: 7600,
-        price: 500,
-        likes: 95,
-        "category": "novel",
-        "summary": "예술성 50 노딱 50 노딱 100 - 이렇게 두분야로 나눌거예요 제 취향 ) 폭력적이고 강압적이고 찡찡거리는 원비니 소재주의 하지만 소름돋는...작품들 숑넨 위주긴 하나 모든 넨..."
-    },
-    {
         "url": "https://www.postype.com/@likeavirginnn/post/21334161",
         "title": "그래서 스카페이스의 택시 드라이버와 우울증, 그리고 노스탤지어를 겪는 만두보이는 2 (끝)",
         "author": "잠와죽",

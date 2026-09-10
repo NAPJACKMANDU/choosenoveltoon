@@ -20,11 +20,26 @@ import { dolHeeData } from '../component/heeRight/dolhee';
 import { shongHeeData } from '../component/heeRight/shonghee';
 import { binHeeData } from '../component/heeRight/binhee';
 import { tonHeeData } from '../component/heeRight/tonhee';
+import { dolShoData } from '../component/shoRight/dolsho';
+import { shongShoData } from '../component/shoRight/shongsho';
+import { binShoData } from '../component/shoRight/binsho';
+import { heeShoData } from '../component/shoRight/heesho';
+import { tonShoData } from '../component/shoRight/tonsho';
 
 export const useFilterHook = (filterTag: string[]) => {
   const [filteredPosts, setFilteredPosts] = useState<novelToonData[]>([]);
 
   const handlers: Record<string, novelToonData[]> = {
+
+    "돌숕" : dolShoData,
+    "은숕" : dolShoData,
+    "석숕" : dolShoData,
+    "숑숕" : shongShoData,
+    "넨숕" : binShoData,
+    "또숕" : heeShoData,
+    "히숕" : heeShoData,
+    "톤숕" : tonShoData,
+    "숕른" : [...dolShoData, ...shongShoData, ...binShoData, ...heeShoData, ...tonShoData],
 
     "숕석" : shoDolData,
     "숕은" : shoDolData,
@@ -83,7 +98,9 @@ export const useFilterHook = (filterTag: string[]) => {
 
     const notKey = [
       "돌숑", "석숑", "또숑", "석톤", "은톤", "히톤", "숕돌", "숕은",
-      "숕히", "톤은", "톤돌", "톤히", "넨은", "넨돌", "숑은", "숑돌"
+      "숕히", "톤은", "톤돌", "톤히", "넨은", "넨돌", "숑은", "숑돌",
+      "넨히", "은숕", "석숕", "히숕", "은넨", "석넨", "돌히", "숑히",
+      
     ]
 
     
