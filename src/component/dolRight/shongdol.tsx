@@ -6009,7 +6009,7 @@ export const shongDolData = [
         price: 0,
         likes: 372,
         "category": "novel",
-        "summary": "ㅇㄷ? 오늘 병원 가는 날 아님? 나 어제 갔다 왔어 혼자 갔다 와 은석은 성찬에게서 온 메시지를 확인하곤 흠, 하고 턱을 문질렀다. 3일 전에도 자긴 따로 간다고 혼자 병원에 가..."
+        "summary": "ㅇㄷ? 오늘 병원 가는 날 아님? 나 어제 갔다 왔어 혼자 갔다 와 은석은 성찬에게서 온 메시지를 확인하곤 흠, 하고 턱을 문질렀다. 2026. 9. 5.에도 자긴 따로 간다고 혼자 병원에 가..."
     },
     {
         "url": "https://www.postype.com/@ggwha01/post/16813232",
@@ -24964,7 +24964,7 @@ export const shongDolData = [
         "title": "[숑석] 말해 봐.",
         "author": "뚱이",
         "date": "2024. 2. 11.",
-        "is_adult": "False",
+        "is_adult": "False", 
         views: 1100,
         price: 0,
         likes: 47,
@@ -36886,7 +36886,7 @@ export const shongDolData = [
         price: 0,
         likes: 1,
         "category": "novel",
-        "summary": "손목에 워치에서 알람이 울렸다. 평가일 2일 전... 매 번 마지막이라 생각하고 임해야 하는 나는 달력이 또 다른 압박이였다. 그런 나를 챙기는 누군가는 내가 연습을 간 후 집에 ..."
+        "summary": "손목에 워치에서 알람이 울렸다. 평가일 2026. 9. 6.... 매 번 마지막이라 생각하고 임해야 하는 나는 달력이 또 다른 압박이였다. 그런 나를 챙기는 누군가는 내가 연습을 간 후 집에 ..."
     },
     {
         "url": "https://www.postype.com/@sungchan-in-riize/post/21908414",

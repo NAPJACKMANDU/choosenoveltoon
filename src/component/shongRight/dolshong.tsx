@@ -1224,18 +1224,6 @@ export const dolShongData = [
         "summary": "정성찬에게 있어 선과 악이란 1초의 고민도 없이 구분 지을 수 있는, 대척점에 놓인 성질의 것이었다. 넘어진 친구를 망설임 없이 도와주고, 식물을 함부로 꺾지 않고, 타인을 배려하..."
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/20088828",
-        "title": "라이즈, 사주로 보는 은석이에 대한 성찬이의 시선",
-        "author": "규월",
-        "date": "2025. 8. 3.",
-        "is_adult": "False",
-        views: 2700,
-        price: 1300,
-        likes: 68,
-        "category": "novel",
-        "summary": "오랜만에 돌아온 라이즈 시선 시리즈, 오늘은 '은석이를 보면서 성찬이가 하는 생각들'에 대해 딥한 분석을 해보자. 소위 말해 '영원즈'라고 불리는 이 씨피는 유달리 캐해가 들쑥날쑥..."
-    },
-    {
         "url": "https://www.postype.com/@eunsyong01/post/20402434",
         "title": "무엇이든 해드립니다",
         "author": "돌토끼",

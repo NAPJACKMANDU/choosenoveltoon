@@ -18,6 +18,8 @@ import { heeDolData } from '../component/dolRight/heedol';
 import { shoHeeData } from '../component/heeRight/shohee';
 import { dolHeeData } from '../component/heeRight/dolhee';
 import { shongHeeData } from '../component/heeRight/shonghee';
+import { binHeeData } from '../component/heeRight/binhee';
+import { tonHeeData } from '../component/heeRight/tonhee';
 
 export const useFilterHook = (filterTag: string[]) => {
   const [filteredPosts, setFilteredPosts] = useState<novelToonData[]>([]);
@@ -60,11 +62,11 @@ export const useFilterHook = (filterTag: string[]) => {
     "석또": dolHeeData,
     "숑히": shongHeeData,
     "숑또": shongHeeData,
-    //"넨히": binHeeData,
-    //"넨또": binHeeData,
-    //"톤히": shoHeeData,
-    //"톤또": shoHeeData,
-    "또른": [...shoHeeData, ...dolShongData, ...shongHeeData],
+    "넨히": binHeeData,
+    "넨또": binHeeData,
+    "톤히": tonHeeData,
+    "톤또": tonHeeData,
+    "또른": [...shoHeeData, ...dolShongData, ...shongHeeData, ...binHeeData, ...tonHeeData],
 
     "숕톤": taroTonData,
     "돌톤": dolTonData,
