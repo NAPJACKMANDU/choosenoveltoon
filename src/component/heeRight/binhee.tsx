@@ -8600,7 +8600,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@ntt255/post/16992061",
         "title": "몰각",
-        "author": "2552024. 6. 16.·제목구독",
+        "author": "255",
         "date": "2024. 6. 16.",
         "is_adult": "False",
         views: 3400,
@@ -11161,7 +11161,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@ntt255/post/17253846",
         "title": "연애 이야기",
-        "author": "2552024. 7. 27.·제목구독",
+        "author": "255",
         "date": "2024. 7. 27.",
         "is_adult": "False",
         views: 3000,
@@ -11174,7 +11174,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@ntt255/post/16696922",
         "title": "Non-Noise Cancelling",
-        "author": "2552024. 4. 27.·제목구독",
+        "author": "255",
         "date": "2024. 4. 27.",
         "is_adult": "False",
         views: 3200,
@@ -11252,7 +11252,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@ntt255/post/17981797",
         "title": "형친구형",
-        "author": "2552024. 11. 9.·제목구독",
+        "author": "255",
         "date": "2024. 11. 9.",
         "is_adult": "False",
         views: 2400,
@@ -12487,7 +12487,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/18361328",
         "title": "답이 없어",
-        "author": "342025. 1. 1.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 1. 1.",
         "is_adult": "True",
         views: 4200,
@@ -12742,7 +12742,7 @@ export const binHeeData = [
         likes: 192
 ,
         "category": "novel",
-        "summary": "이미지 4 장 이미지 4 장 10,000 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이미지 4 장 이미지 4 장 10,000 P "
     },
     {
         "url": "https://www.postype.com/@mayka1102/post/15713312",
@@ -12968,7 +12968,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@ntt255/post/16892158",
         "title": "미봉책",
-        "author": "2552024. 5. 30.·제목구독",
+        "author": "255",
         "date": "2024. 5. 30.",
         "is_adult": "True",
         views: 3400,
@@ -13462,7 +13462,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/18378838",
         "title": "답이 없으면 만들어",
-        "author": "342025. 1. 4.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 1. 4.",
         "is_adult": "True",
         views: 2900,
@@ -13891,7 +13891,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@ntt255/post/17100403",
         "title": "W.F.A.F?",
-        "author": "2552024. 7. 7.·제목구독",
+        "author": "255",
         "date": "2024. 7. 7.",
         "is_adult": "False",
         views: 2400,
@@ -14021,7 +14021,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@ntt255/post/16787045",
         "title": "Non-Noise Cancelling +",
-        "author": "2552024. 5. 13.·제목구독",
+        "author": "255",
         "date": "2024. 5. 13.",
         "is_adult": "True",
         views: 2300,
@@ -14320,7 +14320,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@70617061/post/16268696",
         "title": "내 남자친구의 전 연애 (1/2)",
-        "author": "372024. 2. 22.·/ᐠ._.ᐟ\\구독",
+        "author": "37",
         "date": "2024. 2. 22.",
         "is_adult": "False",
         views: 2900,
@@ -14775,7 +14775,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/18444340",
         "title": "1 탈환기 上",
-        "author": "342025. 1. 14.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 1. 14.",
         "is_adult": "False",
         views: 3000,
@@ -15776,7 +15776,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@70617061/post/16349200",
         "title": "유급생 갱생기 1",
-        "author": "372024. 3. 3.·/ᐠ._.ᐟ\\구독",
+        "author": "37",
         "date": "2024. 3. 3.",
         "is_adult": "False",
         views: 2100,
@@ -16842,7 +16842,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@ntt255/post/17666778",
         "title": "큐피드의 죄와 형벌 .상",
-        "author": "2552024. 9. 22.·제목구독",
+        "author": "255",
         "date": "2024. 9. 22.",
         "is_adult": "False",
         views: 2100,
@@ -16868,7 +16868,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@70617061/post/16317535",
         "title": "내 남자친구의 전 연애 (2/2)",
-        "author": "372024. 2. 25.·/ᐠ._.ᐟ\\구독",
+        "author": "37",
         "date": "2024. 2. 25.",
         "is_adult": "False",
         views: 1600,
@@ -21327,7 +21327,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/18519189",
         "title": "1 탈환기 下",
-        "author": "342025. 1. 22.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 1. 22.",
         "is_adult": "True",
         views: 1300,
@@ -21886,7 +21886,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/19380491",
         "title": "답이 있어",
-        "author": "342025. 5. 6.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 5. 6.",
         "is_adult": "True",
         views: 1900,
@@ -22185,7 +22185,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/18492960",
         "title": "1 탈환기 中(2)",
-        "author": "342025. 1. 19.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 1. 19.",
         "is_adult": "False",
         views: 910,
@@ -22328,7 +22328,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/18469673",
         "title": "1 탈환기 中",
-        "author": "342025. 1. 15.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 1. 15.",
         "is_adult": "False",
         views: 1100,
@@ -22848,7 +22848,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@ntt255/post/17890096",
         "title": "큐피드의 죄와 형벌 .하",
-        "author": "2552024. 11. 9.·제목구독",
+        "author": "255",
         "date": "2024. 11. 9.",
         "is_adult": "False",
         views: 827,
@@ -23342,7 +23342,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/18562204",
         "title": "252 극복기",
-        "author": "342025. 1. 26.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 1. 26.",
         "is_adult": "True",
         views: 2100,
@@ -23485,7 +23485,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/18314148",
         "title": "30시간 뒤 항로 변경",
-        "author": "342024. 12. 27.·Guitare et voix구독",
+        "author": "34",
         "date": "2024. 12. 27.",
         "is_adult": "False",
         views: 1500,
@@ -24122,7 +24122,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@70617061/post/16386004",
         "title": "유급생 갱생기 2",
-        "author": "372024. 3. 17.·/ᐠ._.ᐟ\\구독",
+        "author": "37",
         "date": "2024. 3. 17.",
         "is_adult": "False",
         views: 1000,
@@ -24221,7 +24221,7 @@ export const binHeeData = [
         likes: 89
 ,
         "category": "novel",
-        "summary": "이미지 28 장 이미지 28 장 500 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이미지 28 장 이미지 28 장 500 P "
     },
     {
         "url": "https://www.postype.com/@shamba/post/22633129",
@@ -24330,7 +24330,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/19795996",
         "title": "깨끗이 청소합시다 上",
-        "author": "342025. 6. 29.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 6. 29.",
         "is_adult": "False",
         views: 891,
@@ -26306,7 +26306,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@70617061/post/16478454",
         "title": "유급생 갱생기 3",
-        "author": "372024. 3. 24.·/ᐠ._.ᐟ\\구독",
+        "author": "37",
         "date": "2024. 3. 24.",
         "is_adult": "False",
         views: 772,
@@ -27359,7 +27359,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/18641102",
         "title": "미레도시",
-        "author": "342025. 2. 6.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 2. 6.",
         "is_adult": "False",
         views: 630,
@@ -27542,7 +27542,7 @@ export const binHeeData = [
         "url": "https://www.postype.com/@viante/post/23039301",
         "title": "우리는 수많은 감정을 지나치고",
         "author": "비앙",
-        "date": "14시간 전",
+        "date": "2026. 9. 7.",
         "is_adult": "False",
         views: 534,
         price: 0,
@@ -27840,7 +27840,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@astr0nut/post/22680694",
         "title": "Sweet Simmer",
-        "author": "0Z2026. 7. 13.·천체 일기구독",
+        "author": "0Z",
         "date": "2026. 7. 13.",
         "is_adult": "True",
         views: 491,
@@ -27866,7 +27866,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/19427543",
         "title": "파크 우주 차량 정비소(바이크 가능)",
-        "author": "342025. 5. 12.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 5. 12.",
         "is_adult": "False",
         views: 503,
@@ -28061,7 +28061,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@middleofn5where/post/19833413",
         "title": "깨끗이 청소합시다 下",
-        "author": "342025. 7. 3.·Guitare et voix구독",
+        "author": "34",
         "date": "2025. 7. 3.",
         "is_adult": "False",
         views: 541,
@@ -28589,7 +28589,7 @@ export const binHeeData = [
         likes: 57
 ,
         "category": "webtoon",
-        "summary": "이거를 지금 돈 내고 보시게 하는 게 맞나...싶지만요... 열심히 달려봤습니다 ...ㅜㅜ (총 33컷입니다) 이미지 9 장 이미지 9 장 500 P 구매하기 여러 회차 한꺼번에 ..."
+        "summary": "이거를 지금 돈 내고 보시게 하는 게 맞나...싶지만요... 열심히 달려봤습니다 ...ㅜㅜ (총 33컷입니다) 이미지 9 장 이미지 9 장 500 P  ..."
     },
     {
         "url": "https://www.postype.com/@white-brain2/post/22154661",
@@ -28810,7 +28810,7 @@ export const binHeeData = [
         likes: 56
 ,
         "category": "novel",
-        "summary": "이미지 25 장 이미지 25 장 500 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이미지 25 장 이미지 25 장 500 P "
     },
     {
         "url": "https://www.postype.com/@wajae2402/post/16640939",
@@ -29421,7 +29421,7 @@ export const binHeeData = [
         likes: 51
 ,
         "category": "novel",
-        "summary": "!!!!!!!!!!!!!!!!!!!!!! 이번엔 씬이 없습니다 !!!!!!!!!!!!!!!!!!!! (51컷입니다) 이미지 12 장 이미지 12 장 500 P 구매하기 여러 회차 ..."
+        "summary": "!!!!!!!!!!!!!!!!!!!!!! 이번엔 씬이 없습니다 !!!!!!!!!!!!!!!!!!!! (51컷입니다) 이미지 12 장 이미지 12 장 500 P "
     },
     {
         "url": "https://www.postype.com/@morethanwaste/post/22786140",
@@ -29460,7 +29460,7 @@ export const binHeeData = [
         likes: 51
 ,
         "category": "novel",
-        "summary": "8컷... 프롤로그입니다... 평생 넨또하는거다... 이미지 2 장 이미지 2 장 500 P 구매하기 여러 회차 한꺼번에"
+        "summary": "8컷... 프롤로그입니다... 평생 넨또하는거다... 이미지 2 장 이미지 2 장 500 P "
     },
     {
         "url": "https://www.postype.com/@mumu-k11/post/19415534",
@@ -29539,19 +29539,6 @@ export const binHeeData = [
 ,
         "category": "novel",
         "summary": "섹못방 소재에 수인을 한 방울 넣은... 늑대X토끼 입니다 소희는 지금 이 상황을 이해하려고 애썼다. 분명히 토끼 수인 친구들과 콜팝을 먹고 영화를 보러 가는 길에 원빈을 마주쳤고..."
-    },
-    {
-        "url": "https://www.postype.com/@nenddogi/post/22895439",
-        "title": "또리비니 우치와 도안 공유",
-        "author": "OGI",
-        "date": "2026. 8. 8.",
-        "is_adult": "False",
-        views: 367,
-        price: 0,
-        likes: 50
-,
-        "category": "webtoon",
-        "summary": "1 / 3 제가 작업한 재단선 기준 참고하세요! 2차가공, 재배포, 상업적 이용 금지 개인소장용으로만 사용해주세요 문의는 (@nenddogi) 스핀으로 남겨주세요! 파일 3 개"
     },
     {
         "url": "https://www.postype.com/@ssoyaaaaa/post/22862268",
@@ -30635,7 +30622,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@bb-3-dd/post/21490701",
         "title": "Missed the cue",
-        "author": "3_2026. 1. 29.·33구독",
+        "author": "3_",
         "date": "2026. 1. 29.",
         "is_adult": "False",
         views: 307,
@@ -31025,7 +31012,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@bb-3-dd/post/21521650",
         "title": "NOV 20",
-        "author": "3_2026. 2. 4.·33구독",
+        "author": "3_",
         "date": "2026. 2. 4.",
         "is_adult": "False",
         views: 504,
@@ -31116,7 +31103,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@vkqbqave/post/19367874",
         "title": "재개발",
-        "author": "262025. 8. 18.·~구독",
+        "author": "26",
         "date": "2025. 8. 18.",
         "is_adult": "True",
         views: 2500,
@@ -31402,7 +31389,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@bb-3-dd/post/21493509",
         "title": "Missed the cue+",
-        "author": "3_2026. 1. 31.·33구독",
+        "author": "3_",
         "date": "2026. 1. 31.",
         "is_adult": "False",
         views: 248,
@@ -31662,7 +31649,7 @@ export const binHeeData = [
     {
         "url": "https://www.postype.com/@bb-3-dd/post/21530375",
         "title": "Missed the cue++",
-        "author": "3_2026. 2. 13.·33구독",
+        "author": "3_",
         "date": "2026. 2. 13.",
         "is_adult": "False",
         views: 209,

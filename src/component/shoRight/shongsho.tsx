@@ -98,7 +98,7 @@ export const shongShoData = [
     {
         "url": "https://www.postype.com/@25lovu/post/16072198",
         "title": "X",
-        "author": "252024. 1. 28.·느릿느릿구독",
+        "author": "25",
         "date": "2024. 1. 28.",
         "is_adult": "False",
         views: 11000,
@@ -158,7 +158,7 @@ export const shongShoData = [
     {
         "url": "https://www.postype.com/@25lovu/post/16248327",
         "title": "XX",
-        "author": "252024. 2. 18.·느릿느릿구독",
+        "author": "25",
         "date": "2024. 2. 18.",
         "is_adult": "False",
         views: 10000,
@@ -662,7 +662,7 @@ export const shongShoData = [
     {
         "url": "https://www.postype.com/@uninterruptedly/post/16185816",
         "title": "삼가 아뢰옵니다, 왕자님 上",
-        "author": "242024. 3. 4.·24/7구독",
+        "author": "24",
         "date": "2024. 3. 4.",
         "is_adult": "False",
         views: 5700,
@@ -3278,7 +3278,7 @@ export const shongShoData = [
     {
         "url": "https://www.postype.com/@uninterruptedly/post/16482994",
         "title": "日常風景",
-        "author": "242024. 3. 20.·24/7구독",
+        "author": "24",
         "date": "2024. 3. 20.",
         "is_adult": "False",
         views: 2600,
@@ -3758,7 +3758,7 @@ export const shongShoData = [
     {
         "url": "https://www.postype.com/@uninterruptedly/post/17261819",
         "title": "삼가 아뢰옵니다, 왕자님 中",
-        "author": "242025. 1. 13.·24/7구독",
+        "author": "24",
         "date": "2025. 1. 13.",
         "is_adult": "False",
         views: 1200,
@@ -9986,7 +9986,7 @@ export const shongShoData = [
     {
         "url": "https://www.postype.com/@yeon112/post/16762980",
         "title": "M87",
-        "author": "1122024. 5. 11.·본투게더구독",
+        "author": "112",
         "date": "2024. 5. 11.",
         "is_adult": "False",
         views: 827,
@@ -11930,7 +11930,7 @@ export const shongShoData = [
     {
         "url": "https://www.postype.com/@dndbakt/post/15702140",
         "title": "라이즈 커플 프로필",
-        "author": "0912023. 11. 22.·O구독",
+        "author": "091",
         "date": "2023. 11. 22.",
         "is_adult": "False",
         views: 1900,
@@ -15924,42 +15924,6 @@ export const shongShoData = [
         "summary": "https://posty.pe/8ssrw6 위 글을 쓰다가 콘티 짜서 짧게나마 그려보았어요"
     },
     {
-        "url": "https://www.postype.com/@leesuzi/post/19230062",
-        "title": "라이즈 정성찬 캐해",
-        "author": "…",
-        "date": "2025. 4. 13.",
-        "is_adult": "False",
-        views: 386,
-        price: 700,
-        likes: 1,
-        "category": "novel",
-        "summary": "일단 정성찬은 야망이 있음 굉장히 성공에 목말라있고 갈망함 근데 자꾸 뭐가 하면 할 수록 더 안되는 느낌 ex)영통이슈 또 남들에게 어떻게 보여지는지 신경을 쓰는데 기회주의자적 면..."
-    },
-    {
-        "url": "https://www.postype.com/@fansssa/post/17887189",
-        "title": "라이즈 성찬 영통 팬싸컷",
-        "author": "터터",
-        "date": "2024. 10. 25.",
-        "is_adult": "False",
-        views: 163,
-        price: 1000,
-        likes: 1,
-        "category": "novel",
-        "summary": "직접 컷 상담받았던거, 응모했던거 싸게 정보 공유해요 텍스트 51 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@y0u0-ing/post/20450971",
-        "title": "닏재도 블셀 성탯 성양 양훈 숑숕돌",
-        "author": "온통",
-        "date": "2025. 9. 25.",
-        "is_adult": "False",
-        views: 369,
-        price: 0,
-        likes: 0,
-        "category": "novel",
-        "summary": "닏재도 - 센티넬버스 국내 최초 S급 양친 사이에서 태어난 신신유. 상성 맞는 가이드 없이 밥 먹듯 폭주하는 신정환을 위해 폭주받이가 된 최영재. 가이드도 센티넬도 아니지만 SS급..."
-    },
-    {
         "url": "https://www.postype.com/@nickname-ss/post/19754191",
         "title": "문화 차이",
         "author": "Nick네임",
@@ -15994,18 +15958,6 @@ export const shongShoData = [
         likes: 0,
         "category": "novel",
         "summary": "상자 속에 들어있던 사진들.. 짝사랑을 들켜버렸다. (19금, 노딱, 고수위, 대물, 딥스롯, 안싸) 주의🥵 텍스트 3,810 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@fansssa/post/17887195",
-        "title": "라이즈 원빈 영통 팬싸컷",
-        "author": "터터",
-        "date": "2024. 10. 25.",
-        "is_adult": "False",
-        views: 278,
-        price: 1000,
-        likes: 0,
-        "category": "novel",
-        "summary": "직접 컷 상담받았던거, 응모했던거 싸게 정보 공유해요 텍스트 54 자 공백 제외"
     },
     {
         "url": "https://www.postype.com/@jkljkldks/post/17843020",

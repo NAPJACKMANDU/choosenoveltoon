@@ -25,6 +25,11 @@ import { shongShoData } from '../component/shoRight/shongsho';
 import { binShoData } from '../component/shoRight/binsho';
 import { heeShoData } from '../component/shoRight/heesho';
 import { tonShoData } from '../component/shoRight/tonsho';
+import { shoBinData } from '../component/binRight/shobin';
+import { dolBinData } from '../component/binRight/dolbin';
+import { heeBinData } from '../component/binRight/heebin';
+import { tonBinData } from '../component/binRight/tonbin';
+import { shongBinData } from '../component/binRight/shongbin';
 
 export const useFilterHook = (filterTag: string[]) => {
   const [filteredPosts, setFilteredPosts] = useState<novelToonData[]>([]);
@@ -71,6 +76,16 @@ export const useFilterHook = (filterTag: string[]) => {
     "톤숑": tonShongData,
     "숑른": [...shoShongData, ...dolShongData, ...binShongData, ...heeShongData, ...tonShongData],
 
+    "숕넨" : shoBinData,
+    "돌넨" : dolBinData,
+    "은넨" : dolBinData,
+    "석넨" : dolBinData,
+    "숑넨" : shongBinData,
+    "또넨" : heeBinData,
+    "히넨" : heeBinData,
+    "톤넨" : tonBinData,
+    "넨른" : [...shoBinData, ...dolBinData, ...shongBinData, ...heeBinData, ...tonBinData],
+
     "숕히": shoHeeData,
     "숕또": shoHeeData,
     "돌히": dolHeeData,
@@ -100,6 +115,7 @@ export const useFilterHook = (filterTag: string[]) => {
       "돌숑", "석숑", "또숑", "석톤", "은톤", "히톤", "숕돌", "숕은",
       "숕히", "톤은", "톤돌", "톤히", "넨은", "넨돌", "숑은", "숑돌",
       "넨히", "은숕", "석숕", "히숕", "은넨", "석넨", "돌히", "숑히",
+      "히돌", "히은", "히석", "또은", 
       
     ]
 

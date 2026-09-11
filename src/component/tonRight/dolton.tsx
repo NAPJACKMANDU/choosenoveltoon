@@ -842,7 +842,7 @@ export const dolTonData = [
     {
         "url": "https://www.postype.com/@123-to/post/21226331",
         "title": "marriage baby blue 01",
-        "author": "1232026. 1. 2.·L__E구독",
+        "author": "123",
         "date": "2026. 1. 2.",
         "is_adult": "False",
         views : 1400,
@@ -962,7 +962,7 @@ export const dolTonData = [
     {
         "url": "https://www.postype.com/@123-to/post/22067330",
         "title": "솔직해지자면",
-        "author": "1232026. 5. 4.·L__E구독",
+        "author": "123",
         "date": "2026. 5. 4.",
         "is_adult": "False",
         views : 960,
@@ -986,7 +986,7 @@ export const dolTonData = [
     {
         "url": "https://www.postype.com/@123-to/post/21471016",
         "title": "marriage baby blue 04",
-        "author": "1232026. 2. 23.·L__E구독",
+        "author": "123",
         "date": "2026. 2. 23.",
         "is_adult": "False",
         views : 790,
@@ -1070,7 +1070,7 @@ export const dolTonData = [
     {
         "url": "https://www.postype.com/@123-to/post/21253678",
         "title": "marriage baby blue 02",
-        "author": "1232026. 1. 12.·L__E구독",
+        "author": "123",
         "date": "2026. 1. 12.",
         "is_adult": "False",
         views : 780,
@@ -1202,7 +1202,7 @@ export const dolTonData = [
     {
         "url": "https://www.postype.com/@123-to/post/21347724",
         "title": "marriage baby blue 03",
-        "author": "1232026. 1. 26.·L__E구독",
+        "author": "123",
         "date": "2026. 1. 26.",
         "is_adult": "False",
         views : 659,

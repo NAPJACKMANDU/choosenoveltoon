@@ -26,7 +26,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@lov32119/post/16107622",
         "title": "if you seek me",
-        "author": "321192024. 1. 25.·LO<32119구독",
+        "author": "32119",
         "date": "2024. 1. 25.",
         "is_adult": "True",
         views: 15000,
@@ -62,7 +62,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@tonidorizzang/post/16323568",
         "title": "톤석 log1",
-        "author": "0.02024. 2. 23.·tonidorizzang구독",
+        "author": "0.0",
         "date": "2024. 2. 23.",
         "is_adult": "False",
         views: 7300,
@@ -86,7 +86,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@lov32119/post/16076098",
         "title": "캠퍼스에서 사랑 찾기",
-        "author": "321192024. 1. 21.·LO<32119구독",
+        "author": "32119",
         "date": "2024. 1. 21.",
         "is_adult": "False",
         views: 5800,
@@ -230,7 +230,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@tonidorizzang/post/16386424",
         "title": "톤석 log2",
-        "author": "0.02024. 3. 4.·tonidorizzang구독",
+        "author": "0.0",
         "date": "2024. 3. 4.",
         "is_adult": "False",
         views: 4100,
@@ -434,7 +434,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@tonidorizzang/post/16753383",
         "title": "D+1",
-        "author": "0.02024. 5. 7.·tonidorizzang구독",
+        "author": "0.0",
         "date": "2024. 5. 7.",
         "is_adult": "False",
         views: 3900,
@@ -446,7 +446,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@lov32119/post/16274867",
         "title": "Y S2 K !",
-        "author": "321192024. 2. 17.·LO<32119구독",
+        "author": "32119",
         "date": "2024. 2. 17.",
         "is_adult": "False",
         views: 3100,
@@ -542,7 +542,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@cherish20/post/16977087",
         "title": "ates log",
-        "author": "82024. 6. 13.·cherish구독",
+        "author": "8",
         "date": "2024. 6. 13.",
         "is_adult": "False",
         views: 2600,
@@ -878,7 +878,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@cherish20/post/17562364",
         "title": ".",
-        "author": "82024. 9. 7.·cherish구독",
+        "author": "8",
         "date": "2024. 9. 7.",
         "is_adult": "False",
         views: 2300,
@@ -890,7 +890,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@cherish20/post/17991474",
         "title": "Log",
-        "author": "82024. 11. 10.·cherish구독",
+        "author": "8",
         "date": "2024. 11. 10.",
         "is_adult": "False",
         views: 1200,
@@ -1070,7 +1070,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@cherish20/post/16988657",
         "title": "그해, 여름",
-        "author": "82024. 6. 16.·cherish구독",
+        "author": "8",
         "date": "2024. 6. 16.",
         "is_adult": "False",
         views: 1700,
@@ -1202,7 +1202,7 @@ export const tonDolData = [
     {
         "url": "https://www.postype.com/@lov32119/post/16093133",
         "title": "사랑이 지는 자리",
-        "author": "321192024. 1. 23.·LO<32119구독",
+        "author": "32119",
         "date": "2024. 1. 23.",
         "is_adult": "False",
         views: 2200,

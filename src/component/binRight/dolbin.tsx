@@ -86,7 +86,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@001226456/post/15866717",
         "title": "오만과 편견",
-        "author": "002023. 12. 22.·1구독",
+        "author": "00",
         "date": "2023. 12. 22.",
         "is_adult": "True",
         views: 32000,
@@ -254,7 +254,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@001226456/post/16031499",
         "title": "오만과 편견 外",
-        "author": "002024. 1. 16.·1구독",
+        "author": "00",
         "date": "2024. 1. 16.",
         "is_adult": "True",
         views: 19000,
@@ -278,7 +278,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@001226456/post/17196320",
         "title": "별거아닌",
-        "author": "002024. 7. 21.·1구독",
+        "author": "00",
         "date": "2024. 7. 21.",
         "is_adult": "True",
         views: 17000,
@@ -2726,7 +2726,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@iohcill57/post/18402848",
         "title": "언레디브로큰",
-        "author": "572025. 1. 13.·작열하는 태양으로구독",
+        "author": "57",
         "date": "2025. 1. 13.",
         "is_adult": "False",
         views: 2500,
@@ -6374,7 +6374,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@status408/post/20067369",
         "title": "감정 잔류 1",
-        "author": "4082025. 7. 31.·Request Timeout구독",
+        "author": "408",
         "date": "2025. 7. 31.",
         "is_adult": "False",
         views: 312,
@@ -6878,7 +6878,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@kfqmwi/post/18046607",
         "title": "구원 불응",
-        "author": "222024. 11. 20.·64구독",
+        "author": "22",
         "date": "2024. 11. 20.",
         "is_adult": "True",
         views: 1000,
@@ -7598,7 +7598,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@87is56/post/21842042",
         "title": "그동생의사생활 하",
-        "author": "872026. 3. 16.·56구독",
+        "author": "87",
         "date": "2026. 3. 16.",
         "is_adult": "True",
         views: 766,
@@ -8018,7 +8018,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@status408/post/20215753",
         "title": "감정 잔류 3",
-        "author": "4082025. 8. 16.·Request Timeout구독",
+        "author": "408",
         "date": "2025. 8. 16.",
         "is_adult": "False",
         views: 200,
@@ -8222,7 +8222,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@status408/post/20436141",
         "title": "감정 잔류 5",
-        "author": "4082025. 9. 14.·Request Timeout구독",
+        "author": "408",
         "date": "2025. 9. 14.",
         "is_adult": "False",
         views: 169,
@@ -8414,7 +8414,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@status408/post/20114911",
         "title": "감정 잔류 2",
-        "author": "4082025. 8. 5.·Request Timeout구독",
+        "author": "408",
         "date": "2025. 8. 5.",
         "is_adult": "False",
         views: 200,
@@ -8990,7 +8990,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@status408/post/20255459",
         "title": "감정 잔류 4",
-        "author": "4082025. 8. 21.·Request Timeout구독",
+        "author": "408",
         "date": "2025. 8. 21.",
         "is_adult": "True",
         views: 233,
@@ -9398,7 +9398,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@01020399/post/19351311",
         "title": "돌넨 남매 썰",
-        "author": "2182025. 5. 2.·.구독",
+        "author": "218",
         "date": "2025. 5. 2.",
         "is_adult": "True",
         views: 717,
@@ -9746,7 +9746,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@01020399/post/21073899",
         "title": "돌넨 남매 썰 3",
-        "author": "2182025. 12. 10.·.구독",
+        "author": "218",
         "date": "2025. 12. 10.",
         "is_adult": "True",
         views: 342,
@@ -9758,7 +9758,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@01020399/post/20952836",
         "title": "돌넨 남매 썰 2",
-        "author": "2182025. 11. 23.·.구독",
+        "author": "218",
         "date": "2025. 11. 23.",
         "is_adult": "True",
         views: 422,
@@ -9854,7 +9854,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@charlie-rr/post/18872076",
         "title": "포타일기 제출합니다",
-        "author": "792025. 3. 4.·슴덬의 주저리구독",
+        "author": "79",
         "date": "2025. 3. 4.",
         "is_adult": "False",
         views: 766,
@@ -9862,18 +9862,6 @@ export const dolBinData = [
         likes: 3,
         "category": "novel",
         "summary": "가쓰오부시는 내 친구도 아니고 알페스는 내 인생이다. 아믈랭이라는 피아니스트가 내한하여 리사이틀을 했던 날, 앵콜로 연주된 우아한 유령이 유튜브에 업로드 되었다. 그 수도 없이 들..."
-    },
-    {
-        "url": "https://www.postype.com/@eattasty/post/18519528",
-        "title": "🔞 라이즈 숑넨 추천",
-        "author": "냥냥",
-        "date": "2025. 1. 31.",
-        "is_adult": "False",
-        views: 1000,
-        price: 1500,
-        likes: 3,
-        "category": "novel",
-        "summary": "글 그림 모두 성인만 60개 텍스트 1,491 자 공백 제외"
     },
     {
         "url": "https://www.postype.com/@ddaddadda/post/17858400",
@@ -9927,7 +9915,7 @@ export const dolBinData = [
         "url": "https://www.postype.com/@zelus-nous/post/23083451",
         "title": "아흐레 上",
         "author": "roux",
-        "date": "3시간 전",
+        "date": "2026. 9. 8.",
         "is_adult": "False",
         views: 7,
         price: 0,
@@ -10022,7 +10010,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@1ixxcx/post/22119478",
         "title": "돌넨 컨트보이 19",
-        "author": "1lic2026. 4. 22.·XXX구독",
+        "author": "1lic",
         "date": "2026. 4. 22.",
         "is_adult": "True",
         views: 184,
@@ -10058,7 +10046,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@01020399/post/21487034",
         "title": "돌넨 남매 썰 4",
-        "author": "2182026. 1. 29.·.구독",
+        "author": "218",
         "date": "2026. 1. 29.",
         "is_adult": "True",
         views: 216,
@@ -10142,7 +10130,7 @@ export const dolBinData = [
     {
         "url": "https://www.postype.com/@status408/post/20126514",
         "title": "감정 잔류 2.5",
-        "author": "4082025. 8. 6.·Request Timeout구독",
+        "author": "408",
         "date": "2025. 8. 6.",
         "is_adult": "True",
         views: 150,

@@ -48,18 +48,6 @@ export const heeDolData = [
         "summary": "쿠당탕- 송은석을 부축한 채 겨우 현관문을 지나 침대에 쓰러지듯 송은석을 던졌다. 가쁜 숨을 몰아쉬며 냉장고로 가 생수를 벌컥 들이켰다. 하, 힘들어.. 입고있던 후드를 벗어 얼굴..."
     },
     {
-        "url": "https://www.postype.com/@sn1054/post/5059803",
-        "title": "[명우유진] 또석이",
-        "author": "객성",
-        "date": "2019. 11. 3.",
-        "is_adult": "False",
-        views: 873,
-        price: 0,
-        likes: 64,
-        "category": "novel",
-        "summary": "- 방은 구했냐? 군복학생의 외로운 처지를 타파해보고자 돌아온 동아리방은 잡동사니 창고로 전락한 지 오래다. 어디서 나타났는지도 알 수 없는 밥상을 펴놓고 퍼즐 맞추기에 열중하..."
-    },
-    {
         "url": "https://www.postype.com/@tallsizeplz/post/17818685",
         "title": "짝사랑 미러전",
         "author": "자허블",
@@ -382,41 +370,5 @@ export const heeDolData = [
         likes: 1,
         "category": "novel",
         "summary": "텍스트 4,562 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@dropchodori/post/5892610",
-        "title": "또석",
-        "author": "ㄹ",
-        "date": "2020. 2. 19.",
-        "is_adult": "False",
-        views: 49,
-        price: 0,
-        likes: 1,
-        "category": "webtoon",
-        "summary": "(자꾸 늘어나는데 얘로 끝낼거임..진짜) 평행세계의 루벨이랑 몰다 사귄..다.... (이때까지만 해도 모브..였음.....)"
-    },
-    {
-        "url": "https://www.postype.com/@dropchodori/post/5463299",
-        "title": "디아니아",
-        "author": "ㄹ",
-        "date": "2020. 1. 2.",
-        "is_adult": "False",
-        views: 12,
-        price: 0,
-        likes: 1,
-        "category": "webtoon",
-        "summary": "버닝장르라서 에유 100일겸 크리스마스축전"
-    },
-    {
-        "url": "https://www.postype.com/@dropchodori/post/4756474",
-        "title": "또석에유",
-        "author": "ㄹ",
-        "date": "2019. 9. 20.",
-        "is_adult": "False",
-        views: 14,
-        price: 0,
-        likes: 1,
-        "category": "webtoon",
-        "summary": ""
     }
 ]

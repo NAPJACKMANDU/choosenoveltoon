@@ -1237,7 +1237,7 @@ export const heeBinData = [
     {
         "url": "https://www.postype.com/@status408/post/20067369",
         "title": "감정 잔류 1",
-        "author": "4082025. 7. 31.·Request Timeout구독",
+        "author": "408",
         "date": "2025. 7. 31.",
         "is_adult": "False",
         views: 313,
@@ -1666,7 +1666,7 @@ export const heeBinData = [
     {
         "url": "https://www.postype.com/@status408/post/20215753",
         "title": "감정 잔류 3",
-        "author": "4082025. 8. 16.·Request Timeout구독",
+        "author": "408",
         "date": "2025. 8. 16.",
         "is_adult": "False",
         views: 201,
@@ -1705,7 +1705,7 @@ export const heeBinData = [
     {
         "url": "https://www.postype.com/@status408/post/20436141",
         "title": "감정 잔류 5",
-        "author": "4082025. 9. 14.·Request Timeout구독",
+        "author": "408",
         "date": "2025. 9. 14.",
         "is_adult": "False",
         views: 170,
@@ -1939,7 +1939,7 @@ export const heeBinData = [
     {
         "url": "https://www.postype.com/@status408/post/20255459",
         "title": "감정 잔류 4",
-        "author": "4082025. 8. 21.·Request Timeout구독",
+        "author": "408",
         "date": "2025. 8. 21.",
         "is_adult": "True",
         views: 234,

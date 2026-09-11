@@ -10922,7 +10922,7 @@ export const shongTonData = [
     {
         "url": "https://www.postype.com/@913songton/post/19170868",
         "title": "하루만 너의 고양이가 되고 싶어 (1/4)",
-        "author": "9132025. 4. 5.·성과 찬과 영구독",
+        "author": "913",
         "date": "2025. 4. 5.",
         "is_adult": "False",
         views: 1000,
@@ -12470,7 +12470,7 @@ export const shongTonData = [
     {
         "url": "https://www.postype.com/@913songton/post/19226695",
         "title": "하루만 너의 고양이가 되고 싶어 (2/4)",
-        "author": "9132025. 5. 3.·성과 찬과 영구독",
+        "author": "913",
         "date": "2025. 5. 3.",
         "is_adult": "False",
         views: 859,
@@ -12914,7 +12914,7 @@ export const shongTonData = [
     {
         "url": "https://www.postype.com/@913songton/post/19375307",
         "title": "하루만 너의 고양이가 되고 싶어 (3/4)",
-        "author": "9132025. 6. 15.·성과 찬과 영구독",
+        "author": "913",
         "date": "2025. 6. 15.",
         "is_adult": "False",
         views: 579,
@@ -14666,7 +14666,7 @@ export const shongTonData = [
     {
         "url": "https://www.postype.com/@ooookkkk/post/20887143",
         "title": "내 인생을 망치러 온 나의 XXX (2/3)",
-        "author": "6662025. 11. 13.·0+0구독",
+        "author": "666",
         "date": "2025. 11. 13.",
         "is_adult": "False",
         views: 251,
@@ -14926,18 +14926,6 @@ export const shongTonData = [
         likes: 27,
         "category": "novel",
         "summary": "조직물 정성찬X이찬영 텍스트 5,152 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@baegji0104/post/16270799",
-        "title": "왕대굴 키링 도안 파일",
-        "author": "백지",
-        "date": "2024. 2. 16.",
-        "is_adult": "False",
-        views: 514,
-        price: 0,
-        likes: 27,
-        "category": "novel",
-        "summary": "30x30mm 상업적 이용 x 개인소장만 왕대굴 숑톤 키링 - 테두리o.png 용량 86.85KB 왕대굴 숑톤 키링 - 테두리x.png 용량 78.25KB"
     },
     {
         "url": "https://www.postype.com/@ekdqlfm/post/15821862",
@@ -15398,7 +15386,7 @@ export const shongTonData = [
     {
         "url": "https://www.postype.com/@ooookkkk/post/20858650",
         "title": "내 인생을 망치러 온 나의 XXX (1/3)",
-        "author": "6662025. 11. 10.·0+0구독",
+        "author": "666",
         "date": "2025. 11. 10.",
         "is_adult": "False",
         views: 353,
@@ -21574,18 +21562,6 @@ export const shongTonData = [
         likes: 5,
         "category": "novel",
         "summary": "찬영아~~ 옥상에 나란히 앉아서 찬영을 웃으며 부르는 은석과 성찬을 보자니 찬영의 입가에 미소가 지어졌다.서로를 잡아먹을 것처럼 하다가도 너무나 해맑게 자신을 부르는 모습을..."
-    },
-    {
-        "url": "https://www.postype.com/@urusaurus/post/16292046",
-        "title": "숑톤 스티커 도안 공유",
-        "author": "어우야사우르스",
-        "date": "2024. 2. 19.",
-        "is_adult": "False",
-        views: 292,
-        price: 100,
-        likes: 5,
-        "category": "webtoon",
-        "summary": "실사 ♥ 오프린트미 가이드 기준에 맞춰 작업된 파일입니다 용지나 코팅은 어떤 옵션을 선택해도 상관없지만 사이즈는 반드시 A6, 칼선은 칼선넣기 를 선택하셔야 합니다! 내 디자인 업..."
     },
     {
         "url": "https://www.postype.com/@peelthemangosteen/post/16148765",

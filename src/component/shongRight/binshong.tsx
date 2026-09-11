@@ -110,7 +110,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@176x186/post/18012388",
         "title": "넨숑 백업",
-        "author": "1232024. 11. 13.·789구독",
+        "author": "123",
         "date": "2024. 11. 13.",
         "is_adult": "False",
         views: 2500,
@@ -362,7 +362,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@176x186/post/18974808",
         "title": "넨숑 백업 2",
-        "author": "1232025. 3. 9.·789구독",
+        "author": "123",
         "date": "2025. 3. 9.",
         "is_adult": "False",
         views: 1500,
@@ -422,7 +422,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@fahrenheit451/post/17636268",
         "title": "딴지 걸기 게임",
-        "author": "4512024. 9. 17.·금요일에는 포크너를구독",
+        "author": "451",
         "date": "2024. 9. 17.",
         "is_adult": "False",
         views: 1700,
@@ -494,7 +494,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@fahrenheit451/post/18606481",
         "title": "해달해줌",
-        "author": "4512025. 1. 30.·금요일에는 포크너를구독",
+        "author": "451",
         "date": "2025. 1. 30.",
         "is_adult": "False",
         views: 1100,
@@ -542,7 +542,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@fahrenheit451/post/16773797",
         "title": "분야 무관 장르 무관",
-        "author": "4512024. 5. 11.·금요일에는 포크너를구독",
+        "author": "451",
         "date": "2024. 5. 11.",
         "is_adult": "False",
         views: 1300,
@@ -902,7 +902,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@176x186/post/18342218",
         "title": "하느님저귀접해도됩니까ㅠㅠ",
-        "author": "1232026. 4. 15.·789구독",
+        "author": "123",
         "date": "2026. 4. 15.",
         "is_adult": "False",
         views: 873,
@@ -962,7 +962,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@176x186/post/18398694",
         "title": "Q. 이별 극복법",
-        "author": "1232026. 4. 15.·789구독",
+        "author": "123",
         "date": "2026. 4. 15.",
         "is_adult": "False",
         views: 930,
@@ -1274,7 +1274,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@fahrenheit451/post/17021100",
         "title": "카이탁이 부르시니",
-        "author": "4512024. 6. 22.·금요일에는 포크너를구독",
+        "author": "451",
         "date": "2024. 6. 22.",
         "is_adult": "False",
         views: 676,
@@ -1478,7 +1478,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@fahrenheit451/post/20388662",
         "title": "안드로-와 약간의 신경과민 上",
-        "author": "4512025. 9. 7.·금요일에는 포크너를구독",
+        "author": "451",
         "date": "2025. 9. 7.",
         "is_adult": "False",
         views: 513,
@@ -1802,7 +1802,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@fahrenheit451/post/20418151",
         "title": "안드로-와 약간의 신경과민 中",
-        "author": "4512025. 9. 11.·금요일에는 포크너를구독",
+        "author": "451",
         "date": "2025. 9. 11.",
         "is_adult": "False",
         views: 243,
@@ -1862,7 +1862,7 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@fahrenheit451/post/21455765",
         "title": "안드로-와 약간의 신경과민 下",
-        "author": "4512026. 1. 25.·금요일에는 포크너를구독",
+        "author": "451",
         "date": "2026. 1. 25.",
         "is_adult": "False",
         views: 156,

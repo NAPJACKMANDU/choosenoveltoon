@@ -830,7 +830,7 @@ export const dolShongData = [
     {
         "url": "https://www.postype.com/@iohcill57/post/18402848",
         "title": "언레디브로큰",
-        "author": "572025. 1. 13.·작열하는 태양으로구독",
+        "author": "57",
         "date": "2025. 1. 13.",
         "is_adult": "False",
         views: 2500,
@@ -3238,18 +3238,6 @@ export const dolShongData = [
         likes: 1,
         "category": "novel",
         "summary": "♬ 좋아하는 노래를 들으며 감상하시는 것을 추천드립니다. PC로 감상하시는 것을 권장드립니다. 성찬은 개운했다. 이제 모든 것이 잘 풀리리라 생각했다. 용기 낸 자에게 복이 있나니..."
-    },
-    {
-        "url": "https://www.postype.com/@fansssa/post/17887189",
-        "title": "라이즈 성찬 영통 팬싸컷",
-        "author": "터터",
-        "date": "2024. 10. 25.",
-        "is_adult": "False",
-        views: 158,
-        price: 1000,
-        likes: 1,
-        "category": "novel",
-        "summary": "직접 컷 상담받았던거, 응모했던거 싸게 정보 공유해요 텍스트 51 자 공백 제외 1,000 P"
     },
     {
         "url": "https://www.postype.com/@ilovemoneymoney/post/21104536",

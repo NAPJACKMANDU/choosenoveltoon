@@ -2,7 +2,7 @@ export const dolShoData = [
     {
         "url": "https://www.postype.com/@25lovu/post/15819465",
         "title": "아마도 바른 생활 사나이 송군",
-        "author": "252024. 1. 11.·느릿느릿구독",
+        "author": "25",
         "date": "2024. 1. 11.",
         "is_adult": "False",
         views: 6600,
@@ -14,7 +14,7 @@ export const dolShoData = [
     {
         "url": "https://www.postype.com/@25lovu/post/16052958",
         "title": "큰 어그로에는 더 큰 사건으로 덮는다",
-        "author": "252024. 1. 21.·느릿느릿구독",
+        "author": "25",
         "date": "2024. 1. 21.",
         "is_adult": "False",
         views: 5000,
@@ -5126,7 +5126,7 @@ export const dolShoData = [
     {
         "url": "https://www.postype.com/@shotaoro/post/19786676",
         "title": "돌숕",
-        "author": "0011252025. 6. 27.·ᅠᅠ구독",
+        "author": "001125",
         "date": "2025. 6. 27.",
         "is_adult": "False",
         views: 144,

@@ -195,7 +195,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@8x54oo/post/16790309",
         "title": "첫사랑의 법칙",
-        "author": "852024. 5. 14.·약간의 가능성구독",
+        "author": "85",
         "date": "2024. 5. 14.",
         "is_adult": "False",
         views: 8200,
@@ -520,7 +520,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@8x54oo/post/18592148",
         "title": "룸게이트",
-        "author": "852025. 1. 30.·약간의 가능성구독",
+        "author": "85",
         "date": "2025. 1. 30.",
         "is_adult": "False",
         views: 6800,
@@ -650,7 +650,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@8x54oo/post/16802366",
         "title": "첫사랑의 법칙+",
-        "author": "852024. 5. 17.·약간의 가능성구독",
+        "author": "85",
         "date": "2024. 5. 17.",
         "is_adult": "False",
         views: 5200,
@@ -1040,7 +1040,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/21371620",
         "title": "Take a Chance!",
-        "author": "5202026. 1. 21.·TT구독",
+        "author": "520",
         "date": "2026. 1. 21.",
         "is_adult": "True",
         views: 3600,
@@ -1066,7 +1066,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/21477580",
         "title": "Topsy-Turvy Romance",
-        "author": "5202026. 3. 5.·TT구독",
+        "author": "520",
         "date": "2026. 3. 5.",
         "is_adult": "True",
         views: 3700,
@@ -1118,7 +1118,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/22440087",
         "title": "내 남편은 거짓말쟁이! 上",
-        "author": "5202026. 7. 27.·TT구독",
+        "author": "520",
         "date": "2026. 7. 27.",
         "is_adult": "True",
         views: 2600,
@@ -1248,7 +1248,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@8x54oo/post/17146360",
         "title": "취급주의",
-        "author": "852025. 5. 7.·약간의 가능성구독",
+        "author": "85",
         "date": "2025. 5. 7.",
         "is_adult": "False",
         views: 3000,
@@ -1261,7 +1261,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/22383096",
         "title": "가르쳐 주세요",
-        "author": "5202026. 5. 31.·TT구독",
+        "author": "520",
         "date": "2026. 5. 31.",
         "is_adult": "True",
         views: 3300,
@@ -1599,7 +1599,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/20419364",
         "title": "관계의 정립 上",
-        "author": "5202025. 9. 15.·TT구독",
+        "author": "520",
         "date": "2025. 9. 15.",
         "is_adult": "True",
         views: 3000,
@@ -1651,7 +1651,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/22795343",
         "title": "내 남편은 거짓말쟁이! 中",
-        "author": "5202026. 8. 2.·TT구독",
+        "author": "520",
         "date": "2026. 8. 2.",
         "is_adult": "True",
         views: 2000,
@@ -1729,7 +1729,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/22604637",
         "title": "소원을 말해 봐",
-        "author": "5202026. 7. 5.·TT구독",
+        "author": "520",
         "date": "2026. 7. 5.",
         "is_adult": "True",
         views: 2000,
@@ -1872,7 +1872,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/22837129",
         "title": "내 남편은 거짓말쟁이! 下",
-        "author": "5202026. 8. 10.·TT구독",
+        "author": "520",
         "date": "2026. 8. 10.",
         "is_adult": "True",
         views: 1700,
@@ -2002,7 +2002,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/21066573",
         "title": "관계의 정립 下",
-        "author": "5202025. 12. 9.·TT구독",
+        "author": "520",
         "date": "2025. 12. 9.",
         "is_adult": "True",
         views: 2400,
@@ -2223,7 +2223,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/20534644",
         "title": "관계의 정립 中",
-        "author": "5202025. 10. 19.·TT구독",
+        "author": "520",
         "date": "2025. 10. 19.",
         "is_adult": "True",
         views: 2300,
@@ -2366,7 +2366,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/21100942",
         "title": "관계의 법칙 (관계의 정립 外)",
-        "author": "5202025. 12. 24.·TT구독",
+        "author": "520",
         "date": "2025. 12. 24.",
         "is_adult": "True",
         views: 2500,
@@ -2660,7 +2660,7 @@ export const tonHeeData = [
         likes: 121
 ,
         "category": "novel",
-        "summary": "*아직 완성이 아닙니다* 이미지 4 장 이미지 4 장 100 P 구매하기 여러 회차 한꺼번에"
+        "summary": "*아직 완성이 아닙니다* 이미지 4 장 이미지 4 장 100 P "
     },
     {
         "url": "https://www.postype.com/@tontto/post/16191524",
@@ -3016,7 +3016,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/20355663",
         "title": "그만하세요, 도련님! 一",
-        "author": "5202025. 9. 3.·TT구독",
+        "author": "520",
         "date": "2025. 9. 3.",
         "is_adult": "False",
         views: 1900,
@@ -3029,7 +3029,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/22951113",
         "title": "질투의 화신",
-        "author": "5202026. 8. 23.·TT구독",
+        "author": "520",
         "date": "2026. 8. 23.",
         "is_adult": "True",
         views: 1400,
@@ -3107,7 +3107,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@vkqbqave/post/18876416",
         "title": "울보아빠",
-        "author": "262025. 3. 6.·~구독",
+        "author": "26",
         "date": "2025. 3. 6.",
         "is_adult": "True",
         views: 5100,
@@ -3159,7 +3159,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/21940279",
         "title": "프린스 다이어리 1",
-        "author": "5202026. 4. 2.·TT구독",
+        "author": "520",
         "date": "2026. 4. 2.",
         "is_adult": "False",
         views: 1500,
@@ -4277,7 +4277,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/20920342",
         "title": "그만하세요, 도련님! 四",
-        "author": "5202026. 1. 31.·TT구독",
+        "author": "520",
         "date": "2026. 1. 31.",
         "is_adult": "False",
         views: 1000,
@@ -4290,7 +4290,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/20355653",
         "title": "그만하세요, 도련님! 二",
-        "author": "5202025. 9. 9.·TT구독",
+        "author": "520",
         "date": "2025. 9. 9.",
         "is_adult": "False",
         views: 1100,
@@ -4368,7 +4368,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/21492858",
         "title": "그만하세요, 도련님! 五(完)",
-        "author": "5202026. 2. 9.·TT구독",
+        "author": "520",
         "date": "2026. 2. 9.",
         "is_adult": "False",
         views: 989,
@@ -4472,7 +4472,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/22326831",
         "title": "그만하세요, 서방님!",
-        "author": "5202026. 5. 25.·TT구독",
+        "author": "520",
         "date": "2026. 5. 25.",
         "is_adult": "True",
         views: 1100,
@@ -4628,7 +4628,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/20409542",
         "title": "그만하세요, 도련님! 三",
-        "author": "5202025. 9. 25.·TT구독",
+        "author": "520",
         "date": "2025. 9. 25.",
         "is_adult": "True",
         views: 1700,
@@ -4901,7 +4901,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/22065262",
         "title": "프린스 다이어리 3",
-        "author": "5202026. 4. 16.·TT구독",
+        "author": "520",
         "date": "2026. 4. 16.",
         "is_adult": "True",
         views: 958,
@@ -4927,7 +4927,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/21766387",
         "title": "금붕어와 카나리아",
-        "author": "5202026. 6. 29.·TT구독",
+        "author": "520",
         "date": "2026. 6. 29.",
         "is_adult": "False",
         views: 696,
@@ -5083,7 +5083,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/20935155",
         "title": "이별 이야기",
-        "author": "5202025. 11. 24.·TT구독",
+        "author": "520",
         "date": "2025. 11. 24.",
         "is_adult": "False",
         views: 954,
@@ -5187,7 +5187,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@tt-252/post/21986123",
         "title": "프린스 다이어리 2",
-        "author": "5202026. 4. 13.·TT구독",
+        "author": "520",
         "date": "2026. 4. 13.",
         "is_adult": "False",
         views: 696,
@@ -5317,7 +5317,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@vkqbqave/post/22894813",
         "title": "개조심",
-        "author": "262026. 8. 8.·~구독",
+        "author": "26",
         "date": "2026. 8. 8.",
         "is_adult": "True",
         views: 1100,
@@ -6058,7 +6058,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@212written/post/22915141",
         "title": "환승연애 (특: 승차를 안 함)",
-        "author": "2122026. 8. 11.·miniseries구독",
+        "author": "212",
         "date": "2026. 8. 11.",
         "is_adult": "False",
         views: 471,
@@ -8112,7 +8112,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@talbuchak/post/19519512",
         "title": "전남친 엿먹이기 성공담",
-        "author": "52026. 3. 12.·탈부착뇌구독",
+        "author": "5",
         "date": "2026. 3. 12.",
         "is_adult": "False",
         views: 229,
@@ -8432,7 +8432,7 @@ export const tonHeeData = [
         likes: 21
 ,
         "category": "novel",
-        "summary": "이미지 2 장 이미지 2 장 10,000 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이미지 2 장 이미지 2 장 10,000 P "
     },
     {
         "url": "https://www.postype.com/@freeandyummy/post/22612505",
@@ -8459,19 +8459,6 @@ export const tonHeeData = [
 ,
         "category": "novel",
         "summary": "*글을 복사하여 다른 곳에 배포하지 말아 주세요. 소희는 알림이 울리지 않는 핸드폰을 뚫어져라 노려보는 중이었다. 분명 메시지를 보냈는데, 몇 번이고 들어가서 확인했는데, 답장이 ..."
-    },
-    {
-        "url": "https://www.postype.com/@grumpy/post/21922435",
-        "title": "티셔츠 도안",
-        "author": "투덜",
-        "date": "2026. 3. 24.",
-        "is_adult": "False",
-        views: 281,
-        price: 0,
-        likes: 20
-,
-        "category": "webtoon",
-        "summary": "톤또클럽_화이트.png 용량 944.81KB 톤또클럽_블랙.png 용량 938.79KB 또토리클럽_화이트.png 용량 944..."
     },
     {
         "url": "https://www.postype.com/@riizeontop/post/20394656",
@@ -9542,7 +9529,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@pal-88/post/16324316",
         "title": "靑季節 #01",
-        "author": "82024. 2. 23.·저지르고보는편구독",
+        "author": "8",
         "date": "2024. 2. 23.",
         "is_adult": "False",
         views: 414,
@@ -9642,19 +9629,6 @@ export const tonHeeData = [
 ,
         "category": "novel",
         "summary": "다공일수 주의(오늘은 숕또 위주) 시험이 끝나고 일주일 뒤 방학이 시작됐음. 근데 이사람들 이 좁은 투룸도 안되는 소이 집에서 나갈 생각을 안하신다.... 성인이나 다를바 없는 몸..."
-    },
-    {
-        "url": "https://www.postype.com/@cstgzaaa/post/18212210",
-        "title": "라이즈 소희 영통 팬싸컷 (241003 위드뮤 업뎃) 인증 가능o",
-        "author": "쿠쿠",
-        "date": "2024. 12. 13.",
-        "is_adult": "False",
-        views: 604,
-        price: 2000,
-        likes: 10
-,
-        "category": "novel",
-        "summary": "겟기 활동때부터 최근 241003 영통 붙은 컷 + 떨깅 컷까지 정리 되어 있고 제가 실제로 응모한 장수 포함 지인 응모 컷+ 상담 받은 데이터까지 정리 되어있습니다. 안정컷 문닫..."
     },
     {
         "url": "https://www.postype.com/@seaneo/post/18065323",
@@ -10279,19 +10253,6 @@ export const tonHeeData = [
 ,
         "category": "novel",
         "summary": "둘 사이에 정적이 흐른다. 정적을 넘어서 숨소리까지도 안들리기 시작했다. 소희는 정적을 깨려 찬영을 쳐다봤다. 찬영은 아직도 제 눈을 쳐다보고 있을 뿐이였다. 찬영의 눈빛은 언제나..."
-    },
-    {
-        "url": "https://www.postype.com/@cstgzaaa/post/18212201",
-        "title": "라이즈 앤톤 영통 팬싸컷 (241008 올엠디 업뎃) 인증 가능o",
-        "author": "쿠쿠",
-        "date": "2024. 12. 13.",
-        "is_adult": "False",
-        views: 357,
-        price: 2000,
-        likes: 6
-,
-        "category": "novel",
-        "summary": "겟기 활동때부터 최근 241008 영통 붙은 컷 + 떨깅 컷까지 정리 되어 있고 제가 실제로 응모한 장수 포함 지인 응모 컷+ 상담 받은 데이터까지 정리 되어있습니다. 안정컷 문닫..."
     },
     {
         "url": "https://www.postype.com/@lhlhlh/post/17688198",
@@ -11076,7 +11037,7 @@ export const tonHeeData = [
     {
         "url": "https://www.postype.com/@talbuchak/post/19773240",
         "title": "새 계절",
-        "author": "52025. 6. 29.·탈부착뇌구독",
+        "author": "5",
         "date": "2025. 6. 29.",
         "is_adult": "False",
         views: 75,
@@ -11308,19 +11269,6 @@ export const tonHeeData = [
         "summary": "성찬&은석: 부랄탁탁친구 -♥-> 연인 -> 깨짐 원빈&찬영&소희 -> 세같살 성찬 지금 기분 좆같음. 왜냐? 방금 송은석이랑 깨졌기 때문. 이유는 더 황망하기 그지없음. 아무리 ..."
     },
     {
-        "url": "https://www.postype.com/@fansssa/post/17887189",
-        "title": "라이즈 성찬 영통 팬싸컷",
-        "author": "터터",
-        "date": "2024. 10. 25.",
-        "is_adult": "False",
-        views: 165,
-        price: 1000,
-        likes: 1
-,
-        "category": "novel",
-        "summary": "직접 컷 상담받았던거, 응모했던거 싸게 정보 공유해요 텍스트 51 자 공백 제외"
-    },
-    {
         "url": "https://www.postype.com/@lasttime9/post/17434704",
         "title": "파티에서",
         "author": "lasttime",
@@ -11410,31 +11358,5 @@ export const tonHeeData = [
 ,
         "category": "novel",
         "summary": ""
-    },
-    {
-        "url": "https://www.postype.com/@fscut01/post/18062720",
-        "title": "라이즈 소희 영통팬싸컷",
-        "author": "팬싸컷",
-        "date": "2024. 11. 19.",
-        "is_adult": "False",
-        views: 364,
-        price: 700,
-        likes: 0
-,
-        "category": "novel",
-        "summary": "텍스트 43 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@fansssa/post/17887195",
-        "title": "라이즈 원빈 영통 팬싸컷",
-        "author": "터터",
-        "date": "2024. 10. 25.",
-        "is_adult": "False",
-        views: 280,
-        price: 1000,
-        likes: 0
-,
-        "category": "novel",
-        "summary": "직접 컷 상담받았던거, 응모했던거 싸게 정보 공유해요 텍스트 54 자 공백 제외"
     }
 ]

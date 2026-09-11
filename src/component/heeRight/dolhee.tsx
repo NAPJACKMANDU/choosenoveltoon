@@ -1226,7 +1226,7 @@ export const dolHeeData = [
     {
         "url": "https://www.postype.com/@8x54oo/post/17257356",
         "title": "러브 액츄얼리",
-        "author": "852024. 11. 27.·약간의 가능성구독",
+        "author": "85",
         "date": "2024. 11. 27.",
         "is_adult": "False",
         views: 3700,
@@ -2402,7 +2402,7 @@ export const dolHeeData = [
     {
         "url": "https://www.postype.com/@vkqbqave/post/18876405",
         "title": "이비서 수난시대",
-        "author": "262025. 2. 26.·~구독",
+        "author": "26",
         "date": "2025. 2. 26.",
         "is_adult": "True",
         views: 5300,
@@ -5090,7 +5090,7 @@ export const dolHeeData = [
     {
         "url": "https://www.postype.com/@vkqbqave/post/21161890",
         "title": "새아빠 VS 과외쌤",
-        "author": "262025. 12. 22.·~구독",
+        "author": "26",
         "date": "2025. 12. 22.",
         "is_adult": "True",
         views: 2400,
@@ -7742,7 +7742,7 @@ export const dolHeeData = [
     {
         "url": "https://www.postype.com/@onewayout/post/20599809",
         "title": "지구소년 관찰기 上",
-        "author": "02025. 10. 8.·23시간 56분 4초구독",
+        "author": "0",
         "date": "2025. 10. 8.",
         "is_adult": "False",
         views: 74,
@@ -8134,18 +8134,6 @@ export const dolHeeData = [
         likes: 10,
         "category": "novel",
         "summary": "* 트위터 썰 백업; 문체와 내용은 그대로되, 약간의 문법 수정이 들어갔습니다! 원본 보러가기 > https://x.com/risepass/status/187079714996299..."
-    },
-    {
-        "url": "https://www.postype.com/@cstgzaaa/post/18212210",
-        "title": "라이즈 소희 영통 팬싸컷 (241003 위드뮤 업뎃) 인증 가능o",
-        "author": "쿠쿠",
-        "date": "2024. 12. 13.",
-        "is_adult": "False",
-        views: 603,
-        price: 2000,
-        likes: 10,
-        "category": "novel",
-        "summary": "겟기 활동때부터 최근 241003 영통 붙은 컷 + 떨깅 컷까지 정리 되어 있고 제가 실제로 응모한 장수 포함 지인 응모 컷+ 상담 받은 데이터까지 정리 되어있습니다. 안정컷 문닫..."
     },
     {
         "url": "https://www.postype.com/@fxxksnad/post/17919672",
@@ -9096,18 +9084,6 @@ export const dolHeeData = [
         "summary": "숑넨 꾸금씬 제거한 클린 버전입니당 텍스트 5,581 자 공백 제외"
     },
     {
-        "url": "https://www.postype.com/@fansssa/post/17887189",
-        "title": "라이즈 성찬 영통 팬싸컷",
-        "author": "터터",
-        "date": "2024. 10. 25.",
-        "is_adult": "False",
-        views: 164,
-        price: 1000,
-        likes: 1,
-        "category": "novel",
-        "summary": "직접 컷 상담받았던거, 응모했던거 싸게 정보 공유해요 텍스트 51 자 공백 제외"
-    },
-    {
         "url": "https://www.postype.com/@jooooge/post/17884221",
         "title": "집에서는 도파민 중독자인 내가, 학교에선 일찐짱의 깔?! [3]",
         "author": "쥬욱겟다",
@@ -9190,17 +9166,5 @@ export const dolHeeData = [
         likes: 0,
         "category": "novel",
         "summary": "첫 ㅁㅈ한 소희 하필이면 25살 친형 친구중에 잘생긴 은석이 형 집에서 자고 있는 날임 급하게 화장실에서 처리 중인데 누가 화장실 문 두드림 소희 안에 있어? 네? 은석이형이예요?..."
-    },
-    {
-        "url": "https://www.postype.com/@fansssa/post/17887195",
-        "title": "라이즈 원빈 영통 팬싸컷",
-        "author": "터터",
-        "date": "2024. 10. 25.",
-        "is_adult": "False",
-        views: 279,
-        price: 1000,
-        likes: 0,
-        "category": "novel",
-        "summary": "직접 컷 상담받았던거, 응모했던거 싸게 정보 공유해요 텍스트 54 자 공백 제외"
     }
 ]

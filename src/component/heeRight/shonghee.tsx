@@ -2054,7 +2054,7 @@ export const shongHeeData = [
     {
         "url": "https://www.postype.com/@vkqbqave/post/18876399",
         "title": "도련님과 메이드",
-        "author": "262025. 3. 18.·~구독",
+        "author": "26",
         "date": "2025. 3. 18.",
         "is_adult": "True",
         views: 4200,
@@ -2846,7 +2846,7 @@ export const shongHeeData = [
     {
         "url": "https://www.postype.com/@vkqbqave/post/21161890",
         "title": "새아빠 VS 과외쌤",
-        "author": "262025. 12. 22.·~구독",
+        "author": "26",
         "date": "2025. 12. 22.",
         "is_adult": "True",
         views: 2400,
@@ -4762,17 +4762,5 @@ export const shongHeeData = [
         likes: 0,
         "category": "novel",
         "summary": "텍스트 5,165 자 공백 제외 이미지 2 장"
-    },
-    {
-        "url": "https://www.postype.com/@matdorijungri/post/19769515",
-        "title": "라이즈 알페스 추천+노션 정리",
-        "author": "맛집이면어디든지찾아갑니다",
-        "date": "2025. 6. 28.",
-        "is_adult": "False",
-        views: 780,
-        price: 1000,
-        likes: 0,
-        "category": "novel",
-        "summary": "맛집이면어디든지찾아갑니다 2025. 6. 28. · 맛도리정리용 공지 제발 필독(결제, 노션 사용 등) 최대한 사담 빼고 결론만 말하겠습니다. 1. 추천한다=/=돈이 안 아깝다. ..."
     }
 ]

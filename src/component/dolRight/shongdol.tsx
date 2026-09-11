@@ -98,7 +98,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@iohcill57/post/15589457",
         "title": "사하 (상)",
-        "author": "572023. 11. 2.·작열하는 태양으로구독",
+        "author": "57",
         "date": "2023. 11. 2.",
         "is_adult": "False",
         views: 51000,
@@ -1070,7 +1070,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@coolchickidlove/post/16548159",
         "title": "토렴식 묵시록 1",
-        "author": "02024. 4. 4.·불온서적 모음집구독",
+        "author": "0",
         "date": "2024. 4. 4.",
         "is_adult": "True",
         views: 18000,
@@ -2018,7 +2018,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@iohcill57/post/15825686",
         "title": "사하 (중)",
-        "author": "572023. 12. 15.·작열하는 태양으로구독",
+        "author": "57",
         "date": "2023. 12. 15.",
         "is_adult": "False",
         views: 14000,
@@ -2234,7 +2234,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@iohcill57/post/16237885",
         "title": "사하 (하)",
-        "author": "572024. 2. 12.·작열하는 태양으로구독",
+        "author": "57",
         "date": "2024. 2. 12.",
         "is_adult": "False",
         views: 11000,
@@ -3458,7 +3458,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@0-and-1/post/16697942",
         "title": "주인 눈에 흙 넣기 上",
-        "author": "12024. 4. 27.·1,2,3,4!구독",
+        "author": "1",
         "date": "2024. 4. 27.",
         "is_adult": "False",
         views: 9200,
@@ -5174,7 +5174,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@coolchickidlove/post/16785757",
         "title": "토렴식 묵시록 3",
-        "author": "02024. 5. 12.·불온서적 모음집구독",
+        "author": "0",
         "date": "2024. 5. 12.",
         "is_adult": "True",
         views: 7100,
@@ -5366,7 +5366,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@coolchickidlove/post/16646237",
         "title": "토렴식 묵시록 2",
-        "author": "02024. 4. 18.·불온서적 모음집구독",
+        "author": "0",
         "date": "2024. 4. 18.",
         "is_adult": "False",
         views: 5900,
@@ -6830,7 +6830,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@coolchickidlove/post/16951814",
         "title": "토렴식 묵시록 4",
-        "author": "02024. 6. 9.·불온서적 모음집구독",
+        "author": "0",
         "date": "2024. 6. 9.",
         "is_adult": "False",
         views: 5600,
@@ -7238,7 +7238,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@coolchickidlove/post/18442002",
         "title": "숑석 헤어지고 군대에서 다시 만난 썰",
-        "author": "02025. 1. 11.·불온서적 모음집구독",
+        "author": "0",
         "date": "2025. 1. 11.",
         "is_adult": "False",
         views: 4600,
@@ -7850,7 +7850,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@0-and-1/post/16758306",
         "title": "주인 눈에 흙 넣기 中",
-        "author": "12024. 5. 7.·1,2,3,4!구독",
+        "author": "1",
         "date": "2024. 5. 7.",
         "is_adult": "False",
         views: 4900,
@@ -8486,7 +8486,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@coolchickidlove/post/18401953",
         "title": "토렴식 묵시록 5",
-        "author": "02025. 1. 7.·불온서적 모음집구독",
+        "author": "0",
         "date": "2025. 1. 7.",
         "is_adult": "False",
         views: 5200,
@@ -9110,7 +9110,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@0-and-1/post/16913471",
         "title": "주인 눈에 흙 넣기 下",
-        "author": "12024. 6. 3.·1,2,3,4!구독",
+        "author": "1",
         "date": "2024. 6. 3.",
         "is_adult": "False",
         views: 4400,
@@ -9206,7 +9206,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@0-and-1/post/16526653",
         "title": "집사가 되기 위한 첫걸음",
-        "author": "12024. 3. 27.·1,2,3,4!구독",
+        "author": "1",
         "date": "2024. 3. 27.",
         "is_adult": "True",
         views: 5700,
@@ -11366,7 +11366,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@zeronez/post/17097927",
         "title": "오해는 오예를 낳는다",
-        "author": "913192024. 7. 4.·91319구독",
+        "author": "91319",
         "date": "2024. 7. 4.",
         "is_adult": "False",
         views: 5700,
@@ -12278,7 +12278,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@1800319/post/22570150",
         "title": "키못방숑석",
-        "author": "1802026. 6. 25.·햄만구독",
+        "author": "180",
         "date": "2026. 6. 25.",
         "is_adult": "False",
         views: 2500,
@@ -14870,7 +14870,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@lisili45/post/16376965",
         "title": "숑석",
-        "author": "45❤️🩹2024. 3. 4.·and yes구독",
+        "author": "45❤️🩹",
         "date": "2024. 3. 4.",
         "is_adult": "False",
         views: 4000,
@@ -16250,7 +16250,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@zeronez/post/17225344",
         "title": "오해인지 오예인지",
-        "author": "913192024. 7. 24.·91319구독",
+        "author": "91319",
         "date": "2024. 7. 24.",
         "is_adult": "False",
         views: 2400,
@@ -16514,7 +16514,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@iohcill57/post/18847581",
         "title": "보통의 삶",
-        "author": "572025. 3. 17.·작열하는 태양으로구독",
+        "author": "57",
         "date": "2025. 3. 17.",
         "is_adult": "False",
         views: 3800,
@@ -17378,7 +17378,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@1800319/post/22825970",
         "title": "헤어지자",
-        "author": "1802026. 7. 31.·햄만구독",
+        "author": "180",
         "date": "2026. 7. 31.",
         "is_adult": "False",
         views: 1600,
@@ -18278,7 +18278,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sejong110forever/post/17474942",
         "title": "싫은 점",
-        "author": "012024. 8. 25.·덫구독",
+        "author": "01",
         "date": "2024. 8. 25.",
         "is_adult": "True",
         views: 3000,
@@ -18974,7 +18974,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@0-and-1/post/16475759",
         "title": "cosmic ride",
-        "author": "12024. 3. 19.·1,2,3,4!구독",
+        "author": "1",
         "date": "2024. 3. 19.",
         "is_adult": "False",
         views: 1400,
@@ -19454,7 +19454,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@0-and-1/post/17593914",
         "title": "슈가 하이",
-        "author": "12024. 9. 13.·1,2,3,4!구독",
+        "author": "1",
         "date": "2024. 9. 13.",
         "is_adult": "False",
         views: 2800,
@@ -19802,7 +19802,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@iohcill57/post/18402848",
         "title": "언레디브로큰",
-        "author": "572025. 1. 13.·작열하는 태양으로구독",
+        "author": "57",
         "date": "2025. 1. 13.",
         "is_adult": "False",
         views: 2500,
@@ -20174,7 +20174,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@zeronez/post/17899003",
         "title": "오해야 오해",
-        "author": "913192024. 12. 10.·91319구독",
+        "author": "91319",
         "date": "2024. 12. 10.",
         "is_adult": "False",
         views: 1800,
@@ -20882,7 +20882,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19101699",
         "title": "럭키보이 신드롬 1",
-        "author": "92025. 3. 26.·구구독",
+        "author": "9",
         "date": "2025. 3. 26.",
         "is_adult": "False",
         views: 2600,
@@ -21086,7 +21086,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sejong110forever/post/18577668",
         "title": "좋은 점",
-        "author": "012025. 5. 29.·덫구독",
+        "author": "01",
         "date": "2025. 5. 29.",
         "is_adult": "True",
         views: 2200,
@@ -21338,7 +21338,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@0-and-1/post/16617590",
         "title": "캐터마이트",
-        "author": "12024. 4. 13.·1,2,3,4!구독",
+        "author": "1",
         "date": "2024. 4. 13.",
         "is_adult": "True",
         views: 3100,
@@ -21806,7 +21806,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sejong110forever/post/20042418",
         "title": "싫은 점+",
-        "author": "012025. 7. 28.·덫구독",
+        "author": "01",
         "date": "2025. 7. 28.",
         "is_adult": "True",
         views: 1900,
@@ -22010,7 +22010,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sejong110forever/post/21982692",
         "title": "싫은 점++",
-        "author": "012026. 4. 1.·덫구독",
+        "author": "01",
         "date": "2026. 4. 1.",
         "is_adult": "True",
         views: 1100,
@@ -22682,7 +22682,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@0-and-1/post/17946077",
         "title": "山虎說話 下",
-        "author": "12024. 11. 3.·1,2,3,4!구독",
+        "author": "1",
         "date": "2024. 11. 3.",
         "is_adult": "True",
         views: 1400,
@@ -23402,7 +23402,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sejong110forever/post/22732621",
         "title": "ChatGPT에게 묻기 - 상",
-        "author": "012026. 7. 18.·덫구독",
+        "author": "01",
         "date": "2026. 7. 18.",
         "is_adult": "False",
         views: 449,
@@ -23510,7 +23510,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sejong110forever/post/21548733",
         "title": "마음에도 없는 짓",
-        "author": "012026. 2. 5.·덫구독",
+        "author": "01",
         "date": "2026. 2. 5.",
         "is_adult": "True",
         views: 822,
@@ -23582,7 +23582,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@0-and-1/post/17946070",
         "title": "山虎說話 上",
-        "author": "12024. 11. 3.·1,2,3,4!구독",
+        "author": "1",
         "date": "2024. 11. 3.",
         "is_adult": "False",
         views: 1500,
@@ -23738,7 +23738,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19249738",
         "title": "이율배반 上",
-        "author": "92025. 4. 17.·구구독",
+        "author": "9",
         "date": "2025. 4. 17.",
         "is_adult": "True",
         views: 1300,
@@ -24518,7 +24518,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19101849",
         "title": "럭키보이 신드롬 3",
-        "author": "92025. 3. 29.·구구독",
+        "author": "9",
         "date": "2025. 3. 29.",
         "is_adult": "False",
         views: 741,
@@ -25202,7 +25202,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19101741",
         "title": "럭키보이 신드롬 2",
-        "author": "92025. 3. 28.·구구독",
+        "author": "9",
         "date": "2025. 3. 28.",
         "is_adult": "False",
         views: 825,
@@ -26042,7 +26042,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19127922",
         "title": "럭키보이 신드롬 4",
-        "author": "92025. 3. 31.·구구독",
+        "author": "9",
         "date": "2025. 3. 31.",
         "is_adult": "False",
         views: 642,
@@ -26426,7 +26426,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19250673",
         "title": "이율배반 下",
-        "author": "92025. 4. 30.·구구독",
+        "author": "9",
         "date": "2025. 4. 30.",
         "is_adult": "True",
         views: 1100,
@@ -26666,7 +26666,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sejong110forever/post/19919676",
         "title": "Whisperwood A",
-        "author": "012025. 7. 13.·덫구독",
+        "author": "01",
         "date": "2025. 7. 13.",
         "is_adult": "False",
         views: 382,
@@ -26882,7 +26882,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@coolchickidlove/post/16954424",
         "title": "토렴식 묵시록 3(clean ver.)",
-        "author": "02024. 6. 9.·불온서적 모음집구독",
+        "author": "0",
         "date": "2024. 6. 9.",
         "is_adult": "False",
         views: 1900,
@@ -27038,7 +27038,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19101862",
         "title": "럭키보이 신드롬 7 (完)",
-        "author": "92025. 4. 5.·구구독",
+        "author": "9",
         "date": "2025. 4. 5.",
         "is_adult": "False",
         views: 817,
@@ -27230,7 +27230,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sejong110forever/post/17942977",
         "title": "M",
-        "author": "012024. 11. 27.·덫구독",
+        "author": "01",
         "date": "2024. 11. 27.",
         "is_adult": "True",
         views: 1200,
@@ -27458,7 +27458,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19128128",
         "title": "럭키보이 신드롬 5",
-        "author": "92025. 4. 2.·구구독",
+        "author": "9",
         "date": "2025. 4. 2.",
         "is_adult": "False",
         views: 611,
@@ -28118,7 +28118,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sejong110forever/post/21119242",
         "title": "Whisperwood B",
-        "author": "012025. 12. 16.·덫구독",
+        "author": "01",
         "date": "2025. 12. 16.",
         "is_adult": "False",
         views: 310,
@@ -28142,7 +28142,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19128512",
         "title": "럭키보이 신드롬 6",
-        "author": "92025. 4. 4.·구구독",
+        "author": "9",
         "date": "2025. 4. 4.",
         "is_adult": "False",
         views: 471,
@@ -28862,7 +28862,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@withmewithoutme91319/post/16178022",
         "title": "soap 1",
-        "author": "1022024. 2. 4.·금은방구독",
+        "author": "102",
         "date": "2024. 2. 4.",
         "is_adult": "True",
         views: 1600,
@@ -30134,7 +30134,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19156179",
         "title": "럭키보이 신드롬 外",
-        "author": "92025. 4. 14.·구구독",
+        "author": "9",
         "date": "2025. 4. 14.",
         "is_adult": "True",
         views: 877,
@@ -30590,7 +30590,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@open365syongseok/post/21174876",
         "title": "군만두는 서비스입니다.",
-        "author": "365일2025. 12. 24.·에브리데이구독",
+        "author": "365일",
         "date": "2025. 12. 24.",
         "is_adult": "False",
         views: 358,
@@ -31538,7 +31538,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@91-3-19/post/21652140",
         "title": "아이스 아메리카노",
-        "author": "913192026. 2. 17.·91319구독",
+        "author": "91319",
         "date": "2026. 2. 17.",
         "is_adult": "False",
         views: 203,
@@ -32486,7 +32486,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@withmewithoutme91319/post/16195875",
         "title": "soap 2",
-        "author": "1022024. 2. 9.·금은방구독",
+        "author": "102",
         "date": "2024. 2. 9.",
         "is_adult": "True",
         views: 976,
@@ -32546,7 +32546,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@91-3-19/post/21656470",
         "title": "몸 좋은 남자",
-        "author": "913192026. 2. 17.·91319구독",
+        "author": "91319",
         "date": "2026. 2. 17.",
         "is_adult": "True",
         views: 313,
@@ -33074,7 +33074,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@withmewithoutme91319/post/16302445",
         "title": "soap 7 (1부 완결)",
-        "author": "1022024. 3. 4.·금은방구독",
+        "author": "102",
         "date": "2024. 3. 4.",
         "is_adult": "True",
         views: 705,
@@ -33086,7 +33086,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@withmewithoutme91319/post/16269419",
         "title": "soap 6",
-        "author": "1022024. 2. 29.·금은방구독",
+        "author": "102",
         "date": "2024. 2. 29.",
         "is_adult": "True",
         views: 616,
@@ -33326,7 +33326,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19258670",
         "title": "이율배반 外",
-        "author": "92025. 6. 12.·구구독",
+        "author": "9",
         "date": "2025. 6. 12.",
         "is_adult": "True",
         views: 562,
@@ -33362,7 +33362,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@xixi-99/post/19146721",
         "title": "럭키보이의 탄생",
-        "author": "92025. 4. 23.·구구독",
+        "author": "9",
         "date": "2025. 4. 23.",
         "is_adult": "False",
         views: 432,
@@ -33806,7 +33806,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@withmewithoutme91319/post/17033847",
         "title": "soap 外",
-        "author": "1022024. 6. 24.·금은방구독",
+        "author": "102",
         "date": "2024. 6. 24.",
         "is_adult": "True",
         views: 729,
@@ -33842,7 +33842,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@withmewithoutme91319/post/16269409",
         "title": "soap 4",
-        "author": "1022024. 2. 19.·금은방구독",
+        "author": "102",
         "date": "2024. 2. 19.",
         "is_adult": "True",
         views: 534,
@@ -33854,7 +33854,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@withmewithoutme91319/post/16224655",
         "title": "soap 3",
-        "author": "1022024. 2. 14.·금은방구독",
+        "author": "102",
         "date": "2024. 2. 14.",
         "is_adult": "True",
         views: 700,
@@ -33998,7 +33998,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@songseok/post/21838261",
         "title": "친구 사이",
-        "author": "8…2026. 3. 12.·SS구독",
+        "author": "8…",
         "date": "2026. 3. 12.",
         "is_adult": "True",
         views: 334,
@@ -34166,7 +34166,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@withmewithoutme91319/post/16924116",
         "title": "soap 外+ (외전 끝)",
-        "author": "1022024. 6. 29.·금은방구독",
+        "author": "102",
         "date": "2024. 6. 29.",
         "is_adult": "True",
         views: 708,
@@ -34442,7 +34442,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sssn913/post/19006635",
         "title": "사랑이 뭐라고",
-        "author": "132025. 3. 14.·그냥구독",
+        "author": "13",
         "date": "2025. 3. 14.",
         "is_adult": "False",
         views: 142,
@@ -34718,7 +34718,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@open365syongseok/post/21102620",
         "title": "여우구슬 쟁탈전",
-        "author": "365일2025. 12. 14.·에브리데이구독",
+        "author": "365일",
         "date": "2025. 12. 14.",
         "is_adult": "False",
         views: 294,
@@ -35018,7 +35018,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@withmewithoutme91319/post/16269414",
         "title": "soap 5",
-        "author": "1022024. 2. 24.·금은방구독",
+        "author": "102",
         "date": "2024. 2. 24.",
         "is_adult": "True",
         views: 632,
@@ -35066,7 +35066,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@open365syongseok/post/22313391",
         "title": "우정은 영원까지",
-        "author": "365일2026. 5. 19.·에브리데이구독",
+        "author": "365일",
         "date": "2026. 5. 19.",
         "is_adult": "False",
         views: 162,
@@ -35102,7 +35102,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@open365syongseok/post/21305932",
         "title": "군만두는 서비스입니다 2편 (수정 재업)",
-        "author": "365일2026. 1. 8.·에브리데이구독",
+        "author": "365일",
         "date": "2026. 1. 8.",
         "is_adult": "False",
         views: 161,
@@ -35606,7 +35606,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@dheuisnsn/post/20651178",
         "title": "일방통행",
-        "author": "192025. 10. 12.·일방통행구독",
+        "author": "19",
         "date": "2025. 10. 12.",
         "is_adult": "False",
         views: 114,
@@ -35846,7 +35846,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@open365syongseok/post/22373268",
         "title": "우정은 영원까지 2",
-        "author": "365일2026. 5. 28.·에브리데이구독",
+        "author": "365일",
         "date": "2026. 5. 28.",
         "is_adult": "False",
         views: 74,
@@ -35894,7 +35894,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@open365syongseok/post/22205609",
         "title": "꽃비가 내리는 거리",
-        "author": "365일2026. 5. 4.·에브리데이구독",
+        "author": "365일",
         "date": "2026. 5. 4.",
         "is_adult": "False",
         views: 63,
@@ -35930,7 +35930,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@songseok/post/21854019",
         "title": "더럽게 달콤한 악연 1",
-        "author": "8…2026. 3. 14.·SS구독",
+        "author": "8…",
         "date": "2026. 3. 14.",
         "is_adult": "False",
         views: 49,
@@ -35978,7 +35978,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sae-3am/post/21061739",
         "title": "207374",
-        "author": "32026. 6. 4.·새삼구독",
+        "author": "3",
         "date": "2026. 6. 4.",
         "is_adult": "True",
         views: 97,
@@ -36074,7 +36074,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@dididbsjxixksmwwohq/post/20093890",
         "title": "누구보다 살고 싶었던 그에게",
-        "author": "192025. 8. 3.·누구보다 살고 싶었던 그에게구독",
+        "author": "19",
         "date": "2025. 8. 3.",
         "is_adult": "False",
         views: 81,
@@ -36302,7 +36302,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@52094y/post/16298180",
         "title": "너에게 닿기를 上",
-        "author": "5202024. 2. 21.·52094구독",
+        "author": "520",
         "date": "2024. 2. 21.",
         "is_adult": "False",
         views: 102,
@@ -36446,7 +36446,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@sae-3am/post/20915151",
         "title": "■■ 보존의 법칙",
-        "author": "32025. 11. 19.·새삼구독",
+        "author": "3",
         "date": "2025. 11. 19.",
         "is_adult": "True",
         views: 121,
@@ -37287,7 +37287,7 @@ export const shongDolData = [
     {
         "url": "https://www.postype.com/@2828hsbs/post/18054874",
         "title": "정성찬 송은석 숑석숑",
-        "author": "1112024. 11. 18.·BC구독",
+        "author": "111",
         "date": "2024. 11. 18.",
         "is_adult": "False",
         views: 239,

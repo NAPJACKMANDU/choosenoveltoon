@@ -722,7 +722,7 @@ export const binDolData = [
     {
         "url": "https://www.postype.com/@hajianeum/post/19914032",
         "title": "개별로",
-        "author": "92025. 7. 13.·ra구독",
+        "author": "9",
         "date": "2025. 7. 13.",
         "is_adult": "False",
         views: 1600,
@@ -1346,7 +1346,7 @@ export const binDolData = [
     {
         "url": "https://www.postype.com/@88byte/post/17931839",
         "title": "이 연하남 왜 나 줌 1",
-        "author": "4042024. 11. 2.·88byte구독",
+        "author": "404",
         "date": "2024. 11. 2.",
         "is_adult": "True",
         views: 1800,
@@ -1370,7 +1370,7 @@ export const binDolData = [
     {
         "url": "https://www.postype.com/@iohcill57/post/18402848",
         "title": "언레디브로큰",
-        "author": "572025. 1. 13.·작열하는 태양으로구독",
+        "author": "57",
         "date": "2025. 1. 13.",
         "is_adult": "False",
         views: 2500,
@@ -1838,7 +1838,7 @@ export const binDolData = [
     {
         "url": "https://www.postype.com/@88byte/post/17904472",
         "title": "이 연하남 왜 나 줌 0",
-        "author": "4042024. 10. 31.·88byte구독",
+        "author": "404",
         "date": "2024. 10. 31.",
         "is_adult": "False",
         views: 771,
