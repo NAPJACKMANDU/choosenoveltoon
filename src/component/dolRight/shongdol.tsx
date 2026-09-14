@@ -19260,18 +19260,6 @@ export const shongDolData = [
         "summary": "가독성을 위해 다크 모드로 봐 주세요!🫶🏻 문을 두드리려던 손이 닿기 직전 멈췄다. 손을 거둔 성찬은 이미 잘 정돈된 머리칼을 한 번 쓸어넘겼다. 지난 열흘간 언제 그에게 가이딩을..."
     },
     {
-        "url": "https://www.postype.com/@mystic-otter/post/21108635",
-        "title": "[라이즈] 성찬, 은석 동+서양 점성술 (생시 포함)",
-        "author": "연우 緣又",
-        "date": "2025. 12. 17.",
-        "is_adult": "False",
-        views: 3300,
-        price: 0,
-        likes: 109,
-        "category": "novel",
-        "summary": "라이즈가 일본 점성 예능 프로그램에 출연한 적이 있었죠? 방송에 나온 천궁도 행성 배치를 역추적해서 생시 뽑아 왔어요. 출생 차트 대조하느라 약간 애먹었습니다💦 사실 성찬 님은 추..."
-    },
-    {
         "url": "https://www.postype.com/@aboutacotton/post/20343379",
         "title": "파트타임 가이드 J",
         "author": "F",
@@ -36552,18 +36540,6 @@ export const shongDolData = [
         "summary": "텍스트 59,468 자 공백 제외"
     },
     {
-        "url": "https://www.postype.com/@lovebysomeone/post/22530690",
-        "title": "라이즈 은석 연애운, 이상형 분석",
-        "author": "정서",
-        "date": "2026. 7. 3.",
-        "is_adult": "False",
-        views: 115,
-        price: 500,
-        likes: 2,
-        "category": "novel",
-        "summary": "텍스트 4,725 자 공백 제외"
-    },
-    {
         "url": "https://www.postype.com/@canele-72hf/post/22188265",
         "title": "무제 08",
         "author": "썅길",
@@ -37379,18 +37355,6 @@ export const shongDolData = [
         likes: 0,
         "category": "novel",
         "summary": "송은석이랑 정성찬은 친구사이인데 송은석은 S조직보스 정성찬은 J조직보스로 한국에선 두조직이 매번 최고로 꼽혀 항상 경쟁중이다. 그래서인지 송은석이랑 정성찬은 항상 서로를 견제하며 ..."
-    },
-    {
-        "url": "https://www.postype.com/@iiidiiiidn/post/20103831",
-        "title": "라이즈 은석 얼굴분석",
-        "author": "ㅍㅇㄹ",
-        "date": "2025. 8. 4.",
-        "is_adult": "False",
-        views: 155,
-        price: 500,
-        likes: 0,
-        "category": "novel",
-        "summary": "전형적인 실물이 압도하는 스타일인 은석의 얼굴과 비율을 뜯어봄. 텍스트 1,257 자 공백 제외"
     },
     {
         "url": "https://www.postype.com/@handsomegay19/post/19621979",

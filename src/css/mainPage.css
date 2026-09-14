@@ -179,8 +179,9 @@ body {
   background: none;
   border: none;
   color: var(--point-color);
-  font-size: 11px;
+  font-size: 13px;
   cursor: pointer;
+  font-weight: 600;
 }
 
 .tag-chip-group {
@@ -317,11 +318,13 @@ body {
   background-color: var(--bg-input);
   color: var(--text-muted);
   border-radius: 4px;
+  font-weight: bold;
 }
 
 .tag-adult {
   background-color: var(--adult-bg);
   color: var(--point-color);
+  font-weight: bold;
 }
 
 .views {
@@ -383,7 +386,7 @@ body {
 
 /* 안내 텍스트 */
 .guide-text {
-  color: #f80606;
+  color: #f5e9da;
   font-weight: 600;
 }
 
@@ -589,3 +592,4 @@ body {
 .scroll-top-btn:active {
   transform: translateY(0);
 }
+

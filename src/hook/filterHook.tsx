@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import type { novelToonData } from '../interface/type';
 import { taroTonData } from '../component/tonRight/taroTon';
 import { shongTonData } from '../component/tonRight/shongTon';
@@ -32,7 +32,7 @@ import { tonBinData } from '../component/binRight/tonbin';
 import { shongBinData } from '../component/binRight/shongbin';
 
 export const useFilterHook = (filterTag: string[]) => {
-  const [filteredPosts, setFilteredPosts] = useState<novelToonData[]>([]);
+  //const [filteredPosts, setFilteredPosts] = useState<novelToonData[]>([]);
 
   const handlers: Record<string, novelToonData[]> = {
 
@@ -115,46 +115,66 @@ export const useFilterHook = (filterTag: string[]) => {
     "톤왼" : [...tonShoData, ...tonDolData, ...tonShongData, ...tonBinData, ...tonHeeData]
   };
 
-  useEffect(() => {
+const notKeySet = useMemo(
+    () =>
+      new Set([
+        "돌숑", "석숑", "또숑", "석톤", "은톤", "히톤", "숕돌", "숕은",
+        "숕히", "톤은", "톤돌", "톤히", "넨은", "넨돌", "숑은", "숑돌",
+        "넨히", "은숕", "석숕", "히숕", "은넨", "석넨", "돌히", "숑히",
+        "히돌", "히은", "히석", "또은",
+      ]),
+    []
+  );
 
-    const notKey = [
-      "돌숑", "석숑", "또숑", "석톤", "은톤", "히톤", "숕돌", "숕은",
-      "숕히", "톤은", "톤돌", "톤히", "넨은", "넨돌", "숑은", "숑돌",
-      "넨히", "은숕", "석숕", "히숕", "은넨", "석넨", "돌히", "숑히",
-      "히돌", "히은", "히석", "또은", 
-      
-    ]
-
+  // 1. 전체 handlers의 역방향 맵핑(url -> associatedKeySet)을 1회만 구축
+  const urlToKeysMap = useMemo(() => {
+    const map = new Map<string, Set<string>>();
     
-    // 1. 태그가 없을 때 vs 있을 때 데이터 가져오기 (handlers 원본 그대로 사용)
-    const matchedPosts = filterTag.length === 0
-      ? Object.values(handlers).flat()
-      : filterTag.flatMap((tag) => handlers[tag] ?? []);
-
-    // 2. URL 기준으로 중복 제거
-    const uniqueMap = new Map<string, novelToonData>();
-
-    matchedPosts.forEach((post) => {
-      if (!post.url) return;
-
-      if (!uniqueMap.has(post.url)) {
-        // handlers에서 '~른'으로 끝나지 않는 키만 골라서 cpName 추출
-        const matchedCpNames = Object.entries(handlers)
-          .filter(([key]) => !key.endsWith('른')) // '~른' 태그 제외 조건
-          .filter(([key]) => !key.endsWith('왼')) // '~왼' 태그 제외 조건
-          .filter(([key]) => !notKey.includes(key))
-          .filter(([_, dataList]) => dataList.some((p) => p.url === post.url))
-          .map(([key]) => key);
-
-        uniqueMap.set(post.url, {
-          ...post,
-          cpName: matchedCpNames, // 예: ["숑톤", "넨톤"]
-        });
-      }
+    Object.entries(handlers).forEach(([key, posts]) => {
+      posts.forEach((post) => {
+        if (!post.url) return;
+        if (!map.has(post.url)) {
+          map.set(post.url, new Set());
+        }
+        map.get(post.url)!.add(key);
+      });
     });
 
-    setFilteredPosts(Array.from(uniqueMap.values()));
-  }, [filterTag]);
+    return map;
+  }, []); // 초기 로딩 시 단 1회만 계산
+
+  // 2. 태그 변경 시 중복 탐색 없이 Map 참조로 $O(N)$ 연산 처리
+  const filteredPosts = useMemo(() => {
+    const matchedPosts =
+      filterTag.length === 0
+        ? Object.values(handlers).flat()
+        : filterTag.flatMap((tag) => handlers[tag] ?? []);
+
+    const uniqueMap = new Map<string, novelToonData & { allTags?: string[] }>();
+
+    for (let i = 0; i < matchedPosts.length; i++) {
+      const post = matchedPosts[i];
+      if (!post.url || uniqueMap.has(post.url)) continue;
+
+      const associatedKeysSet = urlToKeysMap.get(post.url);
+      const allAssociatedKeys = associatedKeysSet ? Array.from(associatedKeysSet) : [];
+
+      const matchedCpNames = allAssociatedKeys.filter(
+        (key) =>
+          !key.endsWith('른') &&
+          !key.endsWith('왼') &&
+          !notKeySet.has(key)
+      );
+
+      uniqueMap.set(post.url, {
+        ...post,
+        cpName: matchedCpNames,
+        allTags: allAssociatedKeys,
+      });
+    }
+
+    return Array.from(uniqueMap.values());
+  }, [filterTag, urlToKeysMap, notKeySet]);
 
   return filteredPosts;
 };

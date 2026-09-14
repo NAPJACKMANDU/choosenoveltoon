@@ -1,8 +1,8 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import "../css/mainPage.css";
 import MainSearchFilter from './mainSearchFilter';
 import { useFilterHook } from '../hook/filterHook';
-import "../css/darkmode.css"
+import "../css/darkmode.css";
 
 export const MainHPage = () => {
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
@@ -11,20 +11,18 @@ export const MainHPage = () => {
   const [currentPage, setCurrentPage] = useState<number>(1);
   const [sortOption, setSortOption] = useState<'latest' | 'oldest' | 'likes' | 'views'>('latest');
 
-  // 다크 모드 상태 (기존 설정 불러오기)
   const [isDarkMode, setIsDarkMode] = useState<boolean>(() => {
     return localStorage.getItem('theme') === 'dark';
   });
 
-  // 스크롤 방향 상태 ('top': 위로 이동 / 'bottom': 아래로 이동)
   const [scrollDirection, setScrollDirection] = useState<'top' | 'bottom'>('bottom');
 
   const ITEMS_PER_PAGE = 20;
   const PAGE_BLOCK_SIZE = 5;
 
   const filteredPosts = useFilterHook(selectedTags);
+  const isLoading = !filteredPosts || filteredPosts.length === 0;
 
-  // 다크모드 변경 시 body 클래스 및 localStorage 반영
   useEffect(() => {
     if (isDarkMode) {
       document.body.classList.add('dark-mode');
@@ -35,119 +33,93 @@ export const MainHPage = () => {
     }
   }, [isDarkMode]);
 
-  // 다크모드 토글 핸들러
-  const toggleDarkMode = () => {
-    setIsDarkMode((prev) => !prev);
-  };
+  const toggleDarkMode = () => setIsDarkMode((prev) => !prev);
 
-  // 스크롤 위치 감지 (300px 기준으로 버튼 방향 전환)
   useEffect(() => {
     const handleScroll = () => {
-      if (window.scrollY > 300) {
-        setScrollDirection('top');
-      } else {
-        setScrollDirection('bottom');
-      }
+      setScrollDirection(window.scrollY > 300 ? 'top' : 'bottom');
     };
-
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  // 맨 위 또는 맨 아래로 이동하는 함수
   const handleScrollTo = () => {
-    if (scrollDirection === 'top') {
-      window.scrollTo({
-        top: 0,
-        behavior: 'smooth'
-      });
-    } else {
-      window.scrollTo({
-        top: document.body.scrollHeight,
-        behavior: 'smooth'
-      });
-    }
+    window.scrollTo({
+      top: scrollDirection === 'top' ? 0 : document.body.scrollHeight,
+      behavior: 'smooth',
+    });
   };
 
-  // 카테고리 + 검색어 통합 필터링
-  const categoryFilteredPosts = filteredPosts.filter((post) => {
-    const matchesCategory = selectedCategory === 'all' || post.category === selectedCategory;
-
-    const query = searchTerm.trim().toLowerCase();
-    const matchesSearch = !query || (
-      post.title?.toLowerCase().includes(query) ||
-      post.author?.toLowerCase().includes(query) ||
-      post.cpName?.some((cp) => cp.toLowerCase().includes(query))
-    );
-
-    return matchesCategory && matchesSearch;
-  });
-
-  useEffect(() => {
-    setCurrentPage(1);
-  }, [selectedTags, selectedCategory, searchTerm]);
-
+  // 날짜 파싱 헬퍼 함수
   const getPostDate = (date: string): number => {
     const koreanDate = date.match(/^(\d{4})\D+(\d{1,2})\D+(\d{1,2})/);
     if (koreanDate) {
       const [, year, month, day] = koreanDate;
       return Date.UTC(Number(year), Number(month) - 1, Number(day));
     }
-
     const parsedDate = Date.parse(date);
     return Number.isNaN(parsedDate) ? 0 : parsedDate;
   };
 
-  const sortedPosts = [...categoryFilteredPosts].sort((a, b) => {
-    if (sortOption === 'latest') {
-      return getPostDate(b.date) - getPostDate(a.date);
-    }
-    if (sortOption === 'oldest') {
-      return getPostDate(a.date) - getPostDate(b.date);
-    }
-    if (sortOption === 'likes') {
-      return Number(b.likes ?? 0) - Number(a.likes ?? 0);
-    }
-    if (sortOption === 'views') {
-      return Number(b.views ?? 0) - Number(a.views ?? 0);
-    }
-    return 0;
-  });
+  // 1. 카테고리 + 검색어 필터링 메모이제이션
+  const categoryFilteredPosts = useMemo(() => {
+    const query = searchTerm.trim().toLowerCase();
+
+    return filteredPosts.filter((post) => {
+      const matchesCategory = selectedCategory === 'all' || post.category === selectedCategory;
+
+      const matchesSearch =
+        !query ||
+        post.title?.toLowerCase().includes(query) ||
+        post.author?.toLowerCase().includes(query) ||
+        post.cpName?.some((cp) => cp.toLowerCase().includes(query)) ||
+        (post as any).allTags?.some((tag: string) => tag.toLowerCase().includes(query));
+
+      return matchesCategory && matchesSearch;
+    });
+  }, [filteredPosts, selectedCategory, searchTerm]);
+
+  // 2. 정렬 연산 메모이제이션
+  const sortedPosts = useMemo(() => {
+    return [...categoryFilteredPosts].sort((a, b) => {
+      if (sortOption === 'latest') return getPostDate(b.date) - getPostDate(a.date);
+      if (sortOption === 'oldest') return getPostDate(a.date) - getPostDate(b.date);
+      if (sortOption === 'likes') return Number(b.likes ?? 0) - Number(a.likes ?? 0);
+      if (sortOption === 'views') return Number(b.views ?? 0) - Number(a.views ?? 0);
+      return 0;
+    });
+  }, [categoryFilteredPosts, sortOption]);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [selectedTags, selectedCategory, searchTerm]);
 
   const totalItems = sortedPosts.length;
   const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE) || 1;
 
   const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-  const currentPosts = sortedPosts.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+  const currentPosts = useMemo(() => {
+    return sortedPosts.slice(startIndex, startIndex + ITEMS_PER_PAGE);
+  }, [sortedPosts, startIndex, ITEMS_PER_PAGE]);
 
   const currentGroup = Math.floor((currentPage - 1) / PAGE_BLOCK_SIZE);
   const startPage = currentGroup * PAGE_BLOCK_SIZE + 1;
   const endPage = Math.min(startPage + PAGE_BLOCK_SIZE - 1, totalPages);
 
-  const pageNumbers = Array.from(
-    { length: endPage - startPage + 1 },
-    (_, i) => startPage + i
-  );
+  const pageNumbers = useMemo(() => {
+    return Array.from({ length: endPage - startPage + 1 }, (_, i) => startPage + i);
+  }, [startPage, endPage]);
 
   const handlePageChange = (page: number) => {
     setCurrentPage(page);
-    window.scrollTo({
-      top: 0,
-      behavior: 'smooth'
-    });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   const formatNumber = (numStr: string | number): string => {
     const num = Number(numStr);
     if (isNaN(num)) return '0';
-    if (num >= 10000) {
-      const man = num / 10000;
-      return `${Number(man.toFixed(1))}만`;
-    }
-    if (num >= 1000) {
-      const cheon = num / 1000;
-      return `${Number(cheon.toFixed(1))}천`;
-    }
+    if (num >= 10000) return `${Number((num / 10000).toFixed(1))}만`;
+    if (num >= 1000) return `${Number((num / 1000).toFixed(1))}천`;
     return num.toString();
   };
 
@@ -208,52 +180,66 @@ export const MainHPage = () => {
         </div>
       )}
 
-      <main className="post-list">
-        {currentPosts.map((post) => (
-          <article key={post.url} className="post-card">
-            <div className="author-header">
-              <div className="author-info">
-                <div className="author-details">
-                  <h2 className="title">{post.title}</h2>
-                  <span className="nickname">{post.author}  ·  {post.date}</span>
+      {isLoading ? (
+        <div style={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+          padding: '100px 0',
+          color: 'var(--text-secondary, #888)',
+          fontSize: '15px',
+          fontWeight: 'bold'
+        }}>
+          <p>데이터를 불러오는 중입니다...</p>
+        </div>
+      ) : (
+        <main className="post-list">
+          {currentPosts.map((post) => (
+            <article key={post.url} className="post-card">
+              <div className="author-header">
+                <div className="author-info">
+                  <div className="author-details">
+                    <h2 className="title">{post.title}</h2>
+                    <span className="nickname">{post.author}  ·  {post.date}</span>
+                  </div>
                 </div>
               </div>
-            </div>
 
-            <div className="post-content">
-              <p className="preview-text">{post.summary}</p>
-            </div>
-
-            <div className="tag-list">
-              {post.is_adult === 'True' && <span className="tag tag-adult">성인</span>}
-              {post.cpName?.map((cp, index) => (
-                  <span key={`${post.url}-${index}`} className="tag">{cp}</span>
-              ))}
-            </div>
-
-            <div className="post-stats">
-              <span className="views">조회 {formatNumber(post.views)}</span>
-            </div>
-
-            <div className="interaction-bar">
-              <button className="action-btn">❤️ {formatNumber(post.likes)}</button>
-              <button className="action-btn">💰 {Number(post.price).toLocaleString()}P</button>
-              <div className="right-actions">
-                <a 
-                  href={post.url} 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  className="action-btn postype-link-btn"
-                >
-                  포스타입으로 이동
-                </a>
+              <div className="post-content">
+                <p className="preview-text">{post.summary}</p>
               </div>
-            </div>
-          </article>
-        ))}
-      </main>
 
-      {totalPages > 1 && (
+              <div className="tag-list">
+                {post.is_adult === 'True' && <span className="tag tag-adult">성인</span>}
+                {post.cpName?.map((cp, index) => (
+                    <span key={`${post.url}-${index}`} className="tag">{cp}</span>
+                ))}
+              </div>
+
+              <div className="post-stats">
+                <span className="views">조회 {formatNumber(post.views)}</span>
+              </div>
+
+              <div className="interaction-bar">
+                <button className="action-btn">❤️ {formatNumber(post.likes)}</button>
+                <button className="action-btn">💰 {Number(post.price).toLocaleString()}P</button>
+                <div className="right-actions">
+                  <a 
+                    href={post.url} 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="action-btn postype-link-btn"
+                  >
+                    포스타입으로 이동
+                  </a>
+                </div>
+              </div>
+            </article>
+          ))}
+        </main>
+      )}
+
+      {!isLoading && totalPages > 1 && (
         <div className="pagination-container">
           <button 
             className="page-nav-btn" 
@@ -299,7 +285,6 @@ export const MainHPage = () => {
         </div>
       )}
 
-      {/* 우측 하단 플로팅 버튼 그룹 (다크모드 토글 + 스크롤) */}
       <div className="floating-btn-group">
         <button 
           className="floating-btn" 

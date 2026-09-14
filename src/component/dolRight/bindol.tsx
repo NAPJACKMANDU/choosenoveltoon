@@ -2352,18 +2352,6 @@ export const binDolData = [
         "summary": "24. “좋아해 볼게.“ 박원빈은 좋아해 보겠다는 말에 감동을 받았는지 병실에서 환자복을 입고 눈물을 툭툭 떨궜다. 야 여기서 울면…… 때마침 매니저와 간호사가 혈압 측정을 위해 ..."
     },
     {
-        "url": "https://www.postype.com/@mystic-otter/post/21422886",
-        "title": "[라이즈] 은석 동•서양 점성술 +석과비니 관계성 (생시 포함)",
-        "author": "연우 緣又",
-        "date": "2026. 1. 22.",
-        "is_adult": "False",
-        views: 1800,
-        price: 300,
-        likes: 61,
-        "category": "novel",
-        "summary": "극히 일부 유료/ 얼굴 합으로 여자들의 염원이 된 석과비니 드디어 왔습니다. 사실 개인적으로 은석 님은 궁금하고 찾아보고 싶은 마음이 없었는데 저랑 요니가 같더라고요 (TMI;) ..."
-    },
-    {
         "url": "https://www.postype.com/@soundbook/post/20930599",
         "title": "연애 일기 c",
         "author": "힌트",

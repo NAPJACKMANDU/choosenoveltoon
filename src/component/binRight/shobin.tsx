@@ -1104,18 +1104,6 @@ export const shoBinData = [
         "summary": "*** '소실의 서' 를 먼저 읽은 후 읽어주세요. 🜸 🜸 🜸 오디션은 죽 쒔다고, 지하철에서 내려 통화하며 실토했다. 원래 놓다시피 했던 연기를 너무 만만히 본 게 잘못이라고 땅..."
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/19632537",
-        "title": "라이즈, 사주로 보는 동성애 가능성 분석 #심화편",
-        "author": "규월",
-        "date": "2025. 6. 9.",
-        "is_adult": "False",
-        views: 7400,
-        price: 2000,
-        likes: 104,
-        "category": "novel",
-        "summary": "지난 글 에선 라이즈 멤버들 중 누가 남자에게 리얼로 '가능'이 뜰 수 있는지, 사주상으로 왜 그러한지를 알아봤다. 이번엔 더 심화편으로다가 찐으로 호모질을 시행하게 된다면 그 멤..."
-    },
-    {
         "url": "https://www.postype.com/@jangsaengnong/post/16091025",
         "title": "누에바 올라",
         "author": "장생농",
@@ -1968,18 +1956,6 @@ export const shoBinData = [
         "summary": "※ 상편에 언급했듯 벽고플 주의 특정 커플 분량이 많지는 않고 총체적 넨른 느낌이 더 강합니다 4. 눈을 뜨니 낯익은 천장이 원빈을 반겼음. 어김없이 개같은 하루의 시작이구나 ……..."
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/19850242",
-        "title": "라이즈, 사주로 보는 원빈에 대한 쇼타로의 시선",
-        "author": "규월",
-        "date": "2025. 7. 6.",
-        "is_adult": "False",
-        views: 1600,
-        price: 1200,
-        likes: 49,
-        "category": "novel",
-        "summary": "어제 썼던 은석이를 바라보는 원빈이의 시선 글에 달린 댓글이다. 한마디로 요약하면 원빈이 같은 성격은 라이즈 활동을 하면서 은석이나 타로에게 겉보기 긍정적일 수 밖에 없다는 말. ..."
-    },
-    {
         "url": "https://www.postype.com/@magnetite/post/17710838",
         "title": "Mirage (上)",
         "author": "자성",
@@ -2014,30 +1990,6 @@ export const shoBinData = [
         likes: 48,
         "category": "webtoon",
         "summary": "‼️ 소재주의: 여성기/컨트보이 ‼️ 썰체 (아래 이미지 참고) 1 / 2 결제하면... 내용이 어떻든 이제부터 나와 함께 하는 겁니다. 요즘엔 성인 걸어도 이런 소재... 싸불 ..."
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/21746793",
-        "title": "라이즈 원빈, 사주로 보는 앙케이트 분석 [고교편]",
-        "author": "규월",
-        "date": "2026. 3. 4.",
-        "is_adult": "False",
-        views: 1700,
-        price: 1300,
-        likes: 47,
-        "category": "novel",
-        "summary": "원빈이가 작성한 앙케이트 분석 [현실편]에 이어, 배경이 라이즈 고교 학생으로 설정된 [고교편]도 쫀득하게 분석해보자. 나는 원빈이가 '점심시간 10분 전부터 급식실로 달려갈 준비..."
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/19097474",
-        "title": "라이즈 원빈X쇼타로, 사주로 보는 관계성",
-        "author": "규월",
-        "date": "2025. 3. 25.",
-        "is_adult": "False",
-        views: 2500,
-        price: 900,
-        likes: 47,
-        "category": "novel",
-        "summary": "쇼타로의 담당 동생은 왜 원빈이일까? 얘들은 왜 오질라게 붙어 다녀서 애칭도 자석즈냐? 사주로 그 이유를 한번 알아봅시다. 텍스트 2,087 자 공백 제외 이미지 1 장"
     },
     {
         "url": "https://www.postype.com/@attacca6/post/17121243",
@@ -3336,18 +3288,6 @@ export const shoBinData = [
         "summary": "센티넬은 가이드한테 가이딩 받으면 웬만한 상처는 다 치료할 수 있어. 총상이든 자상이든, 숨만 붙어있으면 어떻게든 손을 쓸 수 있지. 하지만 균이나 바이러스처럼 감염으로 인한 병은..."
     },
     {
-        "url": "https://www.postype.com/@bbbiniee/post/18245505",
-        "title": "XX 유형 탐구",
-        "author": "마루",
-        "date": "2024. 12. 27.",
-        "is_adult": "True",
-        views: 3000,
-        price: 500,
-        likes: 21,
-        "category": "novel",
-        "summary": "라이즈 남자들의 섹스 유형을 탐구해보자.(쫌쫌따리 관계성 캐해도 살짝~) 넨른 숕넨 숑넨 돌넨 히넨 톤넨 텍스트 2,719 자 공백 제외"
-    },
-    {
         "url": "https://www.postype.com/@bbbiniee/post/18018126",
         "title": "울산에서 몰래?",
         "author": "마루",
@@ -4534,18 +4474,6 @@ export const shoBinData = [
         likes: 7,
         "category": "webtoon",
         "summary": "고베에서 250714 🦦 : 아 진짜 미치겐네 - 🐈‍⬛ : 왜 🦦 : 아 미모 미치겐네 - 🐈‍⬛ : (대만족) SD카드 > 드로잉 기록 SD카드 님의 창작활동을 응원하고 싶으세..."
-    },
-    {
-        "url": "https://www.postype.com/@sajutype/post/19448708",
-        "title": "원빈님의 사주로 보는 최애 상대 vs 최악의 상대",
-        "author": "소소",
-        "date": "2025. 5. 15.",
-        "is_adult": "False",
-        views: 901,
-        price: 1000,
-        likes: 7,
-        "category": "webtoon",
-        "summary": "원빈님의 사주는 겉과 속이 다른 이중 구조에 가깝다 겉으로 보기엔 임수의 찬 기운이 두 겹이나 덮여 있어 차갑고 이성적인 사람처럼 느껴지지만 이 사주의 중심을 들여다보면 그 본질은..."
     },
     {
         "url": "https://www.postype.com/@kbg05024/post/19139165",

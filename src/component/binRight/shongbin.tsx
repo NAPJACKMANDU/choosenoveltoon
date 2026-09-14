@@ -18840,18 +18840,6 @@ export const shongBinData = [
         "summary": "원래 삐니 생일에 올리고 싶었는데 길어지고... 흐흐흡 주말까지 나머지 올리는 게 목표! 나중에 수정해서 올리거나 합칠게요! 그래도 주말 가기 전에 올려서 다행! 앞뒤로 씬추가했어..."
     },
     {
-        "url": "https://www.postype.com/@mystic-otter/post/21262087",
-        "title": "[라이즈] 원빈, 성찬 동•서양 점성술 +순정즈 관계성 (생시 포함 수정)",
-        "author": "연우 緣又",
-        "date": "2026. 1. 3.",
-        "is_adult": "False",
-        views: 5400,
-        price: 0,
-        likes: 273,
-        "category": "novel",
-        "summary": "이 두 사람은.. 미루고 미룬 이유가.. 참 묘한 형태라 어찌 풀어야 할지 깊생 하다가 회피해 버린 케이스; 생시 좁힌 버전으로 수정해 두었습니다 평소가 좀 덜컹거리는 감이 있어 ..."
-    },
-    {
         "url": "https://www.postype.com/@bambikiller/post/20040227",
         "title": "옆집 남자가 샤워할 때마다 - 하",
         "author": "라니",
@@ -36144,18 +36132,6 @@ export const shongBinData = [
         "summary": "\"...형. 삐. 비형 아니었어요?\" \"...갑자기? 나 A형인데...? 박원빈 너는 혈액형 뭔데?\" \"네? 저는 AB형.\" \"근데 갑자기 왜? 요새는 엠비티아이 아냐?\" \"아니 ..."
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/19129097",
-        "title": "라이즈 성찬, 사주로 보는 행동분석",
-        "author": "규월",
-        "date": "2025. 3. 30.",
-        "is_adult": "False",
-        views: 7300,
-        price: 1200,
-        likes: 114,
-        "category": "webtoon",
-        "summary": "오늘은 우리 본능에 충실한 똥개 망아지 성찬이의 식신격특 일방통행 오지는 행동들을 모아 리뷰해보려고 한다. 보다보면 ‘아, 악의도 없고 눈치도 없다는것이 바로 이런 것이구나’ 할 ..."
-    },
-    {
         "url": "https://www.postype.com/@potatoooo/post/18812807",
         "title": "앞니의 습격",
         "author": "감자",
@@ -37438,18 +37414,6 @@ export const shongBinData = [
         likes: 104,
         "category": "novel",
         "summary": "소재주의 無底坑-五. 텍스트 7,123 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/19632537",
-        "title": "라이즈, 사주로 보는 동성애 가능성 분석 #심화편",
-        "author": "규월",
-        "date": "2025. 6. 9.",
-        "is_adult": "False",
-        views: 7400,
-        price: 2000,
-        likes: 104,
-        "category": "novel",
-        "summary": "지난 글 에선 라이즈 멤버들 중 누가 남자에게 리얼로 '가능'이 뜰 수 있는지, 사주상으로 왜 그러한지를 알아봤다. 이번엔 더 심화편으로다가 찐으로 호모질을 시행하게 된다면 그 멤..."
     },
     {
         "url": "https://www.postype.com/@sillamoon/post/19426417",
@@ -39492,18 +39456,6 @@ export const shongBinData = [
         "summary": "1편: https://posty.pe/dv3m26 2편: https://posty.pe/c0mptq 3편: https://posty.pe/lrvdom 1-3편 무료 회차 4편: h..."
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/18707755",
-        "title": "라이즈 성찬X원빈, 사주로 보는 관계성",
-        "author": "규월",
-        "date": "2025. 2. 10.",
-        "is_adult": "False",
-        views: 5900,
-        price: 1300,
-        likes: 91,
-        "category": "novel",
-        "summary": "성찬이랑 원빈이 안 친한 것 같다. 이거 단골이슈잖아 ㅋㅋㅋ 아니나 다를까 사주 까보니 바로 왜인지 명확하게 나온다. 둘은 절대로 돈독할 수가 없다. 그럼 누가 누구를 더 아니꼽게..."
-    },
-    {
         "url": "https://www.postype.com/@pablopicasso/post/17662546",
         "title": "토끼는 당근을 좋아해 🥕",
         "author": "피카소",
@@ -40246,18 +40198,6 @@ export const shongBinData = [
         likes: 87,
         "category": "novel",
         "summary": "이미지 1 장"
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/20377145",
-        "title": "라이즈, 사주로 보는 성찬이 쓰는 인물관계도",
-        "author": "규월",
-        "date": "2025. 9. 10.",
-        "is_adult": "False",
-        views: 4600,
-        price: 1300,
-        likes: 87,
-        "category": "novel",
-        "summary": "한 굿즈에 실린 ‘라이즈 멤버들이 직접 쓴 인물관계도’가 하나같이 그들의 내면을 투리구슬마냥 비추고 있어, 그 관계도들을 사주 기반으로 하나하나씩 파헤쳐 보고 있는 중이다. 오늘은..."
     },
     {
         "url": "https://www.postype.com/@whitenight93/post/19889155",
@@ -41484,18 +41424,6 @@ export const shongBinData = [
         "summary": "이미지 4 장"
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/20357847",
-        "title": "라이즈, 사주로 보는 원빈이 쓰는 인물관계도",
-        "author": "규월",
-        "date": "2025. 9. 4.",
-        "is_adult": "False",
-        views: 3600,
-        price: 1300,
-        likes: 81,
-        "category": "webtoon",
-        "summary": "일전에 프리뷰로 공개됐던 '은석이가 쓴 인물관계도' 속 숨겨진 그의 속내를 사주 관점에서 분석한 글 을 썼었는데, 드디어 모든 멤버 버전이 공개되어 이어서 이번엔 '원빈이가 쓴 인..."
-    },
-    {
         "url": "https://www.postype.com/@no1-bin/post/20281968",
         "title": "크래쉬",
         "author": "모럐",
@@ -42382,18 +42310,6 @@ export const shongBinData = [
         likes: 76,
         "category": "novel",
         "summary": "* X에서 풀었던 뱀수인 썰 백업본입니다. * 결제창 하단에는 외전 [ 애인이 발정기인 경우] 와 미공개 외전 [애인이 아빠가 된 경우] 가 삽입되어 있습니다. 키워드에 주의하시어..."
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/19372637",
-        "title": "라이즈 성찬X원빈, 사주로 보는 행동분석",
-        "author": "규월",
-        "date": "2025. 5. 5.",
-        "is_adult": "False",
-        views: 3900,
-        price: 1300,
-        likes: 76,
-        "category": "webtoon",
-        "summary": "닿으면 죽는 세계관에 갇히기라도 한 듯 유래없는 어사를 자랑하고 있는 라이즈의 1등 CP 숑넨. 와꾸합만으로 마른걸레 쥐어짜기를 당하고 있는 이 불쌍한 CP의 관계성을 사주를 바탕..."
     },
     {
         "url": "https://www.postype.com/@rarara777/post/18846212",
@@ -43860,18 +43776,6 @@ export const shongBinData = [
         "summary": "포타 안 쓰려고 했는데 어떤 외국 웅니가 화들짝 인용 달고 가서 내림여;; 걍 좀 적나라한 건 여따 올릴라고… "
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/19936369",
-        "title": "라이즈, 사주로 보는 성찬이에 대한 원빈의 시선",
-        "author": "규월",
-        "date": "2025. 7. 20.",
-        "is_adult": "False",
-        views: 3400,
-        price: 1200,
-        likes: 67,
-        "category": "webtoon",
-        "summary": "요새 투어를 돌면서 허그 대란으로 시작해서 억게퍼 기깔나게 말아주고 계신 성찬과 원빈. 누가봐도 '라이즈 심폐소생하라'는 지령 수행중이신 억게퍼 그잡췌지만 굶주린 숑넨러들은 아주 ..."
-    },
-    {
         "url": "https://www.postype.com/@iamdokki/post/19525111",
         "title": "아카이빙 순정 (상)",
         "author": "dokki",
@@ -44760,18 +44664,6 @@ export const shongBinData = [
         "summary": "구라 안 치고 햄버거 두 입 밖에 못 먹었다니까? 아침 열 시에 작업실 출근하자마자 애매하게 먹은 햄버거를 제외하고 밤 열두 시가 다 되도록 커피와 물 외에는 입안에 넣지도 못했다..."
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/18869476",
-        "title": "라이즈 성찬X원빈, 만약 이성관계라면 어떤 커플일까? 사주 분석",
-        "author": "규월",
-        "date": "2025. 2. 25.",
-        "is_adult": "False",
-        views: 3400,
-        price: 900,
-        likes: 62,
-        "category": "webtoon",
-        "summary": "기사일주 정재남 쇄국사상 오지는 씹선비 원빈쓰와 기묘일주 식신격 브레이크 고장난 급발진충 성찬쓰 근데 그전 성찬 원빈 더럽게 안맞는 이유 글에서도 말했듯이 둘 다 공교롭게 꿈은 같..."
-    },
-    {
         "url": "https://www.postype.com/@emptyrr/post/17590904",
         "title": "미친 X :: 01",
         "author": "재로",
@@ -45504,18 +45396,6 @@ export const shongBinData = [
         "summary": "돌넨 숑넨 은석과 성찬의 동거규칙 첫째. 사전에 협의되지 않은 외부인은 방문 금지 (특히 여자) \"송은석 집에 말도 안 하고 이현지 데려오지 마.\" \"? 뭐라는 거야. 현지 온 적..."
     },
     {
-        "url": "https://www.postype.com/@mystic-otter/post/21370024",
-        "title": "[라이즈 전생론] 원빈, 성찬 영혼의 지도",
-        "author": "연우 緣又",
-        "date": "2026. 5. 21.",
-        "is_adult": "False",
-        views: 1400,
-        price: 0,
-        likes: 57,
-        "category": "novel",
-        "summary": "전생 콘텐츠 나왔단 이야기가 있어 원빈 님 부분 보충해서 재발행해 봅니다! 프로그램도 바뀌고 몇 달 사이 더 쌓인 임상도 있구요. 체험에서 몇 번째 생을 보셨을지는 모르겠으나 ㅎㅎ..."
-    },
-    {
         "url": "https://www.postype.com/@nuobupupu/post/21123219",
         "title": "숑넨",
         "author": "盒he",
@@ -46152,30 +46032,6 @@ export const shongBinData = [
         "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 송도신도..."
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/19800805",
-        "title": "성찬X원빈,사주로 보는 비행기 짝꿍의 진실의 물증",
-        "author": "규월",
-        "date": "2025. 6. 29.",
-        "is_adult": "False",
-        views: 2700,
-        price: 500,
-        likes: 54,
-        "category": "novel",
-        "summary": "지난 비행기짝꿍의 진실 글 에서 왜 이들이 비행기 메이트가 되었는지 글을 썼다. 엔터업 짬바가 어느덧 30년인 스엠은 비행기 옆자리 지정 또한 이유가 있음을 사주 관계성 기반으로 ..."
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/19791586",
-        "title": "라이즈, 사주로 보는 원빈에 대한 성찬의 시선",
-        "author": "규월",
-        "date": "2025. 6. 28.",
-        "is_adult": "False",
-        views: 3200,
-        price: 1200,
-        likes: 54,
-        "category": "novel",
-        "summary": "최근, 라이즈 비행기 옆자리의 진실 을 파헤쳐 보았다. 성찬이 옆자리는 항상 박원비니 인데, 왜 둘은 비행기에서 같이 찍은 셀카 한 장 위버스에 올라오지 않는가. 사주로 보니 수많..."
-    },
-    {
         "url": "https://www.postype.com/@scwb-possible/post/19775105",
         "title": "젠가를 빌미로",
         "author": "순정구팔",
@@ -46186,18 +46042,6 @@ export const shongBinData = [
         likes: 54,
         "category": "novel",
         "summary": "* 가슴 애무 핑거링 시오후키 * 음슴체 주의 실제 인물과 무관합니다 성찬과 원빈은 다툼으로 인해 며칠 째 냉전 중임. 이번 다툼은 누가 봐도 원빈 잘못이었고, 원빈도 그 사실을 ..."
-    },
-    {
-        "url": "https://www.postype.com/@91302club/post/18705253",
-        "title": "숑넨 포타 추천",
-        "author": "현무",
-        "date": "2025. 3. 8.",
-        "is_adult": "False",
-        views: 2800,
-        price: 0,
-        likes: 54,
-        "category": "novel",
-        "summary": "링크 누르면 1화로 바로 들어가집니다 유의해주세요 뚜렷한 특징이 없거나 소재 분류가 힘든 글은 일상물로 분류하겠습니다! 장편 (외전포함 5편이상) 캠게 헤남유죄사건 (일부 유료•성..."
     },
     {
         "url": "https://www.postype.com/@coyanghee/post/18086787",
@@ -46992,18 +46836,6 @@ export const shongBinData = [
         "summary": ""
     },
     {
-        "url": "https://www.postype.com/@kwd014/post/19788892",
-        "title": "라이즈, 사주로 보는 행동예측 #25",
-        "author": "규월",
-        "date": "2025. 6. 28.",
-        "is_adult": "False",
-        views: 2200,
-        price: 700,
-        likes: 50,
-        "category": "novel",
-        "summary": "#성찬이가 커밍아웃 했을 때 원빈: '아 그간 나를 이렇게 괴롭게 했던 성찬이형이 진짜 게이였다고??????' 텍스트 1,436 자 공백 제외 링크 3 개"
-    },
-    {
         "url": "https://www.postype.com/@puritybina/post/19699421",
         "title": "너의 연애",
         "author": "퓨나",
@@ -47182,18 +47014,6 @@ export const shongBinData = [
         likes: 49,
         "category": "novel",
         "summary": "*뇨테로 주의 *글이 전체적으로 빻았음... *3p 주의 ( https://posty.pe/umpm49 ) 이 글과 이어집니다. 텍스트 4,906 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/19828298",
-        "title": "라이즈, 사주로 보는 행동예측 #28",
-        "author": "규월",
-        "date": "2025. 7. 2.",
-        "is_adult": "False",
-        views: 2500,
-        price: 900,
-        likes: 49,
-        "category": "novel",
-        "summary": "#원빈이가 많이 아파서 활동중지하게 되었을 때 라이즈를 위해 정말 뭐든지 하다가 결국 병이 나버리고 만 원빈이. 예기치 못한 활동중지를 맞이하게 되었는데..! 성찬: ‘헉 원빈이가..."
     },
     {
         "url": "https://www.postype.com/@simsnen/post/19614336",
@@ -48130,18 +47950,6 @@ export const shongBinData = [
         likes: 44,
         "category": "novel",
         "summary": "키워드 : 박박구르는 후회공 눈을 뜨니 매캐한 냄새가 가득했다. 거기다 몸은 결박이 되어 바닥에 나뒹굴고 있었다. 어디인지 몰라 주변을 둘러보니 옅은 채도의 조명 하나만 달라 켜진..."
-    },
-    {
-        "url": "https://www.postype.com/@kwd014/post/21739820",
-        "title": "라이즈 성찬, 사주로 보는 앙케이트 분석 [현실편]",
-        "author": "규월",
-        "date": "2026. 3. 1.",
-        "is_adult": "False",
-        views: 1500,
-        price: 1300,
-        likes: 44,
-        "category": "webtoon",
-        "summary": "원빈 과 소희 가 작성한 앙케이트 분석 고교편에 이어, 이런 손병호식 이미지게임 컨텐츠는 라이즈 멤버들의 관계성을 가장 적나라하게 날것으로 보여주며 그들의 사주풀이를 한꺼번에 맛깔..."
     },
     {
         "url": "https://www.postype.com/@chii23/post/21627623",
@@ -49500,18 +49308,6 @@ export const shongBinData = [
         "summary": "연락을 할까말까 고민하는 건 원빈에게 사치였다. 밤비님의 쪽지를 확인하자마자 연락처부터 저장하고 봤다. 카카오톡 이름은 아무것도 없이 [.]만 찍혀 있었고 그걸 본 원빈은 본인 카..."
     },
     {
-        "url": "https://www.postype.com/@byebyebyebyebyebye/post/16748023",
-        "title": "라이즈 노딱 포타 추천 ②",
-        "author": "i.dollo.ver",
-        "date": "2024. 5. 6.",
-        "is_adult": "True",
-        views: 4600,
-        price: 300,
-        likes: 39,
-        "category": "novel",
-        "summary": "소재주의.. 제가 좋아하는 취향만 있음 ❤️❤️❤️❤️ 순서 랜덤 씨피는 ① 보다 좀 더 다양한 듯? [숑넨] 다정함이 이겨 외전: 아 나 이거 너무좋아해서 본편이랑 외전 둘 다 ..."
-    },
-    {
         "url": "https://www.postype.com/@999-9999-9999/post/16684833",
         "title": "개봉시 환불불가",
         "author": "9️⃣",
@@ -50722,18 +50518,6 @@ export const shongBinData = [
         likes: 34,
         "category": "novel",
         "summary": "일단 박원빈 뒷맛 본 남자새끼들은 꼭 원빈을 다시 찾았다. 그런 거에서 우월감을 느끼곤 했다. 괜찮았던 놈이랑은 한번 더 하고 별로였던 놈들은 팽하는게 원빈의 취미이자 특기였다. ..."
-    },
-    {
-        "url": "https://www.postype.com/@no-929/post/21145556",
-        "title": "라이즈 포타 추천",
-        "author": "929",
-        "date": "2026. 1. 4.",
-        "is_adult": "False",
-        views: 1800,
-        price: 0,
-        likes: 34,
-        "category": "novel",
-        "summary": "제가 다시 보고싶은 글 모아둘겸 추천글을 썼는데요, 제취향 100%라 노딱이 대부분에 유료글도 많고 완결, 연재중 중구난방에 이미 유명한 글이 대부분이라 큰 도움이 안될거같지만 그..."
     },
     {
         "url": "https://www.postype.com/@kimsaraeee/post/21031849",
@@ -52524,18 +52308,6 @@ export const shongBinData = [
         "summary": "성찬은 심각하다. 원빈이 변했다. 엠티 이후로. 그것도 아주 많이. 대체 그날 저가 무슨 짓을 저질렀는지 머리 아프게 생각을 해보았지만 기억은 떠오르지 않았다. 원빈과 같은 과라서..."
     },
     {
-        "url": "https://www.postype.com/@byebyebyebyebyebye/post/16715731",
-        "title": "라이즈 노딱 포타 추천 ①",
-        "author": "i.dollo.ver",
-        "date": "2024. 4. 30.",
-        "is_adult": "True",
-        views: 4300,
-        price: 300,
-        likes: 29,
-        "category": "novel",
-        "summary": "소재주의.. 제가 좋아하는 취향만 있음 ❤️❤️❤️❤️ 순서 랜덤 씨피 숑넨이 60% 정도 되는듯? [숑넨] 로그인 투 X: 헤게! 하트 2000개 넘는 숑넨바이블.. 이 엄마꺼는..."
-    },
-    {
         "url": "https://www.postype.com/@sn-9132/post/16415708",
         "title": "홍도화 나무 아래",
         "author": "하삐",
@@ -52858,18 +52630,6 @@ export const shongBinData = [
         likes: 28,
         "category": "novel",
         "summary": "삐니 갈색짧머 하니까 미자 같고 꼴림ㅎ.. (미리보기) 텍스트 14 자 공백 제외 이미지 2 장"
-    },
-    {
-        "url": "https://www.postype.com/@woalrp/post/19067606",
-        "title": "[라이즈 사주 풀이] 박원빈은 어떤 사람을 좋아할까?- 이목구비, 체형, 머리, 스타일, 성격 등",
-        "author": "현자",
-        "date": "2025. 11. 30.",
-        "is_adult": "False",
-        views: 3800,
-        price: 700,
-        likes: 28,
-        "category": "webtoon",
-        "summary": "원빈이 같은 사주는 ‘무대 위’와 ‘무대 아래’의 자기를 나누는 성향이 강해서, 사적으로는 자기를 그냥 편하게 대해주는 사람, 자기 직업이나 외모보단, 평범한 사람처럼 대해주는 태..."
     },
     {
         "url": "https://www.postype.com/@case23/post/19019028",
@@ -55740,18 +55500,6 @@ export const shongBinData = [
         "summary": "매일 헬스장에서 마주치는 숑넨이 좋다 두꺼운 안경 쓰고 매일 학교에서 거북목으로 코딩하던 컴공과 삐니 허리 아프고 어깨도 아파서 하루는 병원 가는데 목디스크 직전이라는 말 듣고 이..."
     },
     {
-        "url": "https://www.postype.com/@0sourry1/post/17107512",
-        "title": "라이즈 노딱 🔞 19금 포타 추천",
-        "author": "최",
-        "date": "2024. 7. 5.",
-        "is_adult": "False",
-        views: 3900,
-        price: 300,
-        likes: 22,
-        "category": "novel",
-        "summary": "계속추가예정~~~~ 텍스트 978 자 공백 제외"
-    },
-    {
         "url": "https://www.postype.com/@jubijubi/post/17023470",
         "title": "[숑넨] 물리치료사 2",
         "author": "쥬비",
@@ -56218,18 +55966,6 @@ export const shongBinData = [
         likes: 21,
         "category": "novel",
         "summary": "저번에 거즈플을 쓰긴 했는데 너무 덜 괴롭힌 거 같아서 아쉬운 마음에..... 리트라이한다. 거즈플 렛츠고. 거즈플과 링크오나홀 편과 이어짐. 시오후키, 드라이절정 등등... 텍스..."
-    },
-    {
-        "url": "https://www.postype.com/@bbbiniee/post/18245505",
-        "title": "XX 유형 탐구",
-        "author": "마루",
-        "date": "2024. 12. 27.",
-        "is_adult": "True",
-        views: 3000,
-        price: 500,
-        likes: 21,
-        "category": "novel",
-        "summary": "라이즈 남자들의 섹스 유형을 탐구해보자.(쫌쫌따리 관계성 캐해도 살짝~) 넨른 숕넨 숑넨 돌넨 히넨 톤넨 텍스트 2,719 자 공백 제외"
     },
     {
         "url": "https://www.postype.com/@573200/post/17961713",
@@ -56998,18 +56734,6 @@ export const shongBinData = [
         likes: 20,
         "category": "novel",
         "summary": "❌구매 할 필요❌ 일본 홀 투어 응모 하셨나요.... 전 응모했더니 거지 됨 카드사에서 연락옴 ㅅㅂ 모두 당선 되시길 바라며 🫶🏻.... 텍스트 3 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@byebyebyebyebyebye/post/16815754",
-        "title": "라이즈 노딱 포타 추천 ③",
-        "author": "i.dollo.ver",
-        "date": "2024. 5. 18.",
-        "is_adult": "True",
-        views: 3400,
-        price: 300,
-        likes: 20,
-        "category": "novel",
-        "summary": "소재주의.. 제가 좋아하는 취향만 있음 ❤️❤️❤️❤️ 순서 랜덤 씨피 꽤나 골고루? [숑넨 돌넨] 오만과 편견: 이건 외전이 찐임 (외전 스크랩해둠ㅎ) 근데 솔직히 여기서 송은석..."
     },
     {
         "url": "https://www.postype.com/@eating88/post/16643213",
@@ -60552,18 +60276,6 @@ export const shongBinData = [
         "summary": "좆같은 아빠의 좆같은 불륜녀가 생겼다. 아빠는 그 여자에게 미쳐 엄마에게 이혼을 요구했다. 그럴 줄은 몰랐다. 하지만 사실 훨씬 이전부터 부모님의 사이는 삐그덕댔다. 선으로 만나 ..."
     },
     {
-        "url": "https://www.postype.com/@byebyebyebyebyebye/post/16945654",
-        "title": "라이즈 노딱 포타 추천 ④",
-        "author": "i.dollo.ver",
-        "date": "2024. 6. 8.",
-        "is_adult": "True",
-        views: 2900,
-        price: 300,
-        likes: 14,
-        "category": "novel",
-        "summary": "소재주의.. 제가 좋아하는 취향만 있음 ❤️❤️❤️❤️ 미친변태가되... [숑톤] 성장·발육에는 텐텐 츄정: 너무 아련하고 슬프고 마음아린 노딱이야.. 단편인데 쫌 길거든? 진짜 ..."
-    },
-    {
         "url": "https://www.postype.com/@chwbae/post/16836768",
         "title": "D-30",
         "author": "네넴띤",
@@ -61918,18 +61630,6 @@ export const shongBinData = [
         likes: 12,
         "category": "novel",
         "summary": "딱 좋은 위치에 있다고 생각했다. 가까우면 부담스럽고, 멀면 아쉽다. 그게 전부지. 아직 얼떨떨했다. 제 손에 들린 미지근한 물수건이 주는 온기도, 무릎에 닿는 부드러운 머리카락도..."
-    },
-    {
-        "url": "https://www.postype.com/@idolsajuu/post/19343379",
-        "title": "숨막히는 사랑, 라이즈 원빈 연애 풀이 | 집착편",
-        "author": "이즐",
-        "date": "2025. 5. 1.",
-        "is_adult": "False",
-        views: 1200,
-        price: 800,
-        likes: 12,
-        "category": "novel",
-        "summary": "원빈님 사주에서 제일 먼저 눈에 꽂히는 건 겉으로는 무던해 보이고 의젓한 척하지만 속 안에는 이미 화산이 들어앉아 있는 사람이에요 그리고 이건 그냥 기본 내장형 집착러라는 뜻이에요..."
     },
     {
         "url": "https://www.postype.com/@destroyed-fantasy/post/19259485",
@@ -63996,18 +63696,6 @@ export const shongBinData = [
         "summary": "*오메가버스 '향이 날 리가 없는데 걍 때려 맞춘 건가?' '때려 맞추는 게 말이 안 되는데.' 머리에는 정성찬이 만졌던 감촉이 생생하다. 박원빈은 수업 시간 내내 딴생각에 빠졌다..."
     },
     {
-        "url": "https://www.postype.com/@woalrp/post/18958189",
-        "title": "[라이즈 사주 풀이] 정성찬 질투에 관한 모든 것, 그냥 이거 보세요.- 숑넨, 숑숕, 숑또,숑톤,숑석, 정성찬 사주 나페스",
-        "author": "현자",
-        "date": "2025. 9. 17.",
-        "is_adult": "False",
-        views: 1500,
-        price: 700,
-        likes: 10,
-        "category": "novel",
-        "summary": "사랑하는 사람을 잃는 것이 두려워 다가가지 못하는 순간, 이미 사랑을 놓치고 있는 것이다 – William Shakespeare- 성찬이 사주보고 떠오르는 명언 적어봤습니다 목차 ..."
-    },
-    {
         "url": "https://www.postype.com/@anywaythewindblows/post/18759379",
         "title": "교수님 제가 이딴 걸 왜 해야 되는데요",
         "author": "흔적",
@@ -64018,18 +63706,6 @@ export const shongBinData = [
         likes: 10,
         "category": "novel",
         "summary": "교양에서 웬 일기를 써 오라는 에바치는 과제 받고 졸라 어이없지만 일단 쓰기는 쓰는 정성찬의 일기가 보고 싶음 썼는지 안 썼는지만 보는 거라고 해서 아무말대잔치 오지고 성의 개없는..."
-    },
-    {
-        "url": "https://www.postype.com/@iseerightthroughthem/post/18667991",
-        "title": "라이즈 성찬 관계성 분석",
-        "author": "이어",
-        "date": "2025. 3. 18.",
-        "is_adult": "False",
-        views: 3100,
-        price: 3000,
-        likes: 10,
-        "category": "novel",
-        "summary": "진짜 기분 안 나쁘고 진실을 보실 분들만 보세요 (특정씨피 어필, 편애 없음 랒페스 안함) 성찬 캐해를 조금 하고 성찬->멤버 어떻게 생각하고 어떤 감정인지, 어떤 관계인지 다룸 ..."
     },
     {
         "url": "https://www.postype.com/@kkamgonull/post/18578682",
@@ -67932,18 +67608,6 @@ export const shongBinData = [
         "summary": "데뷔라는 건 누가 하는 걸까. 빼어난 외모를 갖춘 사람? 춤을 잘 추는 사람? 가창력이 뛰어난 사람? 눈길이 가는 사람? 아니면 운이 좋은 사람? 어쩌면 이 모든 요소를 갖춘 사람..."
     },
     {
-        "url": "https://www.postype.com/@iseerightthroughthem/post/18746951",
-        "title": "라이즈 전원 캐해 정리",
-        "author": "이어",
-        "date": "2025. 3. 18.",
-        "is_adult": "False",
-        views: 1500,
-        price: 2000,
-        likes: 7,
-        "category": "novel",
-        "summary": "10가지 분야로 나눠서 라이즈 멤버들 성격에 따라 그 분야에 대한 정도를 순위로 나눠서 분석함 분야 : 용감함(물리), 용감함(정신), 걱정이 많음, 겁이 많음, 예민함, 둔감함,..."
-    },
-    {
         "url": "https://www.postype.com/@be4meiting/post/18481923",
         "title": "언플러그드 5",
         "author": "녹기",
@@ -71182,18 +70846,6 @@ export const shongBinData = [
         likes: 4,
         "category": "novel",
         "summary": "눈을 떴을 때, 가장 먼저 피부에 닿은 것은 창틀 사이로 스며든 새벽의 서늘한 공기였다. 어스름한 푸른빛이 내려앉은 방 안은 숨소리조차 들리지 않을 만큼 조용했다. 이불을 턱 밑까..."
-    },
-    {
-        "url": "https://www.postype.com/@idolsajuu/post/22872352",
-        "title": "박원빈과 잘 맞는 여자는? | 라이즈 원빈 사주",
-        "author": "이즐",
-        "date": "2026. 8. 6.",
-        "is_adult": "False",
-        views: 399,
-        price: 800,
-        likes: 4,
-        "category": "novel",
-        "summary": "좋아하는 여자의 취향이랑 실제로 옆에 두고 길게 만났을 때 좋은 여자가 좀 느낌이 다릅니다 천간에 임수 정재가 두 개나 둥둥 떠있어서 눈에 들어오는 여자들의 외모나 스타일 자체는 ..."
     },
     {
         "url": "https://www.postype.com/@ondo123/post/22798554",

@@ -3708,18 +3708,6 @@ export const dolBinData = [
         "summary": "무거운 눈꺼풀을 느릿하게 여는 박원빈은 잠결을 헤맸다. 지금이 낮인지 밤인지 암막 커튼에 꽉 막힌 집은 세상과 단절 중이었다. 숨을 푸– 하고 내뱉은 원빈이 뒤척이며 옆으로 돌아누..."
     },
     {
-        "url": "https://www.postype.com/@mystic-otter/post/21422886",
-        "title": "[라이즈] 은석 동•서양 점성술 +석과비니 관계성 (생시 포함)",
-        "author": "연우 緣又",
-        "date": "2026. 1. 22.",
-        "is_adult": "False",
-        views: 1800,
-        price: 300,
-        likes: 61,
-        "category": "novel",
-        "summary": "극히 일부 유료/ 얼굴 합으로 여자들의 염원이 된 석과비니 드디어 왔습니다. 사실 개인적으로 은석 님은 궁금하고 찾아보고 싶은 마음이 없었는데 저랑 요니가 같더라고요 (TMI;) ..."
-    },
-    {
         "url": "https://www.postype.com/@kimsaraeee/post/19578300",
         "title": "세번째 혼담 2",
         "author": "김사래",
@@ -6454,18 +6442,6 @@ export const dolBinData = [
         likes: 21,
         "category": "novel",
         "summary": "저번에 거즈플을 쓰긴 했는데 너무 덜 괴롭힌 거 같아서 아쉬운 마음에..... 리트라이한다. 거즈플 렛츠고. 거즈플과 링크오나홀 편과 이어짐. 시오후키, 드라이절정 등등... 텍스..."
-    },
-    {
-        "url": "https://www.postype.com/@bbbiniee/post/18245505",
-        "title": "XX 유형 탐구",
-        "author": "마루",
-        "date": "2024. 12. 27.",
-        "is_adult": "True",
-        views: 3000,
-        price: 500,
-        likes: 21,
-        "category": "novel",
-        "summary": "라이즈 남자들의 섹스 유형을 탐구해보자.(쫌쫌따리 관계성 캐해도 살짝~) 넨른 숕넨 숑넨 돌넨 히넨 톤넨 텍스트 2,719 자 공백 제외"
     },
     {
         "url": "https://www.postype.com/@bylily-431/post/17647624",

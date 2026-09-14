@@ -1261,19 +1261,6 @@ export const heeBinData = [
         "summary": "예쁜 게 죄야 돌녀랑 사귀면 좋겠다💕"
     },
     {
-        "url": "https://www.postype.com/@bbbiniee/post/18245505",
-        "title": "XX 유형 탐구",
-        "author": "마루",
-        "date": "2024. 12. 27.",
-        "is_adult": "True",
-        views: 3000,
-        price: 500,
-        likes: 21
-,
-        "category": "novel",
-        "summary": "라이즈 남자들의 섹스 유형을 탐구해보자.(쫌쫌따리 관계성 캐해도 살짝~) 넨른 숕넨 숑넨 돌넨 히넨 톤넨 텍스트 2,719 자 공백 제외"
-    },
-    {
         "url": "https://www.postype.com/@simsnen/post/21879730",
         "title": "30.양평",
         "author": "심즈넨",

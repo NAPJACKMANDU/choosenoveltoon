@@ -38833,18 +38833,6 @@ export const tonBinData = [
         "summary": "박원빈은 사실 본인이 게이라는 사실을 굳이 알고 싶지 않았다. 학창 시절에도, 군대에서도 딱히 남자보고 꼴린 적은 없었다. 그냥 무성욕자에 가까운 사람이라고 생각하고 살고 싶었거든..."
     },
     {
-        "url": "https://www.postype.com/@iseerightthroughthem/post/18746951",
-        "title": "라이즈 전원 캐해 정리",
-        "author": "이어",
-        "date": "2025. 3. 18.",
-        "is_adult": "False",
-        views: 1500,
-        price: 2000,
-        likes: 7,
-        "category": "novel",
-        "summary": "10가지 분야로 나눠서 라이즈 멤버들 성격에 따라 그 분야에 대한 정도를 순위로 나눠서 분석함 분야 : 용감함(물리), 용감함(정신), 걱정이 많음, 겁이 많음, 예민함, 둔감함,..."
-    },
-    {
         "url": "https://www.postype.com/@040321x020302/post/18129386",
         "title": "당신의 죄악은 내 손에 12",
         "author": "아얼",

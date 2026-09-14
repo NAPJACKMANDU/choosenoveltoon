@@ -1404,18 +1404,6 @@ export const shongShoData = [
         "summary": "달력이 12월로 넘어오고 크리스마스의 무드가 길거리를 뒤덮자 성찬은 더욱 무감각해져 갔다. 그건 실은 아무렇지도 않아 보이는 쇼타로를 보면서 느끼는 혼란이었지만, 이름표 없이 떠오..."
     },
     {
-        "url": "https://www.postype.com/@mystic-otter/post/21171795",
-        "title": "[라이즈] 성찬, 쇼타로 동+서양 점성술 (생시포함) 성쇼 관계성",
-        "author": "연우 緣又",
-        "date": "2025. 12. 23.",
-        "is_adult": "False",
-        views: 4500,
-        price: 0,
-        likes: 178,
-        "category": "novel",
-        "summary": "저번에 생시를 노가다 뛰면서 발굴했다고 했잖아요? 라이즈 데뷔일로 놓고 보니 의미가 또 새로워지는 게 약간 희열을 느꼈(?)어요 이건 뒤에서 자세히 풀고! (요니 수정 버전으로 추..."
-    },
-    {
         "url": "https://www.postype.com/@2muchmsgwillkillme/post/18257416",
         "title": "Forget me not",
         "author": "칼",
@@ -6670,18 +6658,6 @@ export const shongShoData = [
         likes: 58,
         "category": "novel",
         "summary": "남성향 지문 첨가. 텍스트 3,217 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@mystic-otter/post/21494135",
-        "title": "[라이즈] 성찬, 쇼타로 베딕 심층 분석 +성쇼 관계성 2탄",
-        "author": "연우 緣又",
-        "date": "2026. 1. 30.",
-        "is_adult": "False",
-        views: 1400,
-        price: 300,
-        likes: 57,
-        "category": "novel",
-        "summary": "이 둘을 좋아하는 분들이 아니라도, 점성술을 좋아하신다면 한번쯤 읽어 보시는 걸 추천드립니다. 이전 글들에서 본능을 파헤치느라 요니를 주로 다뤘죠? 서양 점성술, 인도 점성술 모두..."
     },
     {
         "url": "https://www.postype.com/@sanakk/post/20377599",
@@ -12024,18 +12000,6 @@ export const shongShoData = [
         "summary": "이곳은 일본, Love 119 뮤직비디오를 촬영하기 위해 방문했다. 고향에서 뮤비를 찍는 쇼타로는 한껏 기분이 들떠버리는데. 커다란 운동체육관을 빌려 댄스동아리 연습 장면을 찍다가..."
     },
     {
-        "url": "https://www.postype.com/@dndbakt/post/15702140",
-        "title": "라이즈 커플 프로필",
-        "author": "091",
-        "date": "2023. 11. 22.",
-        "is_adult": "False",
-        views: 1900,
-        price: 0,
-        likes: 19,
-        "category": "webtoon",
-        "summary": ""
-    },
-    {
         "url": "https://www.postype.com/@imagination-flies/post/13110976",
         "title": "나는 헤게가 왜 이렇게 좋을까...",
         "author": "Imagination",
@@ -14868,18 +14832,6 @@ export const shongShoData = [
         "summary": "RPS 捏造された妄想。 One Last Kiss 「パリ、行きたいです」 「パリに行きたい」 行きたいところを尋ねるとこう答えたことがある。ただ行ってみたかった。今考えてみると、あまりにも短く答え..."
     },
     {
-        "url": "https://www.postype.com/@iseerightthroughthem/post/18667991",
-        "title": "라이즈 성찬 관계성 분석",
-        "author": "이어",
-        "date": "2025. 3. 18.",
-        "is_adult": "False",
-        views: 3100,
-        price: 3000,
-        likes: 10,
-        "category": "novel",
-        "summary": "진짜 기분 안 나쁘고 진실을 보실 분들만 보세요 (특정씨피 어필, 편애 없음 랒페스 안함) 성찬 캐해를 조금 하고 성찬->멤버 어떻게 생각하고 어떤 감정인지, 어떤 관계인지 다룸 ..."
-    },
-    {
         "url": "https://www.postype.com/@yuzucitrus/post/18335065",
         "title": "한여름의 빗줄기",
         "author": "yuzu",
@@ -15792,18 +15744,6 @@ export const shongShoData = [
         "summary": "성찬아 오래 기다렸지이 욕실에서 나온 쇼타로가 수건을 걸친 채 말간 얼굴로 말했다. 성찬은 씻고 나와 뽀송해진 쇼타로를 지긋이 바라봤다. 눈이 마주치는 순간, 세상에서 그 어..."
     },
     {
-        "url": "https://www.postype.com/@silveraintarot/post/18426742",
-        "title": "[라이즈] RIIZE 성찬 쇼타로 관계성 보고서",
-        "author": "은청비 타로",
-        "date": "2025. 1. 10.",
-        "is_adult": "False",
-        views: 491,
-        price: 1000,
-        likes: 4,
-        "category": "novel",
-        "summary": "안녕하세요, 오늘은 라이즈 성찬 님과 쇼타로 님의 관계성에 대해서 타로를 봐볼게요! [ 목 차 ] 1. 최근 성찬과 쇼타로의 관계는 어떨까? 2. 성찬이 바라보는 쇼타로는? (첫..."
-    },
-    {
         "url": "https://www.postype.com/@seaneo/post/18414232",
         "title": "모스토 번외 2",
         "author": "에탄올",
@@ -15958,18 +15898,6 @@ export const shongShoData = [
         likes: 2,
         "category": "webtoon",
         "summary": "J0-057 한국어 공부 중… 실수하면 미안해. 只是存档，不常用。 나는 이거 😅/😂싫어. 중국인이고 번역기를 사용하고 있다."
-    },
-    {
-        "url": "https://www.postype.com/@lovebysomeone/post/22530687",
-        "title": "라이즈 쇼타로 연애운, 이상형 분석",
-        "author": "정서",
-        "date": "2026. 7. 3.",
-        "is_adult": "False",
-        views: 73,
-        price: 500,
-        likes: 2,
-        "category": "novel",
-        "summary": "텍스트 4,197 자 공백 제외"
     },
     {
         "url": "https://www.postype.com/@handsomegay19/post/19576967",

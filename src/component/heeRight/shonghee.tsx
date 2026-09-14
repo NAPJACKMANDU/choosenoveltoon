@@ -2232,18 +2232,6 @@ export const shongHeeData = [
         "summary": "으응..? 비몽사몽 정신없는 와중에도 아래를 파고드는 느낌만큼은 선명했다. 소희는 깊이 잠들었던 의식이 육체적인 자극에 조금씩 깨어나면서도 어두운 시야와 몽롱한 정신에 평소와 ..."
     },
     {
-        "url": "https://www.postype.com/@ddoreung1121/post/16962265",
-        "title": "밤똘즈/성찬소희 관계성, 케미(숑또 포함)",
-        "author": "또로리",
-        "date": "2024. 6. 11.",
-        "is_adult": "False",
-        views: 2300,
-        price: 200,
-        likes: 62,
-        "category": "novel",
-        "summary": "둘이 기본 성향 자체가 매우 다름(외향인/내향인). 거기에 플러스, 성찬은 한국 남자 전형에 개 씹 알파메일이라 약-간 거칠고 투박한 구석이 있어 섬세한 면이 있는 소희와 기질이 ..."
-    },
-    {
         "url": "https://www.postype.com/@hururuk/post/16217980",
         "title": "또리야 앉아 1",
         "author": "호롤로",
