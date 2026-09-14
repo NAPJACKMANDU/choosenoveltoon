@@ -453,7 +453,7 @@ export const binDolData = [
         price: 0,
         likes: 199,
         "category": "novel",
-        "summary": "전편링크 개 2024. 7. 12. · encounter 홀애비 신드롬 上 넨석 숑석 내일모레 앞자리 3을 찍는 송은석에게는 6살짜리 딸이 있다. 세아 담임샘님께서 메시지를 보냈습..."
+        "summary": "전편링크 encounter 홀애비 신드롬 上 넨석 숑석 내일모레 앞자리 3을 찍는 송은석에게는 6살짜리 딸이 있다. 세아 담임샘님께서 메시지를 보냈습..."
     },
     {
         "url": "https://www.postype.com/@babogatae/post/16536576",
@@ -573,7 +573,7 @@ export const binDolData = [
         price: 1000,
         likes: 167,
         "category": "novel",
-        "summary": "개 2024. 7. 12. · encounter 홀애비 신드롬 上 넨석 숑석 내일모레 앞자리 3을 찍는 송은석에게는 6살짜리 딸이 있다. 세아 담임샘님께서 메시지를 보냈습니다. 아..."
+        "summary": "encounter 홀애비 신드롬 上 넨석 숑석 내일모레 앞자리 3을 찍는 송은석에게는 6살짜리 딸이 있다. 세아 담임샘님께서 메시지를 보냈습니다. 아..."
     },
     {
         "url": "https://www.postype.com/@from-march/post/21039990",

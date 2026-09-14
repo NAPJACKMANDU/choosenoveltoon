@@ -1,5 +1,65 @@
 export const binShoData = [
     {
+        "url": "https://www.postype.com/@shoshosho2/post/23159420",
+        "title": "405호의 아침 4",
+        "author": "Shoshosho",
+        "is_adult": "False",
+        views: 62,
+        price: 0,
+        likes: 4,
+        "date": "2026. 9. 13.",
+        "category": "novel",
+        "summary": "그날 방과 후, 원빈은 육상부 훈련을 마치고 기숙사 405호로 돌아왔다. 쇼타로는 아직 돌아오지 않고 없었다. 소희는 침대에 누워 쉬고 있었고, 찬영은 책상에 앉아 무언가 작업 ..."
+    },
+    {
+        "url": "https://www.postype.com/@shoshosho2/post/23159337",
+        "title": "405호의 아침 3",
+        "author": "Shoshosho",
+        "is_adult": "False",
+        views: 84,
+        price: 0,
+        likes: 4,
+        "date": "2026. 9. 12.",
+        "category": "novel",
+        "summary": "쇼타로가 은석, 성찬과 오래된 친구라는 사실은 굳이 물어보지 않아도 알 수 있었다. 세 사람이 고1에 처음 갓 입학했을 때 학교 안에서 셋은 미녀 삼총사이자 단짝친구로 유명했었다...."
+    },
+    {
+        "url": "https://www.postype.com/@shoshosho2/post/23151707",
+        "title": "405호의 아침 2",
+        "author": "Shoshosho",
+        "is_adult": "False",
+        views: 107,
+        price: 0,
+        likes: 3,
+        "date": "2026. 9. 11.",
+        "category": "novel",
+        "summary": "급식실에 내려온 쇼타로는 네 사람의 식판을 쭉 점검하듯 훑어보고 나서야 자리에 앉았다. “찬영, 너 왜 밥 안 먹고 그것만 먹어?” 쇼타로는 찬영의 식판을 내려다봤다. 밥은 없이 ..."
+    },
+    {
+        "url": "https://www.postype.com/@shoshosho2/post/23130065",
+        "title": "405호의 아침",
+        "author": "Shoshosho",
+        "is_adult": "False",
+        views: 151,
+        price: 0,
+        likes: 9,
+        "date": "2026. 9. 7.",
+        "category": "novel",
+        "summary": "※ 본 작품은 뇨타입니다. 이름은 별도의 여성형으로 변경하지 않고 기존 이름을 그대로 사용했습니다. 가볍게 봐 주세요! 새벽 여섯 시. 기숙사 405호에서 첫 번째 알람이 울렸다...."
+    },
+    {
+        "url": "https://www.postype.com/@warmcotton/post/23124997",
+        "title": "냥아치와 Ham-ster",
+        "author": "솜이불",
+        "is_adult": "False",
+        views: 110,
+        price: 0,
+        likes: 12,
+        "date": "2026. 9. 7.",
+        "category": "novel",
+        "summary": "원빈은 얼굴값을 할 거라는 주변의 기대와는 다르게 얌전한 학생이었다. 그러기를 십 몇 년. 어릴 적 꽤 진지하게 하던 육상을 그만두었을 때도 역시 주변의 소란과는 달리 한참을 조용..."
+    },
+    {
         "url": "https://www.postype.com/@10-44-ms2/post/17527319",
         "title": "[넨숕] 관람차",
         "author": "woozoo",

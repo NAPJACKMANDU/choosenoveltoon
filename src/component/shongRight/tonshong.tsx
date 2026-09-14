@@ -2715,7 +2715,7 @@ export const tonShongData = [
         "url": "https://www.postype.com/@copley/post/23063650",
         "title": "무향의 연애 05",
         "author": "밤이",
-        "date": "2026. 8. 30..",
+        "date": "2026. 8. 30.",
         "is_adult": "False",
         views: 211,
         price: 0,
@@ -3207,7 +3207,7 @@ export const tonShongData = [
         "url": "https://www.postype.com/@copley/post/23102337",
         "title": "무향의 연애 06",
         "author": "밤이",
-        "date": "2026. 9. 4..",
+        "date": "2026. 9. 4.",
         "is_adult": "False",
         views: 42,
         price: 0,
@@ -3226,5 +3226,53 @@ export const tonShongData = [
         likes: 5,
         "category": "novel",
         "summary": "찬영이와는 아직입니다. 적당히 다정한 모브가 나옵니다. 결제는 언제나 신중을 가해주세요 :) 성찬은 유명한 천사였다. 숱한 호문클루스 가문 자제들을 제치고 재단에 입성한 연고 없는..."
+    },
+    {
+        "url": "https://www.postype.com/@profile-riize/post/23142642",
+        "title": "관능 (1)",
+        "author": "profile",
+        "is_adult": "False",
+        views: 186,
+        price: 0,
+        likes: 15,
+        "date": "2026. 9. 9.",
+        "category": "novel",
+        "summary": "아직도 한참 더 무서운 게 있지. 즉 악행의 이상의 마음에 품은 인간이 동시에 성모의 이상 또한 부정하지 않고 마치 순결한 청년 시절처럼 저 밑바닥에서 아름다운 이상의 동경을 마음..."
+    },
+    {
+        "url": "https://www.postype.com/@copley/post/23137417",
+        "title": "무향의 연애 07",
+        "author": "밤이",
+        "is_adult": "False",
+        views: 172,
+        price: 0,
+        likes: 30,
+        "date": "2026. 9. 9.",
+        "category": "novel",
+        "summary": "짝은 금요일 저녁에 정해졌다. 저녁 8시, 거실 탁자에 천을 덮은 쟁반이 올라왔고, 조연출이 천을 걷었다. 물건은 4개였다. 양 끝을 노랑과 초록 줄무늬로 꼬아 싼 사탕 1알, 흰..."
+    },
+    {
+        "url": "https://www.postype.com/@asiseternity/post/23131300",
+        "title": "「Stand By」 통신판매 안내",
+        "author": "녹음",
+        "is_adult": "False",
+        views: 130,
+        price: 0,
+        likes: 0,
+        "date": "2026. 9. 7.",
+        "category": "novel",
+        "summary": "안녕하세요. 녹음입니다. 수요 조사를 바탕으로 최종 제작 수량 및 판매가가 확정되어 구매 안내드립니다. 수요 조사 당시 안내드린 예상 판매가와 동일하게 20,000원으로 확정되었습..."
+    },
+    {
+        "url": "https://www.postype.com/@everyonelikessc/post/22832864",
+        "title": "별 위에 우리 1",
+        "author": "별찬",
+        "is_adult": "False",
+        views: 88,
+        price: 0,
+        likes: 6,
+        "date": "2026. 9. 7.",
+        "category": "novel",
+        "summary": "재업 “응, 알았어. 도착하면 연락한다니까아.... 로밍도 다 했어. 여권도 다 챙겼지. 여권 없으면, 내가 여기 어떻게 들어오냐? 진짜 잔소리. 여권이랑 티켓 다 가방 위에 올려..."
     }
 ]

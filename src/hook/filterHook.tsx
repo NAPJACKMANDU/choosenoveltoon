@@ -45,6 +45,7 @@ export const useFilterHook = (filterTag: string[]) => {
     "히숕" : heeShoData,
     "톤숕" : tonShoData,
     "숕른" : [...dolShoData, ...shongShoData, ...binShoData, ...heeShoData, ...tonShoData],
+    "숕왼" : [...shoDolData, ...shoShongData, ...shoBinData, ...shoHeeData, ...taroTonData],
 
     "숕석" : shoDolData,
     "숕은" : shoDolData,
@@ -65,6 +66,7 @@ export const useFilterHook = (filterTag: string[]) => {
     "톤은" : tonDolData,
     "톤돌" : tonDolData,
     "돌른": [...shoDolData, ...shongDolData, ...binDolData, ...heeDolData, ...tonDolData],
+    "돌왼" : [...dolShoData, ...dolShongData, ...dolBinData, ...dolHeeData, ...dolTonData],
 
     "숕숑": shoShongData,
     "돌숑": dolShongData,
@@ -75,6 +77,7 @@ export const useFilterHook = (filterTag: string[]) => {
     "히숑": heeShongData,
     "톤숑": tonShongData,
     "숑른": [...shoShongData, ...dolShongData, ...binShongData, ...heeShongData, ...tonShongData],
+    "숑왼" : [...shongShoData, ...shongDolData, ...shongBinData, ...shongHeeData, ...shongTonData],
 
     "숕넨" : shoBinData,
     "돌넨" : dolBinData,
@@ -85,6 +88,7 @@ export const useFilterHook = (filterTag: string[]) => {
     "히넨" : heeBinData,
     "톤넨" : tonBinData,
     "넨른" : [...shoBinData, ...dolBinData, ...shongBinData, ...heeBinData, ...tonBinData],
+    "넨왼" : [...binShoData, ...binDolData, ...binShongData, ...binTonData, ...binHeeData],
 
     "숕히": shoHeeData,
     "숕또": shoHeeData,
@@ -97,6 +101,7 @@ export const useFilterHook = (filterTag: string[]) => {
     "톤히": tonHeeData,
     "톤또": tonHeeData,
     "또른": [...shoHeeData, ...dolShongData, ...shongHeeData, ...binHeeData, ...tonHeeData],
+    "또왼" : [...heeShoData, ...heeDolData, ...heeShongData, ...heeBinData, ...heeTonData],
 
     "숕톤": taroTonData,
     "돌톤": dolTonData,
@@ -106,7 +111,8 @@ export const useFilterHook = (filterTag: string[]) => {
     "넨톤": binTonData,
     "또톤": heeTonData,
     "히톤": heeTonData,
-    "톤른": [...taroTonData, ...shongTonData, ...binTonData, ...dolTonData, ...heeTonData]
+    "톤른": [...taroTonData, ...shongTonData, ...binTonData, ...dolTonData, ...heeTonData],
+    "톤왼" : [...tonShoData, ...tonDolData, ...tonShongData, ...tonBinData, ...tonHeeData]
   };
 
   useEffect(() => {
@@ -135,6 +141,7 @@ export const useFilterHook = (filterTag: string[]) => {
         // handlers에서 '~른'으로 끝나지 않는 키만 골라서 cpName 추출
         const matchedCpNames = Object.entries(handlers)
           .filter(([key]) => !key.endsWith('른')) // '~른' 태그 제외 조건
+          .filter(([key]) => !key.endsWith('왼')) // '~왼' 태그 제외 조건
           .filter(([key]) => !notKey.includes(key))
           .filter(([_, dataList]) => dataList.some((p) => p.url === post.url))
           .map(([key]) => key);

@@ -1,5 +1,29 @@
 export const dolBinData = [
     {
+        "url": "https://www.postype.com/@song-oppa/post/23151240",
+        "title": "여름이 가기전에 (3)",
+        "author": "파송송",
+        "is_adult": "False",
+        views: 28,
+        price: 0,
+        likes: 0,
+        "date": "2026. 9. 10.",
+        "category": "novel",
+        "summary": "텍스트 2,479 자 공백 제외"
+    },
+    {
+        "url": "https://www.postype.com/@quietcat/post/23150721",
+        "title": "소실점 4",
+        "author": "고요",
+        "is_adult": "True",
+        views: 170,
+        price: 0,
+        likes: 18,
+        "date": "2026. 9. 10.",
+        "category": "novel",
+        "summary": "원빈은 허리가 아파서 잠에서 깨 간신히 일어나 거실로 나왔다. 목이 너무 말랐다. 그러다 거실에서 게임을 하던 은석과 마주쳤다. “안녕.” “아.. 안녕하세요, 은석 선배.” “정..."
+    },
+    {
         "url": "https://www.postype.com/@onhisbelly/post/16674942",
         "title": "가능충의 코어",
         "author": "oppa",
@@ -993,7 +1017,7 @@ export const dolBinData = [
         price: 300,
         likes: 231,
         "category": "novel",
-        "summary": "D-day = 은석 ♡ 원빈 후편 코이 2024. 3. 10. · 오늘의 날씨 일상다정사 돌넨 일상다반사와 이어집니다 D - day = 은석 ♡ 원빈 D + 1503 다녀왔어. 원..."
+        "summary": "D-day = 은석 ♡ 원빈 후편 오늘의 날씨 일상다정사 돌넨 일상다반사와 이어집니다 D - day = 은석 ♡ 원빈 D + 1503 다녀왔어. 원..."
     },
     {
         "url": "https://www.postype.com/@beaflame0304/post/22734631",
@@ -1173,7 +1197,7 @@ export const dolBinData = [
         price: 500,
         likes: 202,
         "category": "webtoon",
-        "summary": "본편 코이 2024. 4. 14. · 오늘의 날씨 널만나면더낼수있지세금도 돌넨 [단독] B구단 소속 송은석,올해 말 라이징 원빈과 결혼 부희주 기자 B구단 소속 외야수 송은석(29..."
+        "summary": "본편 오늘의 날씨 널만나면더낼수있지세금도 돌넨 [단독] B구단 소속 송은석,올해 말 라이징 원빈과 결혼 부희주 기자 B구단 소속 외야수 송은석(29..."
     },
     {
         "url": "https://www.postype.com/@ppiyo-ppiyo/post/16526952",
@@ -1557,7 +1581,7 @@ export const dolBinData = [
         price: 300,
         likes: 162,
         "category": "novel",
-        "summary": "일상다반사와 이어집니다 코이 2024. 2. 12. · 오늘의 날씨 일상다반사 돌넨 D-day = 은석 ♡ 원빈 후편 D+1871 어디쯤이야? 나 회사 앞. 알았어. 짧게 ..."
+        "summary": "일상다반사와 이어집니다 오늘의 날씨 일상다반사 돌넨 D-day = 은석 ♡ 원빈 후편 D+1871 어디쯤이야? 나 회사 앞. 알았어. 짧게 ..."
     },
     {
         "url": "https://www.postype.com/@ppiyo-ppiyo/post/16808045",
@@ -2265,7 +2289,7 @@ export const dolBinData = [
         price: 200,
         likes: 120,
         "category": "webtoon",
-        "summary": "코이 2024. 2. 12. · 오늘의 날씨 일상다반사 돌넨 D-day = 은석 ♡ 원빈 후편 D+1871 어디쯤이야? 나 회사 앞. 알았어. 짧게 대답한 원빈이 전화를 끊..."
+        "summary": "오늘의 날씨 일상다반사 돌넨 D-day = 은석 ♡ 원빈 후편 D+1871 어디쯤이야? 나 회사 앞. 알았어. 짧게 대답한 원빈이 전화를 끊..."
     },
     {
         "url": "https://www.postype.com/@honeylikesugar/post/22942112",
@@ -2877,7 +2901,7 @@ export const dolBinData = [
         price: 300,
         likes: 89,
         "category": "novel",
-        "summary": "사양벌꿀 2024. 7. 9. · 꿀벌이 설탕을 먹고 더 대박인 게 뭔지 알아? 다 가진 원빈은 왜 없이 살았을까 ㅈㅂㅅ드립이 있고 취향 타는 소재도 있는데 미리 쓰면 스포라 중간..."
+        "summary": "꿀벌이 설탕을 먹고 더 대박인 게 뭔지 알아? 다 가진 원빈은 왜 없이 살았을까 ㅈㅂㅅ드립이 있고 취향 타는 소재도 있는데 미리 쓰면 스포라 중간..."
     },
     {
         "url": "https://www.postype.com/@lol-un/post/17264288",
@@ -3345,7 +3369,7 @@ export const dolBinData = [
         price: 0,
         likes: 72,
         "category": "novel",
-        "summary": "https://posty.pe/9gjq55 사양벌꿀 2025. 2. 22. · 꿀벌이 설탕을 먹고 썰모음 3 생각날 때마다 추가됩니다 부적절한 표현이 예고없이 나타날 수 있습니다 ..."
+        "summary": "https://posty.pe/9gjq55 꿀벌이 설탕을 먹고 썰모음 3 생각날 때마다 추가됩니다 부적절한 표현이 예고없이 나타날 수 있습니다 ..."
     },
     {
         "url": "https://www.postype.com/@kira1222/post/18881903",
@@ -3945,7 +3969,7 @@ export const dolBinData = [
         price: 0,
         likes: 54,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 송도신도..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 송도신도..."
     },
     {
         "url": "https://www.postype.com/@nasty11911919/post/19760943",
@@ -4065,7 +4089,7 @@ export const dolBinData = [
         price: 0,
         likes: 51,
         "category": "novel",
-        "summary": "사양벌꿀 2024. 4. 5. · 꿀벌이 설탕을 먹고 댄스 파트너 돌넨이 회사 장기자랑에서 트러블메이커를 춘 뒤 벌어지는 일 금요일 저녁 벌어진 라이즈컴퍼니 워크숍 뒤풀이에서 사람..."
+        "summary": "꿀벌이 설탕을 먹고 댄스 파트너 돌넨이 회사 장기자랑에서 트러블메이커를 춘 뒤 벌어지는 일 금요일 저녁 벌어진 라이즈컴퍼니 워크숍 뒤풀이에서 사람..."
     },
     {
         "url": "https://www.postype.com/@bbinibb020302/post/19113949",
@@ -4521,7 +4545,7 @@ export const dolBinData = [
         price: 0,
         likes: 44,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
     },
     {
         "url": "https://www.postype.com/@ddorijini/post/16595106",
@@ -4677,7 +4701,7 @@ export const dolBinData = [
         price: 0,
         likes: 41,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@apeachpit/post/20653793",
@@ -4725,7 +4749,7 @@ export const dolBinData = [
         price: 0,
         likes: 41,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 이 초글..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 이 초글..."
     },
     {
         "url": "https://www.postype.com/@honeylikesugar/post/19153572",
@@ -5289,7 +5313,7 @@ export const dolBinData = [
         price: 0,
         likes: 34,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
     },
     {
         "url": "https://www.postype.com/@ddorijini/post/19838923",
@@ -5337,7 +5361,7 @@ export const dolBinData = [
         price: 0,
         likes: 33,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※17~..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※17~..."
     },
     {
         "url": "https://www.postype.com/@humanlovelab/post/20733279",
@@ -5385,7 +5409,7 @@ export const dolBinData = [
         price: 0,
         likes: 32,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@case23/post/18021883",
@@ -5529,7 +5553,7 @@ export const dolBinData = [
         price: 0,
         likes: 29,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 안성의 ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 안성의 ..."
     },
     {
         "url": "https://www.postype.com/@sunkiissed/post/20119652",
@@ -5673,7 +5697,7 @@ export const dolBinData = [
         price: 0,
         likes: 28,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@mylittlestarisonebin/post/19982140",
@@ -5757,7 +5781,7 @@ export const dolBinData = [
         price: 0,
         likes: 27,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 오사카에..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 오사카에..."
     },
     {
         "url": "https://www.postype.com/@osakittomo/post/19312171",
@@ -6021,7 +6045,7 @@ export const dolBinData = [
         price: 200,
         likes: 24,
         "category": "novel",
-        "summary": "1부랑 이어져요>> https://posty.pe/tl7y5z 선지 2025. 10. 13. · 깜고누르기 방문열고놀라했지 돌넨 짭근 장남 송은석 차남 박원빈 이혼한 박원빈 엄마가..."
+        "summary": "1부랑 이어져요>> https://posty.pe/tl7y5z 깜고누르기 방문열고놀라했지 돌넨 짭근 장남 송은석 차남 박원빈 이혼한 박원빈 엄마가..."
     },
     {
         "url": "https://www.postype.com/@eunsyong01/post/20628382",
@@ -6225,7 +6249,7 @@ export const dolBinData = [
         price: 0,
         likes: 22,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@jagal0303/post/21317778",
@@ -6261,7 +6285,7 @@ export const dolBinData = [
         price: 0,
         likes: 22,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
     },
     {
         "url": "https://www.postype.com/@kkamgonull/post/20378703",
@@ -6465,7 +6489,7 @@ export const dolBinData = [
         price: 0,
         likes: 20,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@siruoo/post/21871435",
@@ -6513,7 +6537,7 @@ export const dolBinData = [
         price: 0,
         likes: 20,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@simsnen/post/20612842",
@@ -6525,7 +6549,7 @@ export const dolBinData = [
         price: 0,
         likes: 20,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@kkamgonull/post/20468515",
@@ -6837,7 +6861,7 @@ export const dolBinData = [
         price: 0,
         likes: 18,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※17~..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※17~..."
     },
     {
         "url": "https://www.postype.com/@sunkiissed/post/20744920",
@@ -6957,7 +6981,7 @@ export const dolBinData = [
         price: 0,
         likes: 17,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@kkamgonull/post/21036638",
@@ -7353,7 +7377,7 @@ export const dolBinData = [
         price: 0,
         likes: 15,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@sunkiissed/post/21185793",
@@ -8361,7 +8385,7 @@ export const dolBinData = [
         price: 0,
         likes: 10,
         "category": "novel",
-        "summary": "심즈넨 2025. 6. 16. · 심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@siruoo/post/21841427",
@@ -8625,7 +8649,7 @@ export const dolBinData = [
         price: 0,
         likes: 9,
         "category": "webtoon",
-        "summary": "https://posty.pe/axutmd https://x.com/kittydolnen/status/2009494415208075561?s=20 귤 2026. 1. 10. · 맛..."
+        "summary": "https://posty.pe/axutmd https://x.com/kittydolnen/status/2009494415208075561?s=20  · 맛..."
     },
     {
         "url": "https://www.postype.com/@dnalienn/post/21210728",
@@ -9910,18 +9934,6 @@ export const dolBinData = [
         likes: 2,
         "category": "novel",
         "summary": "텍스트 14,372 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@zelus-nous/post/23083451",
-        "title": "아흐레 上",
-        "author": "roux",
-        "date": "2026. 9. 8.",
-        "is_adult": "False",
-        views: 7,
-        price: 0,
-        likes: 2,
-        "category": "novel",
-        "summary": "*고증없음 아흐레 은석원빈 루 1 은석은 손목에 감긴 검은 시계를 확인했다. 깨끗한 화면 위로 시침과 분침이 아닌 파란색 보행자 아이콘이 쉴 틈 없이 움직였다. 하. 무던했던 입술..."
     },
     {
         "url": "https://www.postype.com/@letseatbbini/post/23078222",

@@ -1,5 +1,65 @@
 export const dolShongData = [
     {
+        "url": "https://www.postype.com/@cherrylemonpeach/post/23137017",
+        "title": "우렁남편(下)",
+        "author": "체리레몬피치",
+        "is_adult": "False",
+        views: 140,
+        price: 0,
+        likes: 24,
+        "date": "2026. 9. 10.",
+        "category": "novel",
+        "summary": "언제부터인지는 모르겠지만 성찬은 거기 있었다. 언제인지도 어디인지도 모르고, 보이는 것도 들리는 것도 만져지는 것도 없지만, 그냥 거기 있었다. 스스로의 있음을 확인할 수 있는 유..."
+    },
+    {
+        "url": "https://www.postype.com/@sweetrain-rs/post/23136274",
+        "title": "여울에서 잔불까지 4",
+        "author": "잔불",
+        "is_adult": "False",
+        views: 82,
+        price: 0,
+        likes: 11,
+        "date": "2026. 9. 8.",
+        "category": "novel",
+        "summary": "시퍼런 불빛이 번쩍거리는 모니터 앞, 헤드셋을 뒤집어쓴 채 한창 게임에 열중하던 은석이 별안간 흘깃 눈을 내려 책상 위를 내다보았다. 까만 키보드 오른쪽 위, 화면이 잘 보이도록 ..."
+    },
+    {
+        "url": "https://www.postype.com/@cherrylemonpeach/post/23123904",
+        "title": "우렁남편(中)",
+        "author": "체리레몬피치",
+        "is_adult": "False",
+        views: 245,
+        price: 0,
+        likes: 26,
+        "date": "2026. 9. 7.",
+        "category": "novel",
+        "summary": "다음 중 침대 아래에 있으면 가장 무서운 것은? 1.귀신 2.바선생 3.쥑쥑이 4.사람 은석은 언제나 이런 질문에는 사람을 고르는 편이었다. 모기 다음으로 사람을 해치는 생물은 아..."
+    },
+    {
+        "url": "https://www.postype.com/@cherrylemonpeach/post/23122353",
+        "title": "우렁남편(上)",
+        "author": "체리레몬피치",
+        "is_adult": "False",
+        views: 382,
+        price: 0,
+        likes: 35,
+        "date": "2026. 9. 6.",
+        "category": "novel",
+        "summary": "물건을 잃어버렸을 때는 도깨비님 도와주세요 해보세요! 과자나 사탕 같은 달달한 걸 두고 속으로 기도하는거에요. 도깨비님 도깨비님 이제 장난 그만 치시고 제 물건을 돌려주세요. 그리..."
+    },
+    {
+        "url": "https://www.postype.com/@naacccho/post/23095065",
+        "title": "아래층 합사 시킴",
+        "author": "나초봉지",
+        "is_adult": "True",
+        views: 1800,
+        price: 1000,
+        likes: 125,
+        "date": "2026. 9. 4.",
+        "category": "webtoon",
+        "summary": "!!!!!!주의!!!!!! 넨숑 + 은숑 (+넨이석이도 텐션있음) 적폐ㅇ 캐붕ㅇ 모랄xx 스토리xxx 아무튼 대충 다 가능이시라면.. (이곳은 가능충의 포타입니다) 이미지 7 장 ..."
+    },
+    {
         "url": "https://www.postype.com/@lllalllalala/post/16742698",
         "title": "게토보이",
         "author": "지기징",
@@ -2061,7 +2121,7 @@ export const dolShongData = [
         price: 0,
         likes: 38,
         "category": "novel",
-        "summary": "*전편 https://posty.pe/9vhf21 햄부 2025. 6. 27. · 아름다운 둘을 위해 기도를 했대요 24시 탐정사무송 무엇이든 찾아드립니다 은숑 파리 날리는 사무실..."
+        "summary": "*전편 https://posty.pe/9vhf21 아름다운 둘을 위해 기도를 했대요 24시 탐정사무송 무엇이든 찾아드립니다 은숑 파리 날리는 사무실..."
     },
     {
         "url": "https://www.postype.com/@enfin-39/post/19486664",
@@ -2457,7 +2517,7 @@ export const dolShongData = [
         price: 0,
         likes: 28,
         "category": "novel",
-        "summary": "*전편 https://posty.pe/yi2516 햄부 2025. 8. 25. · 아름다운 둘을 위해 기도를 했대요 정성찬 길들이기 은숑 길들이다 [길들이다] 어떤 일에 익숙하게 ..."
+        "summary": "*전편 https://posty.pe/yi2516 아름다운 둘을 위해 기도를 했대요 정성찬 길들이기 은숑 길들이다 [길들이다] 어떤 일에 익숙하게 ..."
     },
     {
         "url": "https://www.postype.com/@iamadolphin/post/20071456",
@@ -2967,7 +3027,7 @@ export const dolShongData = [
         "url": "https://www.postype.com/@midsummer-23/post/23005586",
         "title": "태산이 높다하되2",
         "author": "한여름",
-        "date": "2026. 8. 29..",
+        "date": "2026. 8. 29.",
         "is_adult": "True",
         views: 102,
         price: 0,

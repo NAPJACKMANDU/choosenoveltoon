@@ -1,5 +1,29 @@
 export const dolTonData = [
     {
+        "url": "https://www.postype.com/@copley/post/23137417",
+        "title": "무향의 연애 07",
+        "author": "밤이",
+        "is_adult": "False",
+        views: 173,
+        price: 0,
+        likes: 30,
+        "date": "2026. 9. 9.",
+        "category": "novel",
+        "summary": "짝은 금요일 저녁에 정해졌다. 저녁 8시, 거실 탁자에 천을 덮은 쟁반이 올라왔고, 조연출이 천을 걷었다. 물건은 4개였다. 양 끝을 노랑과 초록 줄무늬로 꼬아 싼 사탕 1알, 흰..."
+    },
+    {
+        "url": "https://www.postype.com/@copley/post/23102337",
+        "title": "무향의 연애 06",
+        "author": "밤이",
+        "is_adult": "False",
+        views: 246,
+        price: 0,
+        likes: 30,
+        "date": "2026. 9. 4.",
+        "category": "novel",
+        "summary": "톡, 톡, 톡. 리드미컬한 소리가 찬영을 수마로부터 끌어올렸다. 아직 정신이 현실세계와 연결되지 않아 느릿느릿 눈을 끔뻑이자 옆에서 작게 웃는 소리가 들렸다. \"깼어요?\" 돌아보니..."
+    },
+    {
         "url": "https://www.postype.com/@memo-or-ry/post/15712006",
         "title": "한국인은 삼 세 번",
         "author": "미정",
@@ -1251,7 +1275,7 @@ export const dolTonData = [
         "url": "https://www.postype.com/@noexceptione/post/22371037",
         "title": "321319",
         "author": "e",
-        "date": "2026. 8. 31..",
+        "date": "2026. 8. 31.",
         "is_adult": "False",
         views : 1000,
         price: 0,
@@ -1779,7 +1803,7 @@ export const dolTonData = [
         "url": "https://www.postype.com/@copley/post/23063650",
         "title": "무향의 연애 05",
         "author": "밤이",
-        "date": "2026. 8. 31..",
+        "date": "2026. 8. 31.",
         "is_adult": "False",
         views : 201,
         price: 0,

@@ -1,5 +1,29 @@
 export const heeShongData = [
     {
+        "url": "https://www.postype.com/@imemymine/post/23157184",
+        "title": "N P G J",
+        "author": "답개",
+        "is_adult": "False",
+        views: 285,
+        price: 0,
+        likes: 49,
+        "date": "2026. 9. 11.",
+        "category": "novel",
+        "summary": "*N P H J 에서 이어집니다 일등 당첨자를 한 번이라도 배출해 낸 복권방이 대게 더 많은 당첨자를 만들어낸다. 소식을 들은 사람들이 와서 존나 긁어대니까. 몰랐으면 좋았을 꺼림..."
+    },
+    {
+        "url": "https://www.postype.com/@imemymine/post/22974954",
+        "title": "N P H J",
+        "author": "답개",
+        "is_adult": "False",
+        views: 494,
+        price: 0,
+        likes: 61,
+        "date": "2026. 9. 9.",
+        "category": "novel",
+        "summary": "이소희가 작정하고 꼬신 거다. 지구평평론자마저도 군말 없이 수긍할 명백한 팩트였다. 정성찬이 생애 첫 알바를 시작하게 된 것이 발단이었다. 시키는 대로 공부하고, 비슷한 수준의 친..."
+    },
+    {
         "url": "https://www.postype.com/@luvndeer/post/17121142",
         "title": "햄버거 세트에 치즈스틱 추가",
         "author": "SR",

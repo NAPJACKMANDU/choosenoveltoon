@@ -1,5 +1,29 @@
 export const binShongData = [
     {
+        "url": "https://www.postype.com/@seethatboy/post/23022829",
+        "title": "너 싫어",
+        "author": "절도",
+        "is_adult": "True",
+        views: 6200,
+        price: 0,
+        likes: 421,
+        "date": "2026. 9. 6.",
+        "category": "novel",
+        "summary": "글이 좀 날것일 수 있음 취향이 확고하다면 읽지않는 것을 추천함. ... 너 나빠와 이어집니다 * 누군가 박원빈에게 고치고 싶은 습관 한 가지를 묻는다면 이것저것 떠오르는 건 많겠..."
+    },
+    {
+        "url": "https://www.postype.com/@naacccho/post/23095065",
+        "title": "아래층 합사 시킴",
+        "author": "나초봉지",
+        "is_adult": "True",
+        views: 1800,
+        price: 1000,
+        likes: 125,
+        "date": "2026. 9. 4.",
+        "category": "webtoon",
+        "summary": "!!!!!!주의!!!!!! 넨숑 + 은숑 (+넨이석이도 텐션있음) 적폐ㅇ 캐붕ㅇ 모랄xx 스토리xxx 아무튼 대충 다 가능이시라면.. (이곳은 가능충의 포타입니다) 이미지 7 장 ..."
+    },
+    {
         "url": "https://www.postype.com/@seethatboy/post/22854240",
         "title": "너 미워",
         "author": "절도",
@@ -657,7 +681,7 @@ export const binShongData = [
         price: 100,
         likes: 74,
         "category": "novel",
-        "summary": "필수는 아니쥐만 쓰면서 들엇던 노래입니도 전편 동탁 2025. 2. 8. · 메이저 잡으면 폭파함 [넨숑] 아X는 고양이를 키우면 안되는 걸까? 알오 넨숑 성찬은 기본적으로 쉽게 ..."
+        "summary": "필수는 아니쥐만 쓰면서 들엇던 노래입니도 전편 메이저 잡으면 폭파함 [넨숑] 아X는 고양이를 키우면 안되는 걸까? 알오 넨숑 성찬은 기본적으로 쉽게 ..."
     },
     {
         "url": "https://www.postype.com/@bkndrwnd/post/18508979",
