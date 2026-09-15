@@ -102,6 +102,7 @@ export const useFilterHook = (filterTag: string[]) => {
     "톤또": tonHeeData,
     "또른": [...shoHeeData, ...dolShongData, ...shongHeeData, ...binHeeData, ...tonHeeData],
     "또왼" : [...heeShoData, ...heeDolData, ...heeShongData, ...heeBinData, ...heeTonData],
+    "히왼" : [...heeShoData, ...heeDolData, ...heeShongData, ...heeBinData, ...heeTonData],
 
     "숕톤": taroTonData,
     "돌톤": dolTonData,

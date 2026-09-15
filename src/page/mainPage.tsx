@@ -190,7 +190,7 @@ export const MainHPage = () => {
           fontSize: '15px',
           fontWeight: 'bold'
         }}>
-          <p>데이터를 불러오는 중입니다...</p>
+          <p>데이터가 존재하지 않습니다.</p>
         </div>
       ) : (
         <main className="post-list">
