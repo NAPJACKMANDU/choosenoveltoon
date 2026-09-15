@@ -435,9 +435,10 @@ body {
   background: none;
   border: none;
   color: #ffffff;
-  font-size: 10px;
+  font-size: 12px;
   cursor: pointer;
   padding: 0 2px;
+  font-weight: 600;
 }
 
 /* 페이지네이션 컨테이너 */
@@ -507,6 +508,7 @@ body {
 .sort-select-wrapper {
   display: flex;
   align-items: center;
+  color: var(--text-action);
 }
 
 .sort-select {

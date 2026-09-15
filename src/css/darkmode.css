@@ -87,7 +87,7 @@ body {
 
 .tag-adult {
   background-color: var(--point-color);
-  color: var(--tag-bg);
+  color: white;
   font-weight: bold;
 }
 
