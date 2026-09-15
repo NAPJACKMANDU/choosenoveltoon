@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useMemo } from 'react';
 import type { novelToonData } from '../interface/type';
 import { taroTonData } from '../component/tonRight/taroTon';
 import { shongTonData } from '../component/tonRight/shongTon';
