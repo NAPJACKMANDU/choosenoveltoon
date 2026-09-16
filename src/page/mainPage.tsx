@@ -289,8 +289,7 @@ export const MainHPage = () => {
         <button 
           className="floating-btn" 
           onClick={toggleDarkMode}
-          aria-label="다크 모드 토글"
-        >
+          aria-label="다크 모드 토글">
           {isDarkMode ? '☀️' : '🌙'}
         </button>
 
