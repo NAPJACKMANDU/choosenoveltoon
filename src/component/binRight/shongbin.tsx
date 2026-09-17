@@ -18261,7 +18261,7 @@ export const shongBinData = [
         price: 2000,
         likes: 281,
         "category": "webtoon",
-        "summary": "이미지 12 장 이미지 12 장 2,000 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이미지 12 장 이미지 12 장 2,000 P"
     },
     {
         "url": "https://www.postype.com/@sn-01-9999/post/16847222",
@@ -20565,7 +20565,7 @@ export const shongBinData = [
         price: 200,
         likes: 250,
         "category": "novel",
-        "summary": "이미지 1 장 이미지 1 장 200 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이미지 1 장 이미지 1 장 200 P"
     },
     {
         "url": "https://www.postype.com/@mari-ee/post/16634931",
@@ -23601,7 +23601,7 @@ export const shongBinData = [
         price: 300,
         likes: 219,
         "category": "novel",
-        "summary": "수위 낮지만 후방주의 😳 이미지 1 장 이미지 1 장 300 P 구매하기 여러 회차 한꺼번에"
+        "summary": "수위 낮지만 후방주의 😳 이미지 1 장 이미지 1 장 300 P"
     },
     {
         "url": "https://www.postype.com/@https-134340/post/15791118",
@@ -28077,7 +28077,7 @@ export const shongBinData = [
         price: 200,
         likes: 176,
         "category": "novel",
-        "summary": "이미지 1 장 이미지 1 장 200 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이미지 1 장 이미지 1 장 200 P"
     },
     {
         "url": "https://www.postype.com/@zetaaa/post/16300276",
@@ -30885,7 +30885,7 @@ export const shongBinData = [
         price: 200,
         likes: 153,
         "category": "novel",
-        "summary": "오늘의 숑넨 무대 끝나고도 힘이 남아돌아버려 (1컷입니다) 이미지 1 장 이미지 1 장 200 P 구매하기 여러 회차 한꺼번에"
+        "summary": "오늘의 숑넨 무대 끝나고도 힘이 남아돌아버려 (1컷입니다) 이미지 1 장 이미지 1 장 200 P"
     },
     {
         "url": "https://www.postype.com/@rarara777/post/17310313",
@@ -31893,7 +31893,7 @@ export const shongBinData = [
         price: 1000,
         likes: 144,
         "category": "novel",
-        "summary": "연상이 웁니다... ^_ㅠ 🚫적나라한 묘사 주의🚫 이미지 8 장 이미지 8 장 1,000 P 구매하기 여러 회차 한꺼번에"
+        "summary": "연상이 웁니다... ^_ㅠ 🚫적나라한 묘사 주의🚫 이미지 8 장 이미지 8 장 1,000 P"
     },
     {
         "url": "https://www.postype.com/@comehithereye/post/16053805",
@@ -32038,18 +32038,6 @@ export const shongBinData = [
         likes: 143,
         "category": "novel",
         "summary": "나는 딸기 \"저는 딸기에요.\" 예? 시골에 미친 사람 많다고 조심하라던 낭설을 떠올렸다. 딸기 따러 하우스에 들어왔더니 멀쩡하게 생긴 놈이 딸기라고 주장했다. 팔척장신의 딸기를 머..."
-    },
-    {
-        "url": "https://www.postype.com/@nissan/post/17814284",
-        "title": "숑넨 포타 추천",
-        "author": "개똥이",
-        "date": "2024. 10. 14.",
-        "is_adult": "False",
-        views: 4800,
-        price: 0,
-        likes: 143,
-        "category": "novel",
-        "summary": "짭근친 브라더 https://posty.pe/kom0q7 성인 큐큐샤 https://posty.pe/nq8a30 성인 카인의 사정 https://posty.pe/6b0gu9 성인 ..."
     },
     {
         "url": "https://www.postype.com/@thestoryflowing/post/17155649",
@@ -35973,7 +35961,7 @@ export const shongBinData = [
         price: 700,
         likes: 116,
         "category": "novel",
-        "summary": "약간의 수위 만화... 는 아닌데 만화가 됐네요 과외쌤 숑 학생 넨 이미지 2 장 이미지 2 장 700 P 구매하기 여러 회차 한꺼번에"
+        "summary": "약간의 수위 만화... 는 아닌데 만화가 됐네요 과외쌤 숑 학생 넨 이미지 2 장 이미지 2 장 700 P"
     },
     {
         "url": "https://www.postype.com/@milkii/post/15885581",
@@ -37917,7 +37905,7 @@ export const shongBinData = [
         price: 300,
         likes: 101,
         "category": "novel",
-        "summary": "비비기만 합니다 ...🙄 이미지 1 장 이미지 1 장 300 P 구매하기 여러 회차 한꺼번에"
+        "summary": "비비기만 합니다 ...🙄 이미지 1 장 이미지 1 장 300 P"
     },
     {
         "url": "https://www.postype.com/@beenoo/post/16202823",
@@ -38457,7 +38445,7 @@ export const shongBinData = [
         price: 100,
         likes: 97,
         "category": "novel",
-        "summary": "이미지 1 장 이미지 1 장 100 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이미지 1 장 이미지 1 장 100 P"
     },
     {
         "url": "https://www.postype.com/@beenoo/post/16292223",
@@ -38844,18 +38832,6 @@ export const shongBinData = [
         "summary": "성찬은 최재경에게 모자를 받은 그다음 날 처음으로 사람을 죽였다. 살인이 놀라울 만큼 쉬워서 난 원래 이런 인간이었던 건가 싶어 자괴감까지 들었다. 누군가가 고통스럽게 죽어가는 모..."
     },
     {
-        "url": "https://www.postype.com/@aiotsutae/post/16750234",
-        "title": "진짜 개.고.트한 넨른 노딱 포타 추천",
-        "author": "묭",
-        "date": "2024. 5. 6.",
-        "is_adult": "True",
-        views: 7600,
-        price: 500,
-        likes: 95,
-        "category": "novel",
-        "summary": "예술성 50 노딱 50 노딱 100 - 이렇게 두분야로 나눌거예요 제 취향 ) 폭력적이고 강압적이고 찡찡거리는 원비니 소재주의 하지만 소름돋는...작품들 숑넨 위주긴 하나 모든 넨..."
-    },
-    {
         "url": "https://www.postype.com/@seishunissss/post/16583787",
         "title": "힐러의 최후 1",
         "author": "샤를",
@@ -39177,7 +39153,7 @@ export const shongBinData = [
         price: 300,
         likes: 93,
         "category": "novel",
-        "summary": "이미지 1 장 이미지 1 장 300 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이미지 1 장 이미지 1 장 300 P"
     },
     {
         "url": "https://www.postype.com/@couplepota/post/16193145",
@@ -39501,7 +39477,7 @@ export const shongBinData = [
         price: 300,
         likes: 91,
         "category": "novel",
-        "summary": "입으로 합니다 . . 이미지 1 장 이미지 1 장 300 P 구매하기 여러 회차 한꺼번에"
+        "summary": "입으로 합니다 . . 이미지 1 장 이미지 1 장 300 P"
     },
     {
         "url": "https://www.postype.com/@bambikiller/post/16717959",
@@ -41973,7 +41949,7 @@ export const shongBinData = [
         price: 700,
         likes: 78,
         "category": "novel",
-        "summary": "안이어지는듯 이어지는 그림 몇개 넨의 남자 첫경험이라네요 주의 이미지 2 장 이미지 2 장 700 P 구매하기 여러 회차 한꺼번에"
+        "summary": "안이어지는듯 이어지는 그림 몇개 넨의 남자 첫경험이라네요 주의 이미지 2 장 이미지 2 장 700 P"
     },
     {
         "url": "https://www.postype.com/@https-134340/post/16358016",
@@ -43209,7 +43185,7 @@ export const shongBinData = [
         price: 300,
         likes: 71,
         "category": "novel",
-        "summary": "아래는 소장용인데 암것도 없으면 뭐해서 여기에 추가된 버전... 이 하나 있습니다 새해 복 많이 받으세요! 이미지 1 장 이미지 1 장 300 P 구매하기 여러 회차 한꺼번에 구매..."
+        "summary": "아래는 소장용인데 암것도 없으면 뭐해서 여기에 추가된 버전... 이 하나 있습니다 새해 복 많이 받으세요! 이미지 1 장 이미지 1 장 300 P 구매..."
     },
     {
         "url": "https://www.postype.com/@jubijubi/post/15892663",
@@ -46617,7 +46593,7 @@ export const shongBinData = [
         price: 500,
         likes: 51,
         "category": "novel",
-        "summary": "질투하는 카니한테 탈탈 털리는 쵸니..// 표현 적나라해요 주의주의 이미지 1 장 이미지 1 장 500 P 구매하기 여러 회차 한꺼번에"
+        "summary": "질투하는 카니한테 탈탈 털리는 쵸니..// 표현 적나라해요 주의주의 이미지 1 장 이미지 1 장 500 P"
     },
     {
         "url": "https://www.postype.com/@dreamyhippo/post/19733348",
@@ -46689,7 +46665,7 @@ export const shongBinData = [
         price: 800,
         likes: 51,
         "category": "novel",
-        "summary": "ㅅㅁㄱ 간접적인 묘사 주의...🚫 이미지 8 장 이미지 8 장 800 P 구매하기 여러 회차 한꺼번에"
+        "summary": "ㅅㅁㄱ 간접적인 묘사 주의...🚫 이미지 8 장 이미지 8 장 800 P"
     },
     {
         "url": "https://www.postype.com/@bin94us/post/16906628",
@@ -51264,18 +51240,6 @@ export const shongBinData = [
         "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※25~..."
     },
     {
-        "url": "https://www.postype.com/@blacksn/post/20833700",
-        "title": "숑넨 포타 추천 🦌🐈‍⬛",
-        "author": "자허블",
-        "date": "2025. 11. 6.",
-        "is_adult": "False",
-        views: 1500,
-        price: 0,
-        likes: 31,
-        "category": "novel",
-        "summary": "나중에 제가 편하게 보기 위해서 만드는 숑넨 포타 모음 글입니다. 키워드만 대충 정리했으니 궁금하신 분들은 꼭!! 읽어보시길! 거의.. 노딱(성인)입니다 ㅎㅎ 아마 최신 글보다는 ..."
-    },
-    {
         "url": "https://www.postype.com/@lemonsn0102/post/20766537",
         "title": "Seoul affair 소장본 수록 외전 미리보기",
         "author": "레몬",
@@ -51669,7 +51633,7 @@ export const shongBinData = [
         price: 400,
         likes: 30,
         "category": "novel",
-        "summary": "ㅎㅎ 하나는 그냥 낙서예요 소재주의 이미지 2 장 이미지 2 장 400 P 구매하기 여러 회차 한꺼번에"
+        "summary": "ㅎㅎ 하나는 그냥 낙서예요 소재주의 이미지 2 장 이미지 2 장 400 P"
     },
     {
         "url": "https://www.postype.com/@loveroommm/post/19103879",
@@ -52989,7 +52953,7 @@ export const shongBinData = [
         price: 300,
         likes: 27,
         "category": "novel",
-        "summary": "숑넨약ㅌㄴ 이미지 1 장 이미지 1 장 300 P 구매하기 여러 회차 한꺼번에"
+        "summary": "숑넨약ㅌㄴ 이미지 1 장 이미지 1 장 300 P"
     },
     {
         "url": "https://www.postype.com/@narrso/post/20979783",
@@ -54081,7 +54045,7 @@ export const shongBinData = [
         price: 700,
         likes: 25,
         "category": "novel",
-        "summary": "아직 넣지는 않았을 시기 미리보기 이미지 1 장 이미지 1 장 700 P 구매하기 여러 회차 한꺼번에"
+        "summary": "아직 넣지는 않았을 시기 미리보기 이미지 1 장 이미지 1 장 700 P"
     },
     {
         "url": "https://www.postype.com/@sukidatta/post/16553280",
@@ -54681,7 +54645,7 @@ export const shongBinData = [
         price: 100,
         likes: 24,
         "category": "novel",
-        "summary": "이미지 1 장 이미지 1 장 100 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이미지 1 장 이미지 1 장 100 P"
     },
     {
         "url": "https://www.postype.com/@mil-lim/post/15795293",
@@ -56854,18 +56818,6 @@ export const shongBinData = [
         likes: 19,
         "category": "novel",
         "summary": "*부분 유료. 내용과 무관합니다. 소재 주의 중간에 키워드 넣을게요. 결국 노력이 다이겨... 노력 끝에 드디어 임신한 원빈이. 성찬인 배 이제 제법 뽈록해져서 뒤뚱거리는 원빈이..."
-    },
-    {
-        "url": "https://www.postype.com/@blacksn/post/21030200",
-        "title": "숑넨 포타 추천 🦌🐈‍⬛",
-        "author": "자허블",
-        "date": "2025. 12. 3.",
-        "is_adult": "False",
-        views: 1200,
-        price: 0,
-        likes: 19,
-        "category": "novel",
-        "summary": "Only 리얼물!만 모았습니다. 갑자기 리얼물이 좀 땡겨서.. 다 리얼물이긴 한데 조금 애매할 수도 있어요. 리얼물(?)의 기준을 잘 모르겠어서.. 전에 올린 추천글에서 중복 약간..."
     },
     {
         "url": "https://www.postype.com/@kwaegwa/post/20261641",
@@ -60093,7 +60045,7 @@ export const shongBinData = [
         price: 500,
         likes: 14,
         "category": "novel",
-        "summary": "꾸금비계 그림백업 합니다.. 다 그렇진 않고 수위는 다양한데 적나라한 것도 있으니까, 혼자 보세요..😅 이미지 6 장 이미지 6 장 500 P 구매하기 여러 회차 한꺼번에"
+        "summary": "꾸금비계 그림백업 합니다.. 다 그렇진 않고 수위는 다양한데 적나라한 것도 있으니까, 혼자 보세요..😅 이미지 6 장 이미지 6 장 500 P"
     },
     {
         "url": "https://www.postype.com/@nenren/post/18757042",
@@ -60117,7 +60069,7 @@ export const shongBinData = [
         price: 100,
         likes: 14,
         "category": "webtoon",
-        "summary": "이어지지않음 이미지 5 장 이미지 5 장 100 P 구매하기 여러 회차 한꺼번에"
+        "summary": "이어지지않음 이미지 5 장 이미지 5 장 100 P"
     },
     {
         "url": "https://www.postype.com/@wb-haru/post/18589521",
@@ -60802,18 +60754,6 @@ export const shongBinData = [
         likes: 13,
         "category": "novel",
         "summary": "https://x.com/yumyum32913/status/1896747971343175749 읽고 오셔도 되고, 안읽으셔도 괜찮습니다. 새벽 공기가 싸늘했다. 길거리는 한산했지만..."
-    },
-    {
-        "url": "https://www.postype.com/@91302club/post/18848682",
-        "title": "숑넨 포타 추천",
-        "author": "현무",
-        "date": "2025. 4. 12.",
-        "is_adult": "False",
-        views: 1400,
-        price: 0,
-        likes: 13,
-        "category": "novel",
-        "summary": "링크 누르면 1화로 바로 들어가집니다 유의해주세요 뚜렷한 특징이 없거나 소재 분류가 힘든 글은 일상물로 분류하겠습니다! 장편 어린 남편 https://posty.pe/ckshrm ..."
     },
     {
         "url": "https://www.postype.com/@tltlgkscjscnsdprp/post/18796673",
@@ -61930,18 +61870,6 @@ export const shongBinData = [
         likes: 12,
         "category": "novel",
         "summary": "Against Art Center는 뉴욕에 위치한 미국 동북부 최대의 아트센터다. 탈脫, post의 의미를 지닌 ‘AGAINST'는 1960년대 포스트모던 사상이 서구에서 활발히 ..."
-    },
-    {
-        "url": "https://www.postype.com/@tarakjota/post/16838970",
-        "title": "관찰자를 위한 추천",
-        "author": "호모박애주의자",
-        "date": "2024. 5. 21.",
-        "is_adult": "False",
-        views: 492,
-        price: 0,
-        likes: 12,
-        "category": "novel",
-        "summary": "숑넨학이 어떤 학문인지 호기심이 생기신 학우분들을 환영합니다. 숑넨학을 향한 관심이 애정으로 성장하기 위한 시작 단계에 오르신 것은 아주 탁월한 선택입니다. 먼저 숑넨학파의 대표적..."
     },
     {
         "url": "https://www.postype.com/@coyanghee/post/16838285",
@@ -67377,7 +67305,7 @@ export const shongBinData = [
         price: 600,
         likes: 7,
         "category": "novel",
-        "summary": "한장입니다 이미지 1 장 이미지 1 장 600 P 구매하기 여러 회차 한꺼번에"
+        "summary": "한장입니다 이미지 1 장 이미지 1 장 600 P"
     },
     {
         "url": "https://www.postype.com/@dearsn/post/19828360",
@@ -67785,19 +67713,7 @@ export const shongBinData = [
         price: 100,
         likes: 7,
         "category": "webtoon",
-        "summary": "유료분량만 성인입니다.... 🫰🏻 원빈님가 기를 회복하는 방법이 궁금하신 분만.... 이미지 5 장 이미지 5 장 100 P 구매하기 여러 회차 한꺼번에"
-    },
-    {
-        "url": "https://www.postype.com/@winn1e-2112/post/17332491",
-        "title": "初雪（첫눈）",
-        "author": "winn",
-        "date": "2024. 8. 6.",
-        "is_adult": "False",
-        views: 139,
-        price: 0,
-        likes: 7,
-        "category": "novel",
-        "summary": "首尔的冬天一直都很冷。 朴元彬把被子掖了一下，哈了口热气想。 窗外白茫茫的一片，对面的房顶窗台上都是堆积的雪花，看来昨夜是非常浪漫的一晚呢。 兴许是轻微的动作惊动了身后的人，郑成灿把头埋进自己的颈间，..."
+        "summary": "유료분량만 성인입니다.... 🫰🏻 원빈님가 기를 회복하는 방법이 궁금하신 분만.... 이미지 5 장 이미지 5 장 100 P"
     },
     {
         "url": "https://www.postype.com/@lailac/post/17197831",
@@ -67870,18 +67786,6 @@ export const shongBinData = [
         likes: 7,
         "category": "novel",
         "summary": "운동을 할 때 부터 그래왔었다. 스타트 라인에 서면 너무 떨리고 숨이 가빠져오고 심장이 곧 죽을거같이 뛰고 몸을 주체하지 못할거같지만, 스타트 건의 총성이 울리면 오히려 맘이 편안..."
-    },
-    {
-        "url": "https://www.postype.com/@star-1234/post/16053229",
-        "title": "남돌포타추천",
-        "author": "星",
-        "date": "2024. 6. 25.",
-        "is_adult": "False",
-        views: 4300,
-        price: 500,
-        likes: 7,
-        "category": "novel",
-        "summary": "씨피마다 약 20~30개 설명 따로 없음 순서 - 연숩 숩준 연밤 밤텬 텬밤 밤숩 닝숩 탯재 멍산 잏링 탯한 한탯 탯성 숑넨 넨숑 톤넨 숑석 숑톤 닉쭈 쭈네코 죠켕 성젱 젱양 밀빵..."
     },
     {
         "url": "https://www.postype.com/@songsongsong01/post/15971742",
@@ -71050,18 +70954,6 @@ export const shongBinData = [
         likes: 4,
         "category": "novel",
         "summary": "캠퍼스의 가장 외진 북서쪽, 낡은 인문대 건물 뒤편에는 지도에도 잘 표시되지 않는 좁은 오솔길이 하나 있다. 그 길을 따라가다 보면 담쟁이덩굴이 벽면을 가득 메운 낡은 건물 1층에..."
-    },
-    {
-        "url": "https://www.postype.com/@gelato-xwsr/post/22158211",
-        "title": "포스타입 추천",
-        "author": "ㅎㅅㅎ",
-        "date": "2026. 4. 27.",
-        "is_adult": "False",
-        views: 178,
-        price: 0,
-        likes: 4,
-        "category": "novel",
-        "summary": "안녕하세용 제가 좋아하는 포타를 소개합니다~ 잼젠 올나잇레플리카 잼동 해피캠퍼스 쿨융 군번줄, 침대아래천국, 로보디 숑넨 RIFIFI 네버, 리치 헤븐"
     },
     {
         "url": "https://www.postype.com/@snsly1215/post/22081821",
