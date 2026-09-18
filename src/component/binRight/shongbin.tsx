@@ -84,18 +84,6 @@ export const shongBinData = [
         "summary": "“우리 파혼 하자.” 해라의 손이 멈췄다. 테이블 위에 내려놓으려던 잔이 허공에서 잠깐 멎었다가, 이내 작은 소리를 내며 받침 위에 놓였다. 성찬은 같은 말을 두 번 할 생각은 없..."
     },
     {
-        "url": "https://www.postype.com/@idolsajuu/post/23194654",
-        "title": "박원빈은 벤츠남일까? | 라이즈 원빈 사주",
-        "author": "이즐",
-        "is_adult": "False",
-        views: 124,
-        price: 800,
-        likes: 4,
-        "date": "2026. 9. 17.",
-        "category": "novel",
-        "summary": "만세력을 보면 남자가 여자를 상징하는 정재라는 글자가 연월에 두 개나 나란히 보입니다 보통 이렇게 여자를 뜻하는 글자가 두 개나 딱 자리를 잡고 있으면 텍스트 1,200 자 공백 ..."
-    },
-    {
         "url": "https://www.postype.com/@gelato-w2b/post/23194202",
         "title": "-... .-.. --- --- -- (2)",
         "author": "백",
@@ -225,31 +213,7 @@ export const shongBinData = [
         likes: 77,
         "date": "2026. 9. 15.",
         "category": "webtoon",
-        "summary": "盒he 盒he 님의 창작활동을 응원하고 싶으세요? 후원하기"
-    },
-    {
-        "url": "https://www.postype.com/@pangpangpparae/post/23023030",
-        "title": "라이즈 원빈 사주(성격운, 연애운, 연애성향, 이상형, 짝사랑, 플러팅) 궁예",
-        "author": "팡",
-        "is_adult": "False",
-        views: 74,
-        price: 500,
-        likes: 1,
-        "date": "2026. 9. 15.",
-        "category": "novel",
-        "summary": "1. 원빈 님 사주를 보면 먼저 전체적인 구조가 꽤 흥미로워요. 임오년 임인월 기사일이라는 구조 자체가, 외형적으로는 안정적이면서도 내부적으로는 다이나믹한 기운을 갖고 있어요. 일..."
-    },
-    {
-        "url": "https://www.postype.com/@pangpangpparae/post/23023026",
-        "title": "라이즈 성찬 사주(성격운, 연애운, 연애성향, 이상형, 짝사랑, 플러팅) 궁예",
-        "author": "팡",
-        "is_adult": "False",
-        views: 50,
-        price: 500,
-        likes: 1,
-        "date": "2026. 9. 15.",
-        "category": "novel",
-        "summary": "1. 성찬 님 사주를 보면 일단 태약한 기운이 눈에 띕니다. 태약이라는 건, 쉽게 말해서 스스로를 지탱할 힘이 약한 구조예요. 그래서 외부의 영향, 주변 환경이나 사람들의 에너지에..."
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@sunnystewart/post/23184134",

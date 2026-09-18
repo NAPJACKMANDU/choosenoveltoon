@@ -9,7 +9,7 @@ export const shongDolData = [
         likes: 3,
         "date": "2026. 9. 18.",
         "category": "webtoon",
-        "summary": "ㅎㅎ ㅎㅎ 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": ""
     },
     {
         "url": "https://www.postype.com/@eveofweekend/post/23181157",
@@ -22,18 +22,6 @@ export const shongDolData = [
         "date": "2026. 9. 17.",
         "category": "novel",
         "summary": "아버지는 내가 어렸을 때부터 다양한 운동을 접할 수 있게 도와주었고, 그중에서 가장 흥미를 보였던 것은 스노우보드였다. 겨울만 되면 거의 스키장에 살다시피 했고, 한번은 발에 감각..."
-    },
-    {
-        "url": "https://www.postype.com/@pangpangpparae/post/23023024",
-        "title": "라이즈 은석 사주(성격운, 연애운, 연애성향, 이상형, 짝사랑, 플러팅) 궁예",
-        "author": "팡",
-        "is_adult": "False",
-        views: 56,
-        price: 500,
-        likes: 1,
-        "date": "2026. 9. 15.",
-        "category": "novel",
-        "summary": "1. 은석 님은 겉으로 보이는 이미지보다 훨씬 더 복합적인 결을 가진 사람이에요. 사주를 딱 펼쳐놓는 순간 가장 먼저 느껴지는 건, 기운이 굉장히 선명하고 날이 서 있는데도 그 날..."
     },
     {
         "url": "https://www.postype.com/@amuname39/post/23149571",
