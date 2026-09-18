@@ -1,4 +1,64 @@
 export const dolShoData = [
+  {
+        "url": "https://www.postype.com/@j0-057/post/23202416",
+        "title": "상간남이 누구야?",
+        "author": "J",
+        "is_adult": "True",
+        views: 11,
+        price: 0,
+        likes: 0,
+        "date": "2026. 9. 18.",
+        "category": "novel",
+        "summary": "정성찬은 요즘 자꾸 자기 남자친구가 뭔가를 숨기고 있다는 느낌이 들었다. 그런 느낌이 확실해진 건, 어느 생일 파티에서였다. 사장님의 전화 한 통에 다음 날 출근 전까지 기획안을 ..."
+    },
+    {
+        "url": "https://www.postype.com/@dddd-ssss/post/23196966",
+        "title": "신호에 대응해주세요",
+        "author": "🌌",
+        "is_adult": "True",
+        views: 127,
+        price: 0,
+        likes: 20,
+        "date": "2026. 9. 17.",
+        "category": "novel",
+        "summary": "회사원 es × 퍼스널 트레이너 tr ※포스타입에 번역 기능이 생겨서, 트위터(프라이베터)에 올렸던 글을 시험 삼아 올려봅니다♡ \"나이가 들면 정말 피곤해지기 쉬워. 젊다는 건 좋..."
+    },
+    {
+        "url": "https://www.postype.com/@color-blind/post/23159269",
+        "title": "그때는 틀리고 지금은 맞다 2/2",
+        "author": "색약",
+        "is_adult": "True",
+        views: 174,
+        price: 0,
+        likes: 15,
+        "date": "2026. 9. 17.",
+        "category": "novel",
+        "summary": "알파베타 우리처럼 작은 존재는 오직 사랑을 통해서만 우주의 광대함을 견딜 수 있다. -코스모스, 칼 세이건 어이, 초보 알파씨. 지금 무슨 생각해? 베타 목에 초커 채우는 생각. ..."
+    },
+    {
+        "url": "https://www.postype.com/@euntarotica/post/23193319",
+        "title": "♡오사키 선생님의 불면증 특효 요법♡",
+        "author": "love…",
+        "is_adult": "True",
+        views: 305,
+        price: 0,
+        likes: 28,
+        "date": "2026. 9. 16.",
+        "category": "novel",
+        "summary": "회사원 은석 × 불면증 치료사 쇼타로 도시 코미디 “은석 씨, 자기 전에 관계를 맺나요?” “네?” “연구 결과에 따르면 잠들기 전 성관계와 오르가슴은 빠른 입면과 수면의 질 향상..."
+    },
+    {
+        "url": "https://www.postype.com/@sweetshop0001/post/23191661",
+        "title": "Classic cliché 5",
+        "author": "유이토",
+        "is_adult": "False",
+        views: 241,
+        price: 300,
+        likes: 23,
+        "date": "2026. 9. 16.",
+        "category": "novel",
+        "summary": "텍스트 8,065 자 공백 제외 링크 1 개"
+    },
     {
         "url": "https://www.postype.com/@color-blind/post/22919818",
         "title": "빼끼럽 back it up 7",

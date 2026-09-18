@@ -1,4 +1,16 @@
 export const shoBinData = [
+        {
+        "url": "https://www.postype.com/@00010v2/post/23180700",
+        "title": "고백이라기엔 거창하고 프러포즈치고 초라한",
+        "author": "롵",
+        "is_adult": "False",
+        views: 366,
+        price: 0,
+        likes: 46,
+        "date": "2026. 9. 17.",
+        "category": "novel",
+        "summary": "낯선 동네의 낯선 꽃집 앞에 선 박원빈은 닫힌 문 앞에서 멍하니 앞니를 다 내놓고 서 있다. 손에 댈롱 들린 핸드폰 화면 위에 명백히 보이는 글자. [주문 취소] 사유: 개인 사정..."
+    },
     {
         "url": "https://www.postype.com/@1125otsu0302/post/23144077",
         "title": "유전",

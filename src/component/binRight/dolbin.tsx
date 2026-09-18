@@ -1,4 +1,76 @@
 export const dolBinData = [
+{
+        "url": "https://www.postype.com/@snbignlittle09/post/22797155",
+        "title": "대도시 오메가 표류기 12",
+        "author": "티비디",
+        "is_adult": "False",
+        views: 579,
+        price: 0,
+        likes: 84,
+        "date": "2026. 9. 16.",
+        "category": "novel",
+        "summary": "새벽에 눈이 떠졌는데 옆자리가 비어 있었다. 원빈은 시트를 손바닥으로 더듬다가 아직 미지근한 온기가 남은 것을 확인하고서야 겨우 상체를 일으켰다. 이불이 어깨에서 흘러내렸다. 허리..."
+    },
+    {
+        "url": "https://www.postype.com/@dnalienn/post/21170370",
+        "title": "형의 형 3화",
+        "author": "시차",
+        "is_adult": "False",
+        views: 43,
+        price: 0,
+        likes: 4,
+        "date": "2026. 9. 16.",
+        "category": "novel",
+        "summary": "형은 자신의 방에 불법침입한 나를 보며 크게 놀라지도, 대꾸하지도 않았다. 손에 들린 내 그림과 나를 몇 번 번갈아보다 내 손에 종이 뭉치들을 쥐어줬다. 나는 아주 커다란 비밀을 ..."
+    },
+    {
+        "url": "https://www.postype.com/@zelus-nous/post/23158487",
+        "title": "숨길 수 없어요 B",
+        "author": "roux",
+        "is_adult": "False",
+        views: 82,
+        price: 0,
+        likes: 11,
+        "date": "2026. 9. 16.",
+        "category": "novel",
+        "summary": "*특정 직업군에 대한 지식 없습니다 우연이 세 번이면 운명이지. 우연 세 번 카운팅도 정해진 시간이 있을 것 아냐. 하루? 일주일? 한 달? 대책 없는 낭만주의자와 뭐든 딴지를 걸..."
+    },
+    {
+        "url": "https://www.postype.com/@butter-k7mh/post/23008239",
+        "title": "책임져 上",
+        "author": "자객",
+        "is_adult": "False",
+        views: 60,
+        price: 0,
+        likes: 16,
+        "date": "2026. 9. 15.",
+        "category": "novel",
+        "summary": "그러니까 원빈은. 고작 이십 몇 년 살았지만 우연의 일치 따위를 경계하면서 살아왔다. 모든 일이 잘 풀리길 바라는 마음으로 양칫물을 일곱 번 헹구고, 가글을 일곱 번 하고, 알람을..."
+    },
+    {
+        "url": "https://www.postype.com/@amuname01319/post/23183068",
+        "title": "세계평화를 위한 조력자B",
+        "author": "아무네임",
+        "is_adult": "True",
+        views: 68,
+        price: 300,
+        likes: 6,
+        "date": "2026. 9. 15.",
+        "category": "novel",
+        "summary": "*주의 : 가능충을 위한 작품임 (제발!!!!! 내상입지 마시고 가능충만 보세요) *석님이 앞뒤로 고생하는 숑-돌-넨 3p *후반부 약 숑넨, 에필로그 넨석 은숑 암시 있음 **제..."
+    },
+    {
+        "url": "https://www.postype.com/@quietcat/post/23180061",
+        "title": "소실점 5",
+        "author": "고요",
+        "is_adult": "True",
+        views: 113,
+        price: 0,
+        likes: 13,
+        "date": "2026. 9. 14.",
+        "category": "novel",
+        "summary": "“아, 원빈아.” 학교에 다녀온 성찬이 현관에 들어서자마자 마주 선 원빈을 발견했다. “미안해. 그렇게 말하면 안됐는데, 내가..” 성찬이 말을 마치기도 전에 원빈이 먼저 성찬을 ..."
+    },
     {
         "url": "https://www.postype.com/@song-oppa/post/23151240",
         "title": "여름이 가기전에 (3)",
