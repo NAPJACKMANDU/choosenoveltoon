@@ -1,5 +1,29 @@
 export const dolShongData = [
     {
+        "url": "https://www.postype.com/@sagakzee/post/23268179",
+        "title": "[은숑녀]",
+        "author": "smo ko3일 전·사각지대구독",
+        "is_adult": "False",
+        "views": "83",
+        "price": "0",
+        "likes": "4",
+        "date": "2026-09-26",
+        "category": "webtoon",
+        "summary": "X @crtesyuse smo ko smo ko 님의 창작활동을 응원하고 싶으세요? 후원하기"
+    },
+    {
+        "url": "https://www.postype.com/@sweetrain-rs/post/23256913",
+        "title": "허니듀 인 캠퍼스 : 싸나이 순정 -1",
+        "author": "잔불4일 전·어딘가에 꼭 있을 법한 이야기구독",
+        "is_adult": "False",
+        "views": "34",
+        "price": "0",
+        "likes": "4",
+        "date": "2026-09-25",
+        "category": "novel",
+        "summary": "허니듀 인 캠퍼스 : 싸나이 순정 By. 잔불 1. 캠퍼스, 하면 봄. 봄 하면 캠퍼스. 무릇 봄이라면 캠퍼스 안에서는 저마다 청춘을 피워내고자 자잘자잘한 이벤트들을 소환하기 마련..."
+    },
+    {
         "url": "https://www.postype.com/@cherrylemonpeach/post/23137017",
         "title": "우렁남편(下)",
         "author": "체리레몬피치",

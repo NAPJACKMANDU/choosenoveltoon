@@ -2,6 +2,30 @@ export const binShongData = [
     {
         "url": "https://www.postype.com/@seethatboy/post/23022829",
         "title": "너 싫어",
+        "author": "절도2026. 9. 6.·뺏기지 않게 조심해구독",
+        "is_adult": "True",
+        "views": "8,100",
+        "price": "0",
+        "likes": "504",
+        "date": "2026-09-06",
+        "category": "novel",
+        "summary": "글이 좀 날것일 수 있음 취향이 확고하다면 읽지않는 것을 추천함. ... 너 나빠와 이어집니다 * 누군가 박원빈에게 고치고 싶은 습관 한 가지를 묻는다면 이것저것 떠오르는 건 많겠..."
+    },
+    {
+        "url": "https://www.postype.com/@naacccho/post/23095065",
+        "title": "아래층 합사 시킴",
+        "author": "나초봉지2026. 9. 4.·스터디카페구독",
+        "is_adult": "True",
+        "views": "2,300",
+        "price": "1,000",
+        "likes": "135",
+        "date": "2026-09-04",
+        "category": "webtoon",
+        "summary": "!!!!!!주의!!!!!! 넨숑 + 은숑 (+넨이석이도 텐션있음) 적폐ㅇ 캐붕ㅇ 모랄xx 스토리xxx 아무튼 대충 다 가능이시라면.. (이곳은 가능충의 포타입니다) 이미지 7 장 ..."
+    },
+    {
+        "url": "https://www.postype.com/@seethatboy/post/23022829",
+        "title": "너 싫어",
         "author": "절도",
         "is_adult": "True",
         views: 6200,

@@ -1,5 +1,53 @@
 export const binDolData = [
         {
+        "url": "https://www.postype.com/@showertowel/post/23200964",
+        "title": "더는안해짝사랑",
+        "author": "샴푸2일 전·conditioner구독",
+        "is_adult": "False",
+        "views": "182",
+        "price": "0",
+        "likes": "16",
+        "date": "2026-09-27",
+        "category": "novel",
+        "summary": "송은석과 박원빈은 어렸을 때부터 이웃사촌으로 함께 자라왔다. 엄마의 뒤에 숨어 빼꼼 고개만 내민 채 바라보는 원빈과 그런 원빈보다 한뼘 더 큰 은석은 서로가 서로에게 얼마나 소중해..."
+    },
+    {
+        "url": "https://www.postype.com/@starcrushcrash/post/23253575",
+        "title": "찐따탈트붕괴",
+        "author": "⑧3일 전·Star crush crash!구독",
+        "is_adult": "False",
+        "views": "518",
+        "price": "0",
+        "likes": "32",
+        "date": "2026-09-26",
+        "category": "novel",
+        "summary": "-그냥 개그물 수준이니 가볍게 봐주세요. 고증 X- 이상, 기호 2번 송은석이었습니다. 감사합니다. 짝짝짝. 멈추지 않는 우레와 같은 박수 소리. 분명 기호 2번임에도 호응 소리는..."
+    },
+    {
+        "url": "https://www.postype.com/@chuchumm/post/23232831",
+        "title": "은석 형 아니면 은숙 누나?",
+        "author": "chu7일 전·mm3구독",
+        "is_adult": "False",
+        "views": "343",
+        "price": "0",
+        "likes": "22",
+        "date": "2026-09-22",
+        "category": "webtoon",
+        "summary": "번역기를 사용했어요. 번역이 미흡한 부분이 있다면 양해해 주세요🥺 tbc... chu chu 님의 창작활동을 응원하고 싶으세요? 후원하기"
+    },
+    {
+        "url": "https://www.postype.com/@nxs3901/post/23212719",
+        "title": "송만두와 세르게이의 여름방학",
+        "author": "솜사탕2026. 9. 19.·낙서장구독",
+        "is_adult": "False",
+        "views": "734",
+        "price": "0",
+        "likes": "53",
+        "date": "2026-09-19",
+        "category": "novel",
+        "summary": "원빈은 방학 내내 딱히 할 일도 없이 거실 쇼파와 물아일체가 되어 빈둥거리며 티비나 보는 게 일상이었다. 반면 친형은 대학도 안 가고 하루종일 방구석에 처박혀 컴퓨터 게임만 조지고..."
+    },
+        {
         "url": "https://www.postype.com/@2001093139/post/15744493",
         "title": "챠우챠우 上",
         "author": "gataka",
