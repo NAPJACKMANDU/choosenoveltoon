@@ -68,7 +68,7 @@ export const shongDolData = [
         price: 0,
         likes: 4,
         "date": "2026. 9. 29.",
-        "category": "webtoon",
+        "category": "novel",
         "summary": "무료 공개로 재발행 했어요 ꒰ ˶• ༝ •˶꒱ა https://www.postype.com/@sbtees/post/21427033"
     },
     {
@@ -94,18 +94,6 @@ export const shongDolData = [
         "date": "2026. 9. 28.",
         "category": "novel",
         "summary": "성찬은 그곳을 ‘우리 집’이라고 부른 적이 없었다. 입양된 곳. 혹은 아주 가끔 그 집, 이라고 표현하기도 했다. 지금이야 수인 입양 절차가 까다로워졌다지만, 성찬이 입양되었던 때..."
-    },
-    {
-        "url": "https://www.postype.com/@kangsamuso/post/23047850",
-        "title": "라이즈 은석 사주 풀이",
-        "author": "강기",
-        "is_adult": "False",
-        views: 26,
-        price: 500,
-        likes: 0,
-        "date": "2026. 9. 28.",
-        "category": "novel",
-        "summary": "[기본적인 성향/단점 심층 분석/연애운과 연애 스타일/이상형/사주상 주의해야 할 점/앞으로의 대운 흐름] 은석 님의 사주를 전체적으로 보면, 겉으로 드러나는 분위기와 내면에서 실제..."
     },
     {
         "url": "https://www.postype.com/@dddongae/post/23272902",
@@ -25708,7 +25696,7 @@ export const shongDolData = [
         "title": "[숑석] 말해 봐.",
         "author": "뚱이",
         "date": "2024. 2. 11.",
-        "is_adult": "False", 
+        "is_adult": "False",
         views: 1100,
         price: 0,
         likes: 47,

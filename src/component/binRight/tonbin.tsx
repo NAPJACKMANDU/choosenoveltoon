@@ -23040,18 +23040,6 @@ export const tonBinData = [
         "summary": "핑크 렌즈 효과 핑크 렌즈 효과는 사랑에 빠지면 마치 핑크색 안경을 낀 것처럼 장점만 보이고, 그 사람이 무엇을 해도 사랑스러워 보이는 것을 뜻한다. 흔히 '콩깍지'라고 불리는 핑..."
     },
     {
-        "url": "https://www.postype.com/@thetab/post/17659213",
-        "title": "🐶🐱 톤넨 카카오톡 테마 공유 (iOS, 안드로이드)",
-        "author": "며느",
-        "date": "2024. 9. 20.",
-        "is_adult": "False",
-        views: 3200,
-        price: 0,
-        likes: 90,
-        "category": "webtoon",
-        "summary": "¨*.¸.•*¨`*. ¸.•*¨*.¸¸.•*¨`*.•*¨`*. ¸.•*¨*.¸¸.•*¨`*•. 톤넨 카카오톡 테마 | ios + 안드로이드 # 넨짝톤 # 멍냥즈 2024. 9. ..."
-    },
-    {
         "url": "https://www.postype.com/@lookahead/post/15628519",
         "title": "킬러의반려인간이되다",
         "author": "마카",

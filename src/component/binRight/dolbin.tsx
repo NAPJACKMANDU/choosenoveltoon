@@ -35,7 +35,7 @@ export const dolBinData = [
         "category": "novel",
         "summary": "라크로스 팀의 휘슬이 한 번 더 울렸다. 그럼에도 원빈은 좀처럼 흐트러진 정신을 정리하지 못했다. \"박원빈.\" 풀네임으로 불린 게 오랜만이다. 그제야 눈의 초점이 돌아오고 원빈은 ..."
     },
-     {
+    {
         "url": "https://www.postype.com/@jonnamattzip/post/23289211",
         "title": "발신인찾기",
         "author": "이망",
@@ -118,18 +118,6 @@ export const dolBinData = [
         "date": "2026. 9. 27.",
         "category": "novel",
         "summary": "\"저녁은 먹었어요?\" 아파트 단지 내 흡연구역과 집까지의 거리는 제법 있는 편이다. 원빈은 현관문 도어락 잠금을 해제하고 나서야 제 뒤로 잘생긴 사돈총각을 대롱대롱 매단 채 아무 ..."
-    },
-    {
-        "url": "https://www.postype.com/@gelato-kfcw/post/23271836",
-        "title": "얼굴은 빻았는데 인기는 많다고? '비재다남'과 '관다녀'의 환장의 대참사",
-        "author": "@sajuuu in you",
-        "is_adult": "False",
-        views: 18,
-        price: 3100,
-        likes: 5,
-        "date": "2026. 9. 27.",
-        "category": "webtoon",
-        "summary": "오늘 올라온 \" 비재다남 ( 비다 + 재다남 ) 과 관다녀의 연애 \" 분석글은 진짜 뒷목 잡게 웃겨서 가져왔음. 뚝심 있는 척하면서 팔랑귀고, 못생겼는데 은근 인기 많고, 세상 세..."
     },
     {
         "url": "https://www.postype.com/@beaflame0304/post/23267055",
@@ -287,7 +275,7 @@ export const dolBinData = [
         "category": "novel",
         "summary": "송은석이 키우던 검은 고양이 삐니가 몇 개월 전 무지개다리를 건넜다. 슬퍼할 틈도 없이 복학 준비를 해야 했다. 복학 후 오랜만에 동기들을 만났다. 친구들이 후배들을 소개해 준다...."
     },
-{
+    {
         "url": "https://www.postype.com/@snbignlittle09/post/22797155",
         "title": "대도시 오메가 표류기 12",
         "author": "티비디",

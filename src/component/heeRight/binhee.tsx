@@ -84,18 +84,6 @@ export const binHeeData = [
         "summary": "리날도 -나를 울게 하소서- 소희 역시 은석의 변화를 모르지는 않았다. 처음에는 명령만 하던 사람이, 언제부턴가 내 답을 기다리기 시작했다. 뭘 먹을 건지. 방이 춥지는 않은지. ..."
     },
     {
-        "url": "https://www.postype.com/@kangsamuso/post/23049875",
-        "title": "라이즈 소희 사주 풀이",
-        "author": "강기",
-        "is_adult": "False",
-        views: 35,
-        price: 500,
-        likes: 0,
-        "date": "2026. 9. 29.",
-        "category": "novel",
-        "summary": "[기본적인 성향/단점 심층 분석/연애운과 연애 스타일/이상형/사주상 주의해야 할 점/앞으로의 대운 흐름] 소희 님의 사주를 전체적으로 보면, 기본적인 구조 자체가 굉장히 독특한 균..."
-    },
-    {
         "url": "https://www.postype.com/@sorbet--7b/post/23290294",
         "title": "공명(共鳴)",
         "author": "구일사",
@@ -29538,19 +29526,6 @@ export const binHeeData = [
 ,
         "category": "novel",
         "summary": "* 소재 주의 1. 보육원 출신 이소이 나이가 다 차서 팔려 가듯 어떤 집으로 입양 갔는데 뭐 왜 입양했는지 모르겠는.. 진짜 그저 그런 집안으로 입양 갔음 그냥 집 분위기가 좀 ..."
-    },
-    {
-        "url": "https://www.postype.com/@siyuningg/post/22706445",
-        "title": "[AND/IOS] 넨또 카카오톡 테마 공유",
-        "author": "신이",
-        "date": "2026. 7. 14.",
-        "is_adult": "False",
-        views: 544,
-        price: 0,
-        likes: 58
-,
-        "category": "webtoon",
-        "summary": "간단하게 만든 천사 넨또 카톡테마를 공유합니다. (^///^) 처음 만들어본 거라 부족한 점이 꽤 많습니다. 너그럽게 이해해 주세요... 수정 및 재공유 X 🪽Android NT ..."
     },
     {
         "url": "https://www.postype.com/@white-brain2/post/22095351",

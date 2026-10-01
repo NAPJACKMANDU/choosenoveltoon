@@ -443,18 +443,6 @@ export const shongBinData = [    {
         "summary": "반뇨타 / 제3자 시점 주의 / 연령 주의...(둘은 미자미자때부터 사귀었음) 추석 얘기를 해준 스핀깅이 있어서.. 원하던 거랑은 다르겠지만 생각나는 거 써서 올립닏당 해피추석!!..."
     },
     {
-        "url": "https://www.postype.com/@kikrxko-4r0v/post/23268952",
-        "title": "숑넨 카톡테마 공유 (9/26 ~ 9/30)",
-        "author": "kiko",
-        "is_adult": "False",
-        views: 246,
-        price: 0,
-        likes: 14,
-        "date": "2026. 9. 26.",
-        "category": "webtoon",
-        "summary": "카카오톡 테마를 손쉽게 만들 수 있는 사이트를 발견해서 만들어봤어요 처음 만들어본 테마라 미숙해서 공유기간이 짧습니다... 제가 갤럭시 기기는 가지고 있지 않아서 iOS버전만 제작..."
-    },
-    {
         "url": "https://www.postype.com/@godheroo/post/23235091",
         "title": "두 사람이다 上",
         "author": "수다삼",
@@ -631,7 +619,7 @@ export const shongBinData = [    {
         price: 300,
         likes: 7,
         "date": "2026. 9. 25.",
-        "category": "webtoon",
+        "category": "novel",
         "summary": "1편부터 보신 분들만 봐주세요. 설정 자체가 취향 소재 둘 다 아주 많이 탑니다 https://posty.pe/x8jfob 뾰뵤 2026. 1. 22. · 뾰뵤의세상 박비서는 정사..."
     },
     {
@@ -1051,7 +1039,7 @@ export const shongBinData = [    {
         price: 400,
         likes: 7,
         "date": "2026. 9. 21.",
-        "category": "webtoon",
+        "category": "novel",
         "summary": "[이사님의 \"진짜\"애기는 힘들어!]와 설정, 세계관이 동일합니다. 굉장히 취향 타고, 하드한 소재기 때문에 중간에 키워드 읽고 신중하게 구매 부탁드립니다. 키워드 먼저 보시고 피해..."
     },
     {
@@ -69643,7 +69631,7 @@ export const shongBinData = [    {
         views: 314,
         price: 400,
         likes: 6,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "[이사님의 \"진짜\"애기는 힘들어!]와 설정, 세계관이 동일합니다. 굉장히 취향 타고, 하드한 소재기 때문에 중간에 키워드 읽고 신중하게 구매 부탁드립니다. 키워드 먼저 보시고 피해..."
     },
     {
@@ -69667,7 +69655,7 @@ export const shongBinData = [    {
         views: 386,
         price: 400,
         likes: 6,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "[이사님의 \"진짜\"애기는 힘들어!]와 설정, 세계관이 동일합니다. 굉장히 취향 타고, 하드한 소재기 때문에 중간에 키워드 읽고 신중하게 구매 부탁드립니다. 키워드 먼저 보시고 피해..."
     },
     {
@@ -69691,7 +69679,7 @@ export const shongBinData = [    {
         views: 426,
         price: 400,
         likes: 6,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "[이사님의 \"진짜\"애기는 힘들어!]와 설정, 세계관이 동일합니다. 굉장히 취향 타고, 하드한 소재기 때문에 중간에 키워드 읽고 신중하게 구매 부탁드립니다. 키워드 먼저 보시고 피해..."
     },
     {
@@ -70999,7 +70987,7 @@ export const shongBinData = [    {
         views: 306,
         price: 400,
         likes: 5,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "[이사님의 \"진짜\"애기는 힘들어!]와 설정, 세계관이 동일합니다. 굉장히 취향 타고, 하드한 소재기 때문에 중간에 키워드 읽고 신중하게 구매 부탁드립니다. 키워드 먼저 보시고 피해..."
     },
     {
@@ -71239,7 +71227,7 @@ export const shongBinData = [    {
         views: 557,
         price: 400,
         likes: 5,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "[이사님의 애기는 힘들어!]와 설정을 공유하고 있으나 내용과는 무관합니다. 굉장히 취향 타고, 하드한 소재기 때문에 중간에 키워드 읽고 신중하게 구매 부탁드립니다. 키워드 먼저 보..."
     },
     {
@@ -72931,7 +72919,7 @@ export const shongBinData = [    {
         views: 233,
         price: 300,
         likes: 4,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "1편부터 보신 분들만 봐주세요 설정 자체가 취향 소재 둘다 아주 많이 탑니다 https://posty.pe/x8jfob 뾰뵤의세상 박비서는 정사장과..."
     },
     {
