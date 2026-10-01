@@ -7123,7 +7123,7 @@ export const shongBinData = [    {
         views: 8000,
         price: 500,
         likes: 672,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "안녕하세요 동물의삔 주민여러분 시작! 삔냥이 1 쪼그맣고 새까매서 밤에 실수로 깔아뭉개도 낑 소리도안내고 안아줄때까지 뭉개진채로 슬퍼하고 있음 털눌린거 다시 예뿌게 살려줘야 뚝그침..."
     },
     {
@@ -9835,7 +9835,7 @@ export const shongBinData = [    {
         views: 6300,
         price: 0,
         likes: 507,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "썰 형태로 진행됩니다. 근데 이제 조금 긴 야구부 걔 텍스트 11,878 자 공백 제외 이미지 25 장"
     },
     {
@@ -11299,7 +11299,7 @@ export const shongBinData = [    {
         views: 5500,
         price: 0,
         likes: 453,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "wonbin1 1 / 6 catstarloversclub 님 외 13,345명 이 좋아합니다 wonbin1 photo dump 비니 헤어짐? 익명 | 2024.xx.xx 비니 몇 ..."
     },
     {
@@ -12607,7 +12607,7 @@ export const shongBinData = [    {
         views: 5000,
         price: 0,
         likes: 413,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "야구선수 정성찬 X 야알못 박원빈 야구부 걔 평행세계라고 생각해주세요. 야구부 걔에서 성찬이는 투수인데 여기서는 타자로 나옵니다. 텍스트 9,038 자 공백 제외 이미지 39 장"
     },
     {
@@ -13723,7 +13723,7 @@ export const shongBinData = [    {
         views: 4200,
         price: 0,
         likes: 383,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "투수 정성찬 X 야빠 박원빈 해당 글에 나오거나 연상되는 야구팀 및 야구선수에게는 어떠한 감정도 없으며 이 모든 것은 픽션이고 날조입니다. 포타적 허용 부탁드려요... 텍스트 7,..."
     },
     {
@@ -14167,7 +14167,7 @@ export const shongBinData = [    {
         views: 2700,
         price: 500,
         likes: 375,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "개구리 아기 이야기 포함 안냥하세요 동물의삔 주민여러분 어마어마하게 늦음 sorry 그럼 시작! 1 일어나세요.. 쥔님…숭면 권잘량..권장냥.. 냥 권장양을 넘으셨어요.. 2 불안..."
     },
     {
@@ -14515,7 +14515,7 @@ export const shongBinData = [    {
         views: 3200,
         price: 500,
         likes: 369,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "안냥하세요 동물의 삔 주민여러분 동물의삔 이야기 욘나 많이 해버려서 벌써 3탄이 돼뿟네요 🏠 메뉴 🏠 삔냥이 이야기 20개 삔뭉이 이야기 4개 삔싱이 이야기 2개 삔인어 이야기 1..."
     },
     {

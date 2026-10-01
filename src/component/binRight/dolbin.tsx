@@ -896,7 +896,7 @@ export const dolBinData = [
         views: 7600,
         price: 500,
         likes: 371,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "[단독] B구단 소속 송은석,올해 말 라이징 원빈과 결혼 부희주 기자 B구단 소속 외야수 송은석(29)이 올해 말 라이징 원빈(28)과 결혼식을 올린다. 열애설 한 번 나지 않던 ..."
     },
     {
@@ -1544,7 +1544,7 @@ export const dolBinData = [
         views: 4000,
         price: 500,
         likes: 202,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "본편 오늘의 날씨 널만나면더낼수있지세금도 돌넨 [단독] B구단 소속 송은석,올해 말 라이징 원빈과 결혼 부희주 기자 B구단 소속 외야수 송은석(29..."
     },
     {
@@ -7064,7 +7064,7 @@ export const dolBinData = [
         views: 1500,
         price: 100,
         likes: 19,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "요런 썰 모음 (근친도 있으니까 피해가시길...) 1 / 5 텍스트 71 자 공백 제외 이미지 46 장"
     },
     {
@@ -7124,7 +7124,7 @@ export const dolBinData = [
         views: 737,
         price: 100,
         likes: 18,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "미국 하이틴 앤톤x금석 은석x원빈 ??x?? 금석 은석 쌍둥이 형제가 있음 금발인 애가 동생 금석이 벽장게이로 살다가 최근 처음으로 사귀게된 남친이 한학년 밑에 앤톤 흑발이 형 은..."
     },
     {
@@ -7952,7 +7952,7 @@ export const dolBinData = [
         views: 766,
         price: 400,
         likes: 14,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "시오후키주의 상: https://posty.pe/r6457k 87 2026. 3. 8. · 56 그동생의사생활 상 숑넨 유두얘기 선녀강림체위 많음..ㄱㅊ은신분만 성찬이가 좀쓰레기오..."
     },
     {
@@ -8972,7 +8972,7 @@ export const dolBinData = [
         views: 653,
         price: 0,
         likes: 9,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "https://posty.pe/axutmd https://x.com/kittydolnen/status/2009494415208075561?s=20  · 맛..."
     },
     {
@@ -10268,7 +10268,7 @@ export const dolBinData = [
         views: 127,
         price: 0,
         likes: 2,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "원인 결과 엄마 초산모기도 하고 원래 조심성 많은 타입이라 막달에 배 나오면서 혹여나 어디 부딪힐까봐 배 가리고 ..."
     },
     {
@@ -10784,7 +10784,7 @@ export const dolBinData = [
         views: 385,
         price: 0,
         likes: 1,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "돌넨석 11979자 https://posty.pe/4ppd9m case 2025. 7. 20. · te quiero 결혼한 송은석군 박원빈군의 하루 (外) 돌넨석 임신 언급 서울 ..."
     },
     {
@@ -10832,7 +10832,7 @@ export const dolBinData = [
         views: 684,
         price: 0,
         likes: 1,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "돌넨 27212자 https://posty.pe/kwu9w1 case 2025. 5. 8. · te quiero 삔냥이의 돌집사 길들이기 송은석 박원빈 써놓고 안 올릴 것 같아 그..."
     },
     {
@@ -11084,7 +11084,7 @@ export const dolBinData = [
         views: 131,
         price: 0,
         likes: 0,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "소음이 이렇게 공허했던적이 있었나 아니 앞으로도 없을것이다 너로인해 뛰던심장이 이젠 존재도차하지않고 누군가 앗아간것만 같다 숨이 쉬어지지 않는다 . . . . . . 음 어......"
     },
     {

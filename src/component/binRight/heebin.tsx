@@ -1360,7 +1360,7 @@ export const heeBinData = [
         price: 100,
         likes: 19
 ,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "요런 썰 모음 (근친도 있으니까 피해가시길...) 1 / 5 텍스트 71 자 공백 제외 이미지 46 장"
     },
     {
@@ -2114,7 +2114,7 @@ export const heeBinData = [
         price: 100,
         likes: 1
 ,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "성찬&은석: 부랄탁탁친구 -♥-> 연인 -> 깨짐 원빈&찬영&소희 -> 세같살 성찬 지금 기분 좆같음. 왜냐? 방금 송은석이랑 깨졌기 때문. 이유는 더 황망하기 그지없음. 아무리 ..."
     },
     {

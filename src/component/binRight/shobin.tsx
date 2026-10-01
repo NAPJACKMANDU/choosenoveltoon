@@ -3668,7 +3668,7 @@ export const shoBinData = [
         views: 1500,
         price: 100,
         likes: 19,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "요런 썰 모음 (근친도 있으니까 피해가시길...) 1 / 5 텍스트 71 자 공백 제외 이미지 46 장"
     },
     {
@@ -4472,7 +4472,7 @@ export const shoBinData = [
         views: 226,
         price: 0,
         likes: 9,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "탐정사무소에서 바쁘게 일하던 탐정 타로 피곤해서 소파에 누워 잠시 잠을 청함. 그의 조수 원빈 잠든 타로를 바라보며 관찰함. 잠귀가 밝아 누군가 옆에 있다는걸 알고 자는척하는데 원..."
     },
     {
@@ -4592,7 +4592,7 @@ export const shoBinData = [
         views: 735,
         price: 0,
         likes: 8,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "숑숕에서 숕넨, 숑톤으로 갈라지는 이야기입니다. 갈라지는 동안 속앓이 하는 걸 보는 게 이 시리즈의 목적이라 숑숕이 정말 빨리 갈라집니다(...) 취향타는 소재라고 생각해서 프롤로..."
     },
     {
