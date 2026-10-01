@@ -2,12 +2,12 @@ export const heeShoData = [
     {
         "url": "https://www.postype.com/@color-blind/post/23176032",
         "title": "빼끼럽 back it up 8",
-        "author": "색약3일 전·colorblind구독",
+        "author": "색약",
         "is_adult": "True",
-        "views": "158",
-        "price": "0",
-        "likes": "12",
-        "date": "2026-09-26",
+        views: 158,
+        price: 0,
+        likes: 12,
+        "date": "2026. 9. 26.",
         "category": "novel",
         "summary": "'일본으로 갈까 해요. 거긴 동성 커플 파트너십 제도도 있고.' 탁. 은석은 협탁 위에 전화기를 엎어두었다. 통화 시도가 무용하다는 것을 깨닫고, 쇼타로가 '부재중'이라는 사실을 ..."
     },

@@ -1,13 +1,25 @@
 export const shongHeeData = [
     {
+        "url": "https://www.postype.com/@iwillfxxkyou/post/22680215",
+        "title": "알파 다섯에 베타 하나 러트 대소동",
+        "author": "풀",
+        "is_adult": "True",
+        views: 75,
+        price: 0,
+        likes: 23,
+        "date": "2026. 10. 1.",
+        "category": "novel",
+        "summary": "※소재주의 때는 휴가를 앞둔 밤. 매니저 형들은 먼저 본가에 내려가 있었고, 숙소엔 멤버들만이 남아있었다. 장기 휴가 전날 함께 술이나 한잔하자는 의견에 위층 숙소에 올라와 모두 ..."
+    },
+    {
         "url": "https://www.postype.com/@ttotoo/post/21709259",
         "title": "[단편] X의 전남친",
-        "author": "제갈또작6일 전·또박또박구독",
+        "author": "제갈또작",
         "is_adult": "False",
-        "views": "130",
-        "price": "0",
-        "likes": "7",
-        "date": "2026-09-23",
+        views: 130,
+        price: 0,
+        likes: 7,
+        "date": "2026. 9. 23.",
         "category": "novel",
         "summary": "*소재주의* 내 X의 전 남자 친구가 묘하게 신경 쓰인다. 아마 이 X의 전남친은 나와 X가 헤어질 수 밖에 없게 만든 인물일 수도 있고…. 내가 X와 헤어지고 나서 죄책감을 갖지..."
     },

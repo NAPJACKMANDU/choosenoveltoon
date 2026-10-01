@@ -969,7 +969,7 @@ export const heeShongData = [
         price: 0,
         likes: 30,
         "category": "novel",
-        "summary": "이제부터 히숑은 여기에 모으겠습니다. 업데이트 될 때마다 제목에 날짜 수정할게요. 06.21. 히 성격상 막깔아 뭉개면서 하는 사람 아닌데 덩치 차이 때문에 어쩔 수 없이 깔아뭉개..."
+        "summary": "이제부터 히숑은 여기에 모으겠습니다. 업데이트 될 때마다 제목에 날짜 수정할게요. 6.21. 히 성격상 막깔아 뭉개면서 하는 사람 아닌데 덩치 차이 때문에 어쩔 수 없이 깔아뭉개..."
     },
     {
         "url": "https://www.postype.com/@cherrylemonpeach/post/22415013",

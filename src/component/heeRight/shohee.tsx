@@ -1,5 +1,17 @@
 export const shoHeeData = [
     {
+        "url": "https://www.postype.com/@iwillfxxkyou/post/22680215",
+        "title": "알파 다섯에 베타 하나 러트 대소동",
+        "author": "풀",
+        "is_adult": "True",
+        views: 75,
+        price: 0,
+        likes: 23,
+        "date": "2026. 10. 1.",
+        "category": "novel",
+        "summary": "※소재주의 때는 휴가를 앞둔 밤. 매니저 형들은 먼저 본가에 내려가 있었고, 숙소엔 멤버들만이 남아있었다. 장기 휴가 전날 함께 술이나 한잔하자는 의견에 위층 숙소에 올라와 모두 ..."
+    },
+    {
         "url": "https://www.postype.com/@ddoinmanggo/post/18711865",
         "title": "범인은 누구",
         "author": "플망고우",

@@ -1,37 +1,73 @@
 export const dolHeeData = [
+    {
+        "url": "https://www.postype.com/@iwillfxxkyou/post/22680215",
+        "title": "알파 다섯에 베타 하나 러트 대소동",
+        "author": "풀",
+        "is_adult": "True",
+        views: 75,
+        price: 0,
+        likes: 23,
+        "date": "2026. 10. 1.",
+        "category": "novel",
+        "summary": "※소재주의 때는 휴가를 앞둔 밤. 매니저 형들은 먼저 본가에 내려가 있었고, 숙소엔 멤버들만이 남아있었다. 장기 휴가 전날 함께 술이나 한잔하자는 의견에 위층 숙소에 올라와 모두 ..."
+    },
+    {
+        "url": "https://www.postype.com/@2am2amdream/post/23293896",
+        "title": "리날도 end.",
+        "author": "정미",
+        "is_adult": "False",
+        views: 42,
+        price: 0,
+        likes: 13,
+        "date": "2026. 9. 29.",
+        "category": "novel",
+        "summary": "리날도 은석은 오늘도 소희가 있는 문 앞에서 귀를 기울였다. 그런데 오늘따라 이상할 만큼 소희의 방 안이 조용했다. 이름을 불러도 대답이 없었다. 문을 연 순간, 은석의 얼굴에서 ..."
+    },
+    {
+        "url": "https://www.postype.com/@2am2amdream/post/23292909",
+        "title": "리날도 3",
+        "author": "정미",
+        "is_adult": "False",
+        views: 31,
+        price: 0,
+        likes: 9,
+        "date": "2026. 9. 29.",
+        "category": "novel",
+        "summary": "리날도 -나를 울게 하소서- 소희 역시 은석의 변화를 모르지는 않았다. 처음에는 명령만 하던 사람이, 언제부턴가 내 답을 기다리기 시작했다. 뭘 먹을 건지. 방이 춥지는 않은지. ..."
+    },
      {
         "url": "https://www.postype.com/@2am2amdream/post/23288348",
         "title": "리날도 2",
-        "author": "정미16시간 전·새벽 2시구독",
+        "author": "정미",
         "is_adult": "False",
-        "views": "26",
-        "price": "0",
-        "likes": "5",
-        "date": "2026-09-28",
+        views: 26,
+        price: 0,
+        likes: 5,
+        "date": "2026. 9. 28.",
         "category": "novel",
         "summary": "리날도 소희는 집으로 돌아가는 길이었다. 낮에 원빈에게 보냈던 메시지에는 아직 읽음 표시가 뜨지 않아 있었다. 밥은 먹었는지, 오늘도 늦는지. 별것 아닌 질문 몇 개를 내려다보다가..."
     },
     {
         "url": "https://www.postype.com/@2am2amdream/post/23286674",
         "title": "리날도 1",
-        "author": "정미17시간 전·새벽 2시구독",
+        "author": "정미",
         "is_adult": "False",
-        "views": "34",
-        "price": "0",
-        "likes": "7",
-        "date": "2026-09-28",
+        views: 34,
+        price: 0,
+        likes: 7,
+        "date": "2026. 9. 28.",
         "category": "novel",
         "summary": "리날도 “돌아오면 결혼하자.” 소희의 손이 멈췄다. 원빈의 군복 깃을 만지던 손끝이 어정쩡하게 허공에 떠 있었다. 기지 밖에서는 출동을 재촉하는 차량 경적이 울렸다. 원빈은 그쪽을..."
     },
     {
         "url": "https://www.postype.com/@ttotoo/post/21709259",
         "title": "[단편] X의 전남친",
-        "author": "제갈또작6일 전·또박또박구독",
+        "author": "제갈또작",
         "is_adult": "False",
-        "views": "129",
-        "price": "0",
-        "likes": "7",
-        "date": "2026-09-23",
+        views: 129,
+        price: 0,
+        likes: 7,
+        "date": "2026. 9. 23.",
         "category": "novel",
         "summary": "*소재주의* 내 X의 전 남자 친구가 묘하게 신경 쓰인다. 아마 이 X의 전남친은 나와 X가 헤어질 수 밖에 없게 만든 인물일 수도 있고…. 내가 X와 헤어지고 나서 죄책감을 갖지..."
     },
@@ -3997,7 +4033,7 @@ export const dolHeeData = [
     },
     {
         "url": "https://www.postype.com/@paahae/post/16112390",
-        "title": "nid. 01",
+        "title": "nid. 1",
         "author": "파해",
         "date": "2024. 1. 26.",
         "is_adult": "False",
@@ -4765,7 +4801,7 @@ export const dolHeeData = [
     },
     {
         "url": "https://www.postype.com/@paahae/post/16217245",
-        "title": "nid. 02",
+        "title": "nid. 2",
         "author": "파해",
         "date": "2024. 2. 9.",
         "is_adult": "False",
@@ -4869,7 +4905,7 @@ export const dolHeeData = [
         price: 0,
         likes: 51,
         "category": "novel",
-        "summary": "앞 편들 다시보고 읽는걸 추천합니다. 사실 그냥 보고싶으면 그냥 봐도 ㄱㅊ '나 너 좋아해' 그 말은 우리의 관계를 변화시키기에 충분했다. 05 소꿉형 짝사랑 찾기 야 야 이소희..."
+        "summary": "앞 편들 다시보고 읽는걸 추천합니다. 사실 그냥 보고싶으면 그냥 봐도 ㄱㅊ '나 너 좋아해' 그 말은 우리의 관계를 변화시키기에 충분했다. 5 소꿉형 짝사랑 찾기 야 야 이소희..."
     },
     {
         "url": "https://www.postype.com/@case23/post/20011995",
@@ -5037,7 +5073,7 @@ export const dolHeeData = [
         price: 0,
         likes: 47,
         "category": "novel",
-        "summary": "'나 남자 좋아해' 송은석은 마치 돌처럼, 그 말을 표정 하나 변하지 않고 말했다. 03 짝사랑남 찾기 그 뒤로도 나와 형의 관계는 크게 달라진게 없었다. 물론 아예 놀라지 않았다..."
+        "summary": "'나 남자 좋아해' 송은석은 마치 돌처럼, 그 말을 표정 하나 변하지 않고 말했다. 3 짝사랑남 찾기 그 뒤로도 나와 형의 관계는 크게 달라진게 없었다. 물론 아예 놀라지 않았다..."
     },
     {
         "url": "https://www.postype.com/@maybelovelikethis/post/20382673",
@@ -6657,7 +6693,7 @@ export const dolHeeData = [
         price: 1000,
         likes: 23,
         "category": "novel",
-        "summary": "WARNING 불륜 치정 삼각관계 관음증 BDSM 등 취향 타는 요소. 00. 원래 더 많이 사랑하는 쪽이 지는 거라고 했다. 이소희는 그거야말로 수지타산이 맞는 이야기라고 생각했..."
+        "summary": "WARNING 불륜 치정 삼각관계 관음증 BDSM 등 취향 타는 요소. 0. 원래 더 많이 사랑하는 쪽이 지는 거라고 했다. 이소희는 그거야말로 수지타산이 맞는 이야기라고 생각했..."
     },
     {
         "url": "https://www.postype.com/@iroironaxai/post/17739005",
@@ -6945,7 +6981,7 @@ export const dolHeeData = [
         price: 1000,
         likes: 20,
         "category": "novel",
-        "summary": "WARNING 불륜 치정 삼각관계 관음증 BDSM 등 취향 타는 요소. 01. 육 개월 만에 이소희는 송은석의 제안을 받아들였다. 섹스가 고파서는 아니었다. 다른 남자와 뒹구는 자..."
+        "summary": "WARNING 불륜 치정 삼각관계 관음증 BDSM 등 취향 타는 요소. 1. 육 개월 만에 이소희는 송은석의 제안을 받아들였다. 섹스가 고파서는 아니었다. 다른 남자와 뒹구는 자..."
     },
     {
         "url": "https://www.postype.com/@tjreeh/post/16068937",
@@ -7173,7 +7209,7 @@ export const dolHeeData = [
         price: 1000,
         likes: 17,
         "category": "novel",
-        "summary": "WARNING 불륜 치정 삼각관계 관음증 BDSM 등 취향 타는 요소. 02. 일탈은 단 한 번 뿐이었다. 그렇다고 그날이 쉽게 잊혔다거나 아무런 영향도 없었다는 의미는 못 됐다...."
+        "summary": "WARNING 불륜 치정 삼각관계 관음증 BDSM 등 취향 타는 요소. 2. 일탈은 단 한 번 뿐이었다. 그렇다고 그날이 쉽게 잊혔다거나 아무런 영향도 없었다는 의미는 못 됐다...."
     },
     {
         "url": "https://www.postype.com/@yuiok77/post/17571329",
