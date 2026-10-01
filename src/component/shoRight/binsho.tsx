@@ -21,7 +21,7 @@ export const binShoData = [
         likes: 1,
         "date": "2026. 9. 28.",
         "category": "webtoon",
-        "summary": "숕 뇨타주의 smo ko smo ko 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "숕 뇨타주의"
     },
     {
         "url": "https://www.postype.com/@j0-057/post/23264097",

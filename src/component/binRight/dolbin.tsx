@@ -9,7 +9,7 @@ export const dolBinData = [
         likes: 7,
         "date": "2026. 9. 30.",
         "category": "webtoon",
-        "summary": "넨 뇨타주의 smo ko smo ko 님의 창작활동을 응원하고 싶으세요? 후원하기"
+        "summary": "넨 뇨타주의"
     },
     {
         "url": "https://www.postype.com/@bagel-w8a5/post/23289389",
