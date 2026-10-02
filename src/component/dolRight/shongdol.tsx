@@ -492,18 +492,6 @@ export const shongDolData = [
         "summary": "[임무: 성행위를 마치고 사정해야 문이 열립니다.] 허공에 떠 있는 홀로그램 문구를 본 송은석이 거칠게 머리를 쓸어 넘기며 한숨을 내뱉었다. 반면 정성찬은 무표정한 얼굴로 침대 옆..."
     },
     {
-        "url": "https://www.postype.com/@esc-91319/post/23201615",
-        "title": "숑석",
-        "author": "ㅎㅎ",
-        "is_adult": "False",
-        views: 29,
-        price: 0,
-        likes: 3,
-        "date": "2026. 9. 18.",
-        "category": "webtoon",
-        "summary": ""
-    },
-    {
         "url": "https://www.postype.com/@eveofweekend/post/23181157",
         "title": "유부남과 이혼남은 한 끗 차이 2",
         "author": "주금",
@@ -13173,7 +13161,7 @@ export const shongDolData = [
         price: 0,
         likes: 213,
         "category": "webtoon",
-        "summary": "(아마도) 업로드 순서 대강 쌓이면 백업합니다... 제일처음그린숑석 SD 특징연습 1 / 7 트레틀 멍한남자2 1 / 8 1 / 4 1 / 4 1 / 4 1 / 2 1 / 4 짤트..."
+        "summary": "(아마도) 업로드 순서 대강 쌓이면 백업합니다... 제일처음그린숑석."
     },
     {
         "url": "https://www.postype.com/@xoxo-onyx/post/16538422",
@@ -13317,7 +13305,7 @@ export const shongDolData = [
         price: 0,
         likes: 211,
         "category": "webtoon",
-        "summary": "만화는 슬라이드 형식 1 / 5 헐값세일 독후감 열트극 독후감 헐값세일 팬아트 1 / 4 1 / 4 1 / 10"
+        "summary": "만화는 슬라이드 형식 1 / 5 헐값세일 독후감 열트극 독후감 헐값세일 팬아트"
     },
     {
         "url": "https://www.postype.com/@dud1hee/post/17270661",
@@ -13810,18 +13798,6 @@ export const shongDolData = [
         likes: 204,
         "category": "novel",
         "summary": "송은석은 조금 이른 출근을 했다. 체육대회 짐도 봐야 하고 공채 취합도 해야 하고, 공식적인 출근 날짜는 있는데 기획3팀이랑 영업팀이 최대한 빨리 불러 줄 수 있냐고 해서 그것도 ..."
-    },
-    {
-        "url": "https://www.postype.com/@gaechhh/post/19012280",
-        "title": "세상은 온통 나비떼 나비떼 정작 나는 행방불명이 되고 싶었다",
-        "author": "개초",
-        "date": "2025. 3. 14.",
-        "is_adult": "False",
-        views: 4500,
-        price: 100,
-        likes: 204,
-        "category": "webtoon",
-        "summary": "소희 생일 축전 넨또 헤어지자고? 너 누군데 예술 여자 고등학교에 다니는 톤또 낙서 톤또 죽지 않는 그대에게 톤또 안전핀 숑석 소장용 결제창 텍스트 3 자 공백 제외"
     },
     {
         "url": "https://www.postype.com/@ggwha01/post/16766224",
@@ -15812,7 +15788,7 @@ export const shongDolData = [
         views: 2900,
         price: 1000,
         likes: 167,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "encounter 홀애비 신드롬 上 넨석 숑석 내일모레 앞자리 3을 찍는 송은석에게는 6살짜리 딸이 있다. 세아 담임샘님께서 메시지를 보냈습니다. 아..."
     },
     {
