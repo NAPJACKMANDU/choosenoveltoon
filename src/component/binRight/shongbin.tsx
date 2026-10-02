@@ -15179,18 +15179,6 @@ export const shongBinData = [{
     "summary": "*워딩 및 약 소재주의 텍스트 24,347 자 공백 제외"
 },
 {
-    "url": "https://www.postype.com/@sarahda/post/20758177",
-    "title": "모아봐요 동물의 삔 4",
-    "author": "sarah",
-    "date": "2025. 11. 7.",
-    "is_adult": "False",
-    views: 3400,
-    price: 500,
-    likes: 358,
-    "category": "webtoon",
-    "summary": "안냥하세요 동물의 삔 주민여러분! 동물의 삔 이야기 너무너무너무 많아서 생각보다 오래 걸렸네용 힝 🏠 메뉴 🏠 동물의 삔 이야기 36개 그 외 1개 그럼 시작! 1. 삐니. 밤에 ..."
-},
-{
     "url": "https://www.postype.com/@headbbin/post/18915576",
     "title": "사랑 받는 알파 中.9",
     "author": "머리삔",
@@ -15211,7 +15199,7 @@ export const shongBinData = [{
     views: 3200,
     price: 0,
     likes: 358,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "투수 정성찬 X 야빠 박원빈 해당 글에 나오거나 연상되는 야구팀 및 야구선수에게는 어떠한 감정도 없으며 이 모든 것은 픽션이고 날조입니다. 포타적 허용 부탁드려요... 텍스트 11..."
 },
 {
@@ -16507,7 +16495,7 @@ export const shongBinData = [{
     views: 4000,
     price: 0,
     likes: 337,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "https://posty.pe/rjhbmy 미지근 세상이 한 번 기우뚱한 이야기 https://posty.pe/w6trs8 이어서. 짧음. 0P 성인..."
 },
 {
@@ -18343,7 +18331,7 @@ export const shongBinData = [{
     views: 3900,
     price: 0,
     likes: 306,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "** 이어집니다 ** 뺏기지 않게 조심해 신혼부부대출 대상자 확장 제안의 건 숑넨 블루 리본 9개나 단 식당은 무릇 그에 따른 이유가 있는 법이다...."
 },
 {
@@ -19329,18 +19317,6 @@ export const shongBinData = [{
     likes: 289,
     "category": "novel",
     "summary": "*소재 때문에 성인 유부녀라서 좋아한 게 아니라 좋아하고 보니 유부녀였다고 변명한다면 너무 치졸한 짓일까? \"가오 빠진다.\" \"뭐.\" \"그냥 페티쉬가 있는 거야 넌.\" 성찬에게 담..."
-},
-{
-    "url": "https://www.postype.com/@sarahda/post/20834031",
-    "title": "모아봐요 동물의 삔 5",
-    "author": "sarah",
-    "date": "2026. 1. 16.",
-    "is_adult": "False",
-    views: 2900,
-    price: 500,
-    likes: 288,
-    "category": "webtoon",
-    "summary": "안냥하세요 동물의 삔 주민여러분 벌써 동물의 삔5 이고 완전 오랜만이네용🙈 빽업과 새로운 이야기 쪼금 들어있어용 그럼 삔냥이 삔덕이 토삔이 그리고 개구리아기 와 해삐해삐! 🏠 메뉴..."
 },
 {
     "url": "https://www.postype.com/@la-perruche/post/17711601",
@@ -21715,7 +21691,7 @@ export const shongBinData = [{
     views: 5500,
     price: 300,
     likes: 256,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "그냥 떡만 침... 로코무제한제공사건 장르는로맨스코미디 숑넨 박원빈은 얼굴값을 했다. 그러니까 생긴 대로 산다는 뜻이다. 반도를 뒤흔든 최고의 가..."
 },
 {
@@ -22339,7 +22315,7 @@ export const shongBinData = [{
     views: 3300,
     price: 0,
     likes: 249,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "https://posty.pe/ntwg1p 미지근 세상이 다 뒤집힌 이야기 https://posty.pe/a6sbxg 이 글에서 이어짐. 성찬으로서..."
 },
 {
@@ -23683,7 +23659,7 @@ export const shongBinData = [{
     views: 3600,
     price: 0,
     likes: 235,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "https://posty.pe/w6trs8 미지근 세상이 다 뒤집어져 버린 이야기 https://posty.pe/ntwg1p 이 글에서 이어짐. 진짜..."
 },
 {
@@ -26959,7 +26935,7 @@ export const shongBinData = [{
     views: 12000,
     price: 500,
     likes: 200,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "* 개적폐 소재 주의 아무것도 모르는 모질 삐냐이 주워서 자기 입맛대로 가르치는 숑집사 보고싶다... 냥줍 초반에는 침대 밑에 들어가서 절대 안 나오고 숑이 자기한테 손 뻗기만 해..."
 },
 {
@@ -35747,18 +35723,6 @@ export const shongBinData = [{
     "summary": "\"원빈.\" \"왜요.\" \"너한테 키스 한 번만 해봐도 돼?\" 입술이 굳었다. 말이 안 나왔다. 박원빈은 그 짧은 입맞춤 하나를 두고 머릿속에서 얼마나 많은 생각을 굴렸는데, 정성찬은..."
 },
 {
-    "url": "https://www.postype.com/@sungbin18/post/18243692",
-    "title": "[심즈 숑넨] 2",
-    "author": "NYANG 냥",
-    "date": "2024. 12. 17.",
-    "is_adult": "True",
-    views: 7200,
-    price: 800,
-    likes: 130,
-    "category": "webtoon",
-    "summary": "X (트위터)에 심즈 숑넨 링크 공유 마니 해주세요 ..! 수위가 좀 높아서 결제 걸어놓습니다.. 텍스트 20 자 공백 제외 이미지 3 장"
-},
-{
     "url": "https://www.postype.com/@comehithereye/post/17206555",
     "title": "티피컬 메리드 라이프 - g. 양심",
     "author": "도로시",
@@ -38039,18 +38003,6 @@ export const shongBinData = [{
     "summary": "폭력 및 선정적 요소가 다수 포함되어 있어 성인글로 발행하오니 주의 부탁드립니다. 새벽이 오면 구원을 얻으리라 빛이 떠오르는 새벽을 향해 우리는 긴 어둠을 쉼없이 걸으리라 ····..."
 },
 {
-    "url": "https://www.postype.com/@sungbin18/post/18193997",
-    "title": "[심즈 숑넨] 1",
-    "author": "NYANG 냥",
-    "date": "2024. 12. 10.",
-    "is_adult": "False",
-    views: 4800,
-    price: 0,
-    likes: 112,
-    "category": "webtoon",
-    "summary": "살짝 15금 후방주의 움짤주의 고수위는 다음에..."
-},
-{
     "url": "https://www.postype.com/@beenoo/post/16598337",
     "title": "츄르",
     "author": "비누",
@@ -38867,18 +38819,6 @@ export const shongBinData = [{
     "summary": ""
 },
 {
-    "url": "https://www.postype.com/@sungbin18/post/18403310",
-    "title": "[심즈 숑넨] 4",
-    "author": "NYANG 냥",
-    "date": "2025. 1. 6.",
-    "is_adult": "True",
-    views: 5900,
-    price: 800,
-    likes: 106,
-    "category": "webtoon",
-    "summary": "호텔 샤워가운 입니다.. (머쓱) 수위 높아요 혼자 몰래 보시길.. 이미지 5 장 이미지 5 장 800 P"
-},
-{
     "url": "https://www.postype.com/@ccount/post/17936149",
     "title": "로우앤스윗 5",
     "author": "코넛",
@@ -39477,18 +39417,6 @@ export const shongBinData = [{
     likes: 102,
     "category": "webtoon",
     "summary": "안녕하세요 노링입니다 (*^^*) 숑넨웹진으로 작업했던 <평행선>을 포타에 백업 하면서... 최근에 바빠서 전혀 활동을 못하고 있기는 하지만 저는 여전히 팀숑넨이라는 점 전해드립니..."
-},
-{
-    "url": "https://www.postype.com/@sungbin18/post/18314369",
-    "title": "[심즈 숑넨] 3",
-    "author": "NYANG 냥",
-    "date": "2024. 12. 27.",
-    "is_adult": "True",
-    views: 5600,
-    price: 800,
-    likes: 102,
-    "category": "webtoon",
-    "summary": "X (트위터)에 심즈 숑넨 링크 공유 마니 해주세요..! 수위가 좀 높습니다 주의... 이미지 4 장 이미지 4 장 800 P"
 },
 {
     "url": "https://www.postype.com/@mari-ee/post/18080141",
@@ -41839,7 +41767,7 @@ export const shongBinData = [{
     views: 1400,
     price: 1000,
     likes: 87,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "용주 @JUminiYONGsisul • 9분 ... 답글 264개 인용 1.7만 ❤️ 3.1만 북마크 2.6만 XX @xxxx_xxxx • 8분 임자있으면서 너 뭐하는데. 사궈줄것..."
 },
 {
@@ -44083,7 +44011,7 @@ export const shongBinData = [{
     views: 1100,
     price: 1000,
     likes: 75,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "mycatbbin AU 환연 | 뉴시즌 온다 익명 정신병의 계절 시작이구만 ^_^ 제발 진심으로 울애들만 나왓으면 댓글 익명1 이걸 왜 또처해 ㅅㅂ ㄴ 익명2 볼거잖아 ㄴ 익명1 ..."
 },
 {
@@ -44829,18 +44757,6 @@ export const shongBinData = [{
     likes: 71,
     "category": "novel",
     "summary": "센x연 소재주의(폭력성) \"바다는 언제 와도 좋네.\" \"네.\" 원빈이 차갑게 언 손을 주무르며 중얼거린다. 혼잣말보다 작은 소리였어도 그 옆에 앉아 있는 성찬에게 닿기는 충분했다...."
-},
-{
-    "url": "https://www.postype.com/@sungbin18/post/18507958",
-    "title": "[심즈 숑넨] 5",
-    "author": "NYANG 냥",
-    "date": "2025. 1. 19.",
-    "is_adult": "True",
-    views: 3800,
-    price: 800,
-    likes: 71,
-    "category": "webtoon",
-    "summary": "고양이 비니를 씌우고 싶다는 욕망으로 만들었습니다 🐈‍⬛ 수위 주의 바랍니다.. 이미지 5 장 이미지 5 장 800 P"
 },
 {
     "url": "https://www.postype.com/@hev-scwb/post/18306978",
@@ -46003,7 +45919,7 @@ export const shongBinData = [{
     views: 2900,
     price: 0,
     likes: 64,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "원작 https://posty.pe/01fefe 정아나X박대위 PIN 2024. 9. 24. · ABYSS 취급주의 1 숑넨 / 파손의 우려가 있습니다. 하아, 하아... 원빈의 ..."
 },
 {
@@ -47143,7 +47059,7 @@ export const shongBinData = [{
     views: 1300,
     price: 300,
     likes: 57,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "[환승연애 4] 성찬X원빈 과거 서사 모음zip 🔥 텍스트 24 자 공백 제외 링크 1 개 이미지 22 장"
 },
 {
@@ -47359,7 +47275,7 @@ export const shongBinData = [{
     views: 1100,
     price: 0,
     likes: 56,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "그냥 날려쓴거라 뒷내용 생각도 안하고 있었는데 반응이 너무 좋아서 울면서 후속작 낋여옴요....기대에 부응할 수 있길..... 🥺 1편: https://www.postype.com..."
 },
 {
@@ -47685,18 +47601,6 @@ export const shongBinData = [{
     likes: 54,
     "category": "novel",
     "summary": "1화: https://posty.pe/dv3m26 “원빈아.” “너 무슨 얘기 들었니?” 아직 안 끝났어. 누가 그리 귀에다 속삭이는 것 같았다. 남자 조심하세요 자신을 바라보는 ..."
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/19886512",
-    "title": "5.송도",
-    "author": "심즈넨",
-    "date": "2025. 7. 10.",
-    "is_adult": "True",
-    views: 3200,
-    price: 0,
-    likes: 54,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 송도신도..."
 },
 {
     "url": "https://www.postype.com/@scwb-possible/post/19775105",
@@ -48107,18 +48011,6 @@ export const shongBinData = [{
     "summary": "야해서(제 기준 … 이라 아닐 수도 … ?) 잠시 동안만 무료로 올려둘게요! 봐주시는 분들, 하트, 댓글도 모두 감사합니다🙇🏻‍♀️❤️ 사랑은 나중에 할까요 10 아침에 눈을 떴을..."
 },
 {
-    "url": "https://www.postype.com/@sungbin18/post/19001474",
-    "title": "[심즈 숑넨] 7♨️",
-    "author": "NYANG 냥",
-    "date": "2025. 3. 16.",
-    "is_adult": "True",
-    views: 3500,
-    price: 800,
-    likes: 52,
-    "category": "webtoon",
-    "summary": "X (트위터)에 심즈 숑넨 링크 공유 많이 많이 해주시면 감사하겠습니다..! 후끈..//♨️♨️ 이미지 5 장 이미지 5 장 800 P"
-},
-{
     "url": "https://www.postype.com/@kkamgonull/post/17832983",
     "title": "뭔가보고싶은거..",
     "author": "선지",
@@ -48309,18 +48201,6 @@ export const shongBinData = [{
     likes: 51,
     "category": "novel",
     "summary": "텍스트 11,080 자 공백 제외 링크 2 개 이미지 2 장"
-},
-{
-    "url": "https://www.postype.com/@bbinibb020302/post/19113949",
-    "title": "삔녀",
-    "author": "니닌",
-    "date": "2025. 3. 28.",
-    "is_adult": "False",
-    views: 2100,
-    price: 0,
-    likes: 51,
-    "category": "webtoon",
-    "summary": "삔녀가 ㄴㅁㄴㅁ 좋아서 만듦 삔녀 얘기해 주는 사람이 많았으면 좋겠음... 니가 내 김태희고... 전지현이고... 유혜주 남편 됨"
 },
 {
     "url": "https://www.postype.com/@onionlake/post/18749077",
@@ -48681,18 +48561,6 @@ export const shongBinData = [{
     likes: 49,
     "category": "novel",
     "summary": "*뇨테로 주의 *글이 전체적으로 빻았음... *3p 주의 ( https://posty.pe/umpm49 ) 이 글과 이어집니다. 텍스트 4,906 자 공백 제외"
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/19614336",
-    "title": "1.판교",
-    "author": "심즈넨",
-    "date": "2025. 6. 6.",
-    "is_adult": "True",
-    views: 3400,
-    price: 0,
-    likes: 49,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 숑넨을 ..."
 },
 {
     "url": "https://www.postype.com/@loveoftofu/post/19613608",
@@ -49519,7 +49387,7 @@ export const shongBinData = [{
     views: 3400,
     price: 700,
     likes: 45,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "수위 높음 주의 (소재주의) / 몹넨 돌림빵 주의 몹넨 돌림빵 숑넨 야외플(전철, 역 화장실) 강간 결장 가슴애무 핑거링 스마트폰촬영 수치플 펠라 바이브레이터 방관플 미약 최음제..."
 },
 {
@@ -49641,18 +49509,6 @@ export const shongBinData = [{
     likes: 44,
     "category": "novel",
     "summary": "맨날 혼자 손가락으로만 자위하던 원빈의 알고리즘에 딜도 광고가 떴으면 좋겠다. 한 두번도 아니고 계-속. 아니 난 남자인데 왜 계속 이게 뜨는 거야… 밤에 내 신음 몰래 듣나..?..."
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/20196377",
-    "title": "9.용인",
-    "author": "심즈넨",
-    "date": "2025. 8. 20.",
-    "is_adult": "True",
-    views: 3900,
-    price: 0,
-    likes: 44,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
 },
 {
     "url": "https://www.postype.com/@room22/post/19882895",
@@ -49915,7 +49771,7 @@ export const shongBinData = [{
     views: 814,
     price: 0,
     likes: 43,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "천사와 악마. 평행을 유지해야 할 두 존재가 처음으로 서로를 인식하게 되고 운명의 틈에서부터 균열이 시작되었다. 신성한 질서를 져버릴 만큼 강한 이끌림에 의해 악마의 손에 목을 맡..."
 },
 {
@@ -50375,18 +50231,6 @@ export const shongBinData = [{
     "summary": "3개월 넘게 준비한 프로젝트를 뺏겼다. 나이가 비슷해 그나마 믿고 의지했던 동료에게. 이 대리는 주어진 일에 최선을 다하는 타입은 아니었다. 덜하진 않지만, 적당히 노력하고 넘어갈..."
 },
 {
-    "url": "https://www.postype.com/@simsnen/post/20693506",
-    "title": "15.고양",
-    "author": "심즈넨",
-    "date": "2025. 10. 21.",
-    "is_adult": "True",
-    views: 3000,
-    price: 0,
-    likes: 41,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-},
-{
     "url": "https://www.postype.com/@innocentloverz/post/20110908",
     "title": "릴레이 라방 (上)",
     "author": "뺘",
@@ -50409,18 +50253,6 @@ export const shongBinData = [{
     likes: 41,
     "category": "novel",
     "summary": "약 두 달 전 새벽녘, 아직 불 켜진 가로등 사이 아침 해를 등지고 걷던 명회의 그림자에 사람 하나가 겹쳤다. 오늘따라 유난히 인적 드문 길가— 의도적으로 기척을 죽이며 자신의 뒤..."
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/20045057",
-    "title": "7.시흥",
-    "author": "심즈넨",
-    "date": "2025. 7. 30.",
-    "is_adult": "True",
-    views: 2500,
-    price: 0,
-    likes: 41,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 이 초글..."
 },
 {
     "url": "https://www.postype.com/@eunsyong01/post/19912388",
@@ -51177,18 +51009,6 @@ export const shongBinData = [{
     likes: 38,
     "category": "novel",
     "summary": "텍스트 7,121 자 공백 제외"
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/19674528",
-    "title": "2.동탄",
-    "author": "심즈넨",
-    "date": "2025. 6. 14.",
-    "is_adult": "True",
-    views: 2800,
-    price: 0,
-    likes: 38,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 박과의 ..."
 },
 {
     "url": "https://www.postype.com/@kkamgonull/post/19135095",
@@ -52135,7 +51955,7 @@ export const shongBinData = [{
     views: 735,
     price: 0,
     likes: 34,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "본편 링크: https://posty.pe/bf4n4l 주민이용시설 환승연애B 1 숑넨 순정(밴드)/논란 및 사건 사고 최근 수정 시각: 2..."
 },
 {
@@ -52223,18 +52043,6 @@ export const shongBinData = [{
     "summary": "컴컨 이미지 1 장 이미지 1 장 700 P"
 },
 {
-    "url": "https://www.postype.com/@simsnen/post/20332723",
-    "title": "10.하남",
-    "author": "심즈넨",
-    "date": "2025. 8. 31.",
-    "is_adult": "True",
-    views: 3200,
-    price: 0,
-    likes: 34,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
-},
-{
     "url": "https://www.postype.com/@selflv/post/19944750",
     "title": "보건이랑 체육으로.. 계속 사랑할 수 있을까.",
     "author": "후허하핳",
@@ -52257,18 +52065,6 @@ export const shongBinData = [{
     likes: 34,
     "category": "novel",
     "summary": "쓰고보니빻았네요 삼각?이됐습니다.. 수인물 이번편은숑넨돌넨골고루있어요 관계및살짝강압적인대딸?있습니다 원빈이 처음으로 은석의 바지에 손을 댄 날 은석은 원빈의 손에서 사정했다. 그러..."
-},
-{
-    "url": "https://www.postype.com/@sungbin18/post/19406526",
-    "title": "[심즈 숑넨] 8",
-    "author": "NYANG 냥",
-    "date": "2025. 5. 9.",
-    "is_adult": "True",
-    views: 3200,
-    price: 800,
-    likes: 34,
-    "category": "webtoon",
-    "summary": "X (트위터)에 심즈 숑넨 링크 공유 많이 해주세요..! https://posty.pe/90un5y 수위 주의..❤️‍🔥 이미지 5 장 이미지 5 장 800 P"
 },
 {
     "url": "https://www.postype.com/@kkamgonull/post/19167231",
@@ -52461,18 +52257,6 @@ export const shongBinData = [{
     likes: 33,
     "category": "webtoon",
     "summary": ""
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/19809125",
-    "title": "4.안산",
-    "author": "심즈넨",
-    "date": "2025. 6. 30.",
-    "is_adult": "True",
-    views: 2400,
-    price: 0,
-    likes: 33,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 외국인 ..."
 },
 {
     "url": "https://www.postype.com/@scwb-possible/post/19775110",
@@ -52677,18 +52461,6 @@ export const shongBinData = [{
     likes: 32,
     "category": "novel",
     "summary": "내일 수정해서 유료로 재업하께욤.. *가족관계 픽션입니다!! 집안 막내 성찬이랑 새댁 삔녀 보고싶당.. 첫 추석이라고 귀엽게 한복 맞춰입고 인사드림 엄마아빠 저 왔어요~ 하는 성찬..."
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/20469772",
-    "title": "12.군포",
-    "author": "심즈넨",
-    "date": "2025. 9. 20.",
-    "is_adult": "True",
-    views: 2500,
-    price: 0,
-    likes: 32,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
 },
 {
     "url": "https://www.postype.com/@ddorijini/post/20395248",
@@ -52919,18 +52691,6 @@ export const shongBinData = [{
     "summary": "귀하께서 지금부터 읽으실 내용은 23319년에 발견 된 최초의 보고서이자 인류 최후의 마지막 보고서인 { Łµ-ℳï-ñå ℰ-§µ-ℛï | ℟ħø-ℳ∆ñ-ζℯ' §ø-§µ-ℒø }..."
 },
 {
-    "url": "https://www.postype.com/@simsnen/post/21461679",
-    "title": "25.안양",
-    "author": "심즈넨",
-    "date": "2026. 1. 30.",
-    "is_adult": "True",
-    views: 1700,
-    price: 0,
-    likes: 31,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※25~..."
-},
-{
     "url": "https://www.postype.com/@lemonsn0102/post/20766537",
     "title": "Seoul affair 소장본 수록 외전 미리보기",
     "author": "레몬",
@@ -52965,18 +52725,6 @@ export const shongBinData = [{
     likes: 31,
     "category": "novel",
     "summary": "텍스트 5,278 자 공백 제외"
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/19715474",
-    "title": "3.포천",
-    "author": "심즈넨",
-    "date": "2025. 6. 22.",
-    "is_adult": "True",
-    views: 2800,
-    price: 0,
-    likes: 31,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 마음껏 ..."
 },
 {
     "url": "https://www.postype.com/@loveroommm/post/19158546",
@@ -53375,18 +53123,6 @@ export const shongBinData = [{
     "summary": "*여성기 워딩 있습니다. 주의해 주세요. 실존 인물과는 전혀 상관없는 글입니다. 스크롤 드르륵 드르륵. 인터넷에서 게이 백과사전을 보던 새끼 게이 박원빈은 푹 한숨을 쉬었다. 뭐랄..."
 },
 {
-    "url": "https://www.postype.com/@redbeen/post/17775252",
-    "title": "숑넨 쿠션키링 나눔 안내",
-    "author": "붕붕",
-    "date": "2024. 10. 8.",
-    "is_adult": "False",
-    views: 623,
-    price: 0,
-    likes: 30,
-    "category": "webtoon",
-    "summary": "안녕하세요? 쿠션키링 나눔 안내 드립니다. 배송 예정일 : 10월22일 사이즈 : 가로 10 세로 7 (cm) 폼 오픈일 : 10월 11일 (금) 22시 폼 : https://wi..."
-},
-{
     "url": "https://www.postype.com/@wobblingmoon/post/17735001",
     "title": "love puzzle 外",
     "author": "우주",
@@ -53663,18 +53399,6 @@ export const shongBinData = [{
     "summary": "고양이수인ㅠㅠ 근데 날카로운 눈은 아니고 눈꼬리 순하게 처져서 반짝반짝 빛나는 눈으로 맨날 주잉쳐다봄 말랑말랑하고 도톰한 입술이랑 다르게 키스하면 까끌거리는 혀 텍스트 1,118 ..."
 },
 {
-    "url": "https://www.postype.com/@simsnen/post/20134823",
-    "title": "8.안성",
-    "author": "심즈넨",
-    "date": "2025. 8. 10.",
-    "is_adult": "True",
-    views: 2500,
-    price: 0,
-    likes: 29,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 안성의 ..."
-},
-{
     "url": "https://www.postype.com/@case23/post/20070764",
     "title": "숑넨 S라인 썰",
     "author": "case",
@@ -53719,7 +53443,7 @@ export const shongBinData = [{
     views: 496,
     price: 0,
     likes: 29,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "최근 회차: https://www.postype.com/@selflv/post/19944750 self-lv 보건이랑 체육으로.. 계속 사랑할 ..."
 },
 {
@@ -54165,18 +53889,6 @@ export const shongBinData = [{
     likes: 28,
     "category": "webtoon",
     "summary": "소장본 수록 외전 미리보기: https://posty.pe/56djy8 파도의 맥박 Seoul affair 소장본 수록 외전 미리보기 Spin of..."
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/20543010",
-    "title": "13.광교",
-    "author": "심즈넨",
-    "date": "2025. 9. 30.",
-    "is_adult": "True",
-    views: 2200,
-    price: 0,
-    likes: 28,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
 },
 {
     "url": "https://www.postype.com/@kkamgonull/post/20284364",
@@ -54707,18 +54419,6 @@ export const shongBinData = [{
     "summary": "사진참고"
 },
 {
-    "url": "https://www.postype.com/@simsnen/post/19971312",
-    "title": "6.김포",
-    "author": "심즈넨",
-    "date": "2025. 7. 21.",
-    "is_adult": "True",
-    views: 2400,
-    price: 0,
-    likes: 27,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 오사카에..."
-},
-{
     "url": "https://www.postype.com/@room22/post/19945596",
     "title": "저를 괴롭히는 일진... 어떡할까요",
     "author": "세입자",
@@ -55219,7 +54919,7 @@ export const shongBinData = [{
     views: 541,
     price: 0,
     likes: 26,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "보건X체육 외전입니다! 이전꺼 안 읽어도 무방하지만 읽으면 더 재밌을수도.. 🙄 보건X체육 1화: https://www.postype.com/@selflv/post/19608008..."
 },
 {
@@ -55629,18 +55329,6 @@ export const shongBinData = [{
     likes: 25,
     "category": "novel",
     "summary": "주차장에 막 들어선 정성찬은 휴대폰 알림을 확인하자 잠시 걸음을 멈췄다. 발신인은 박원빈. 방금 전까지도 그를 현관 앞까지 배웅하던 남자친구였다. 졸음에 젖은 눈을 비비며 문틈으로..."
-},
-{
-    "url": "https://www.postype.com/@bbinibb020302/post/19247712",
-    "title": "삔녀 +++",
-    "author": "니닌",
-    "date": "2025. 4. 16.",
-    "is_adult": "False",
-    views: 1000,
-    price: 0,
-    likes: 25,
-    "category": "webtoon",
-    "summary": "아 이 말더듬이 미소녀에게 황금 사과를... 내 페르세포네 아프로디테 프시케 헬레네 아르테미스"
 },
 {
     "url": "https://www.postype.com/@today778/post/19026160",
@@ -56087,18 +55775,6 @@ export const shongBinData = [{
     "summary": "박히면서 오나홀 쓰는 거 보고 싶다. 진동하고 귀두 부분은 빙글빙글 돌아가는 오나홀. 가만히 자극 받는 것도 힘들 텐데, 뒤에서 전립선 노려서 박아주면 눈 까뒤집고 신음도 못지른채..."
 },
 {
-    "url": "https://www.postype.com/@bbinibb020302/post/19131038",
-    "title": "삔녀 +",
-    "author": "니닌",
-    "date": "2025. 3. 30.",
-    "is_adult": "False",
-    views: 969,
-    price: 0,
-    likes: 24,
-    "category": "webtoon",
-    "summary": "미소녀 무한제공"
-},
-{
     "url": "https://www.postype.com/@case23/post/18964684",
     "title": "원빈인더트랩 2",
     "author": "case",
@@ -56399,18 +56075,6 @@ export const shongBinData = [{
     "summary": "영원즈 형들에게 박히는 삐니..😊🔞 미리보기 *트레틀 사용 이미지 1 장 이미지 1 장 900 P"
 },
 {
-    "url": "https://www.postype.com/@simsnen/post/21546530",
-    "title": "26.이천",
-    "author": "심즈넨",
-    "date": "2026. 2. 9.",
-    "is_adult": "True",
-    views: 1500,
-    price: 0,
-    likes: 23,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※25~..."
-},
-{
     "url": "https://www.postype.com/@bbybyo/post/21332134",
     "title": "알파와 오메가! 中",
     "author": "뾰뵤",
@@ -56443,7 +56107,7 @@ export const shongBinData = [{
     views: 1100,
     price: 300,
     likes: 23,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "구독자 300명 감사합니다 (- -)( _ _ ) 임신 선배라고 은석이 알뜰살뜰 챙기는 원빈이 보고픔 여전히 깨 쏟아지는 톤석부부도 ♡ 텍스트 2,452 자 공백 제외 이미지 3 ..."
 },
 {
@@ -56843,18 +56507,6 @@ export const shongBinData = [{
     "summary": "*소재주의 토끼가 내내 쌉니다ㅠㅠ 토끼 박원빈은 성찬이 무섭다. 무섭다고 해서 사랑하지 않는 건 아니다. 그냥. 아니 형이 시도 때도 없이 붙어올 때가 무섭다. 이, 이 형 무서워..."
 },
 {
-    "url": "https://www.postype.com/@simsnen/post/22292463",
-    "title": "[完]32.과천",
-    "author": "심즈넨",
-    "date": "2026. 6. 8.",
-    "is_adult": "True",
-    views: 1200,
-    price: 0,
-    likes: 22,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-},
-{
     "url": "https://www.postype.com/@siruoo/post/21823423",
     "title": "파편의 계절 1",
     "author": "시루",
@@ -56913,18 +56565,6 @@ export const shongBinData = [{
     likes: 22,
     "category": "novel",
     "summary": "Side 1 원빈은 아직도 성찬을 처음 본 날을 잊지 못한다. 당시에는 유학 온 지 얼마 되지도 않아서 낯선 땅에 영어는 어눌하지, 날씨는 적응 안 되지... 짜증투성이였다. 캘리..."
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/20404306",
-    "title": "11.부천",
-    "author": "심즈넨",
-    "date": "2025. 9. 10.",
-    "is_adult": "True",
-    views: 2600,
-    price: 0,
-    likes: 22,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
 },
 {
     "url": "https://www.postype.com/@case23/post/19883677",
@@ -57491,18 +57131,6 @@ export const shongBinData = [{
     "summary": "놀란 원빈이 숨을 들이켜자 절로 상체가 곧게 펴졌다. 목덜미부터 척추를 따라 내려오는 손길은 부드러운 피부 위로 흰빛을 남겼다. “아, 저.” 원빈이 난감한 기색으로 성찬을 바라봤..."
 },
 {
-    "url": "https://www.postype.com/@bbinibb020302/post/19156388",
-    "title": "삔녀 ++",
-    "author": "니닌",
-    "date": "2025. 4. 3.",
-    "is_adult": "False",
-    views: 1300,
-    price: 0,
-    likes: 21,
-    "category": "webtoon",
-    "summary": "예쁜 게 죄야 돌녀랑 사귀면 좋겠다💕"
-},
-{
     "url": "https://www.postype.com/@today778/post/19134647",
     "title": "어플만남하다 좆된 삔 01",
     "author": "양파나물",
@@ -57923,18 +57551,6 @@ export const shongBinData = [{
     "summary": "깜고누르기 ntr 톤넨->숑넨 소재주의...... 대충 휘갈긴겁니다.. 퀄낮음 하 뭔가 박원빈은 별생각없는데 이찬영이 주도했을거같지.... 원래 여..."
 },
 {
-    "url": "https://www.postype.com/@simsnen/post/21879730",
-    "title": "30.양평",
-    "author": "심즈넨",
-    "date": "2026. 5. 23.",
-    "is_adult": "True",
-    views: 877,
-    price: 0,
-    likes: 20,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-},
-{
     "url": "https://www.postype.com/@siruoo/post/21871435",
     "title": "파편의 계절 8 (完)",
     "author": "시루",
@@ -58017,30 +57633,6 @@ export const shongBinData = [{
     likes: 20,
     "category": "novel",
     "summary": "* 소재주의 메이드복이 사라졌다. 분명 옷장에 구김 하나 없이 정리해 넣어두었는데.. 룸메이트 알렉에게 물어도 자긴 모른다며 고개를 저어댄다. 되려 자신을 의심하냐며 추궁해 미안하..."
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/20765984",
-    "title": "16.의정부",
-    "author": "심즈넨",
-    "date": "2025. 10. 31.",
-    "is_adult": "True",
-    views: 1900,
-    price: 0,
-    likes: 20,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/20612842",
-    "title": "14.남양주",
-    "author": "심즈넨",
-    "date": "2025. 10. 10.",
-    "is_adult": "True",
-    views: 1900,
-    price: 0,
-    likes: 20,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
 },
 {
     "url": "https://www.postype.com/@kkamgonull/post/20429208",
@@ -59507,18 +59099,6 @@ export const shongBinData = [{
     "summary": "4화. 얼룩 커튼 틈을 비집고 들어온 새벽은 무거웠다. 얇은 빛줄기가 방 안의 눅눅한 습기 위로 길게 선을 그었다. 원빈은 땀에 절은 시트 위로 몸을 한껏 둥글게 말았다. 밭은 숨..."
 },
 {
-    "url": "https://www.postype.com/@simsnen/post/21727226",
-    "title": "28.양주",
-    "author": "심즈넨",
-    "date": "2026. 3. 1.",
-    "is_adult": "True",
-    views: 1300,
-    price: 0,
-    likes: 17,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-},
-{
     "url": "https://www.postype.com/@twelvebeforeone/post/21690050",
     "title": "春夢 (춘몽) 01",
     "author": "한시",
@@ -59575,7 +59155,7 @@ export const shongBinData = [{
     views: 1000,
     price: 100,
     likes: 17,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "숑넨녀(ts) 빻음..... 기존 글과 같은 설정 썰 없음 인스타 스토리, 디엠 사진만 있음 기존 글 안 봐주셔도 괜찮음!!!! 주의!!!!! siso 2026. 1. 10. · ..."
 },
 {
@@ -60835,20 +60415,8 @@ export const shongBinData = [{
     views: 775,
     price: 400,
     likes: 15,
-    "category": "webtoon",
-    "summary": "시오후키주의 상: https://posty.pe/r6457k 87 2026. 3. 8. · 56 그동생의사생활 상 숑넨 유두얘기 선녀강림체위 많음..ㄱㅊ은신분만 성찬이가 좀쓰레기오..."
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/21819083",
-    "title": "29.의왕",
-    "author": "심즈넨",
-    "date": "2026. 3. 12.",
-    "is_adult": "True",
-    views: 1800,
-    price: 0,
-    likes: 15,
     "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
+    "summary": "시오후키주의 상: https://posty.pe/r6457k 87 2026. 3. 8. · 56 그동생의사생활 상 숑넨 유두얘기 선녀강림체위 많음..ㄱㅊ은신분만 성찬이가 좀쓰레기오..."
 },
 {
     "url": "https://www.postype.com/@utterly-atyourservice/post/21754316",
@@ -60943,7 +60511,7 @@ export const shongBinData = [{
     views: 380,
     price: 0,
     likes: 15,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "1.성 아그네스데이 2.번따 3.전화하자 4.나 데리러 와 5.얼른 자 "
 },
 {
@@ -61005,18 +60573,6 @@ export const shongBinData = [{
     likes: 15,
     "category": "novel",
     "summary": "☀️ 초여름의 산 공기는 습기 없이 맑고 선선했다. 팀장이 억지로 기획한 ‘단합을 위한 사내 등산’이었지만, 박원빈에게는 나쁘지 않았다. 이유는 단 하나. 정성찬이 함께였기 때문이..."
-},
-{
-    "url": "https://www.postype.com/@simsnen/post/19696271",
-    "title": "19금영상 업로드용 트위터 계정공유",
-    "author": "심즈넨",
-    "date": "2025. 6. 16.",
-    "is_adult": "True",
-    views: 7200,
-    price: 0,
-    likes: 15,
-    "category": "novel",
-    "summary": "텍스트 322 자 공백 제외 링크 1 개 이미지 1 장"
 },
 {
     "url": "https://www.postype.com/@eowkddk/post/19667041",
@@ -61447,7 +61003,7 @@ export const shongBinData = [{
     views: 577,
     price: 600,
     likes: 14,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 등장인물 커플 전원 성인!! 빻음..... 스핀 리퀘 받아서 씀 짭근 남매로도 어떠세요...💕 | SpinSpin 리퀘박스 siso 스핀스핀 리퀘박스 기존 글이..."
 },
 {
@@ -61471,7 +61027,7 @@ export const shongBinData = [{
     views: 829,
     price: 600,
     likes: 14,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 스핀 리퀘 받아서 씀 거유 더 써주실수있으신가요...🙄🙄 | SpinSpin 리퀘박스 siso 스핀스핀 리퀘박스 기존 글이랑 제목만 같고 내용은 ..."
 },
 {
@@ -62011,7 +61567,7 @@ export const shongBinData = [{
     views: 199,
     price: 100,
     likes: 13,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "숑넨녀(ts) 빻음..... 스핀 리퀘 받아서 씀 기존 글이랑 제목만 같고 내용은 다른 글! 이어지는 시리즈 글 아님!!! 주의!!!!! siso 2026. 8. 28. · 궁전 ..."
 },
 {
@@ -63031,7 +62587,7 @@ export const shongBinData = [{
     views: 602,
     price: 300,
     likes: 12,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "1편부터 보시고 읽어주세요 놀라실지도 몰라요 https://posty.pe/7gid99 뾰뵤의세상 캠퍼스 커플의 속사정 1 숑넨 여성기 소재주의 성..."
 },
 {
@@ -63067,7 +62623,7 @@ export const shongBinData = [{
     views: 730,
     price: 300,
     likes: 12,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "적나라한 워딩 주의, 야망가 대사 주의(전편보다 더 노골적인 묘사와 대사) https://posty.pe/7gid99 뾰뵤의세상 캠퍼스 커플의 속사..."
 },
 {
@@ -63115,7 +62671,7 @@ export const shongBinData = [{
     views: 960,
     price: 600,
     likes: 12,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 등장인물 커플 전원 성인!!!!! 빻음..... 스핀 리퀘 받아서 씀 배뇨플 후속작으로 애기 돌보다가 급꼴려서 애기 앞에서 하는 것(+배뇨플 한번더) 보고싶어용..."
 },
 {
@@ -63835,7 +63391,7 @@ export const shongBinData = [{
     views: 761,
     price: 600,
     likes: 11,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 역대급 빻음 주의!!!! 스핀 리퀘 받아서 씀 기존 글이랑 제목만 같고 내용은 다른 글! 이어지는 시리즈 글 아님!!! 주의!!!!! siso 2..."
 },
 {
@@ -63931,7 +63487,7 @@ export const shongBinData = [{
     views: 470,
     price: 600,
     likes: 11,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 스핀 리퀘 받아서 씀 섹파2도보고시퍼요 1에선 ㅇㅂ이가 썸남 있었으니까 1에선 ㅅㅊㄱ이가 여친 있는걸로!! | SpinSpin 리퀘박스 siso ..."
 },
 {
@@ -63967,7 +63523,7 @@ export const shongBinData = [{
     views: 876,
     price: 600,
     likes: 11,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 역대급 빻음 주의!!!! 스핀 리퀘 받아서 씀 배우아이돌 보구싶어요🫰🫰 더티톡 많앗으면 좋겠아요🤩 | SpinSpin 리퀘박스 siso 스핀스핀 ..."
 },
 {
@@ -64075,7 +63631,7 @@ export const shongBinData = [{
     views: 266,
     price: 0,
     likes: 11,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "몇 달 전에 만들어뒀던 거 발견해서 올리는 거라....지금 보니 그닥 재밌진 않네요🥹🥹 그새 캐해도 살짝 바뀌어서 만약에 3편도 올린다면 느낌이 달라질 것 같긴 합니당 그 점 감안..."
 },
 {
@@ -64955,18 +64511,6 @@ export const shongBinData = [{
     "summary": "이게 원래는 만우절에 올리려고 작년에 써놓은 글인데, 깜빡했어요. 가족 완결편 쓸려고 들어왔다가 발견하고 올립니다. 다른 그룹에 다른 씨피도 있고 엄청 짧은 글이라 그냥 가볍게 봐..."
 },
 {
-    "url": "https://www.postype.com/@simsnen/post/21955877",
-    "title": "31.파주",
-    "author": "심즈넨",
-    "date": "2026. 5. 28.",
-    "is_adult": "True",
-    views: 918,
-    price: 0,
-    likes: 10,
-    "category": "novel",
-    "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-},
-{
     "url": "https://www.postype.com/@homosweethouse/post/21873397",
     "title": "모델",
     "author": "siso",
@@ -65167,7 +64711,7 @@ export const shongBinData = [{
     views: 690,
     price: 600,
     likes: 10,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 기존 글의 반대 설정 으로 리퀘 받아서 씀 이어지는 시리즈 글 아님!!! 주의!!!!! siso 2025. 7. 27. · 궁전 원나잇 썰체 숑넨..."
 },
 {
@@ -66031,7 +65575,7 @@ export const shongBinData = [{
     views: 584,
     price: 600,
     likes: 9,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 스핀 리퀘 받아서 씀 비제이 삔 또보구싶어요 | SpinSpin 리퀘박스 siso 스핀스핀 리퀘박스 기존 글이랑 제목만 같고 내용은 다른 글! 이..."
 },
 {
@@ -66163,7 +65707,7 @@ export const shongBinData = [{
     views: 629,
     price: 300,
     likes: 9,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "꼭 1편 보시고 읽어주세요 놀라실지도 몰라요 https://posty.pe/7gid99 뾰뵤의세상 캠퍼스 커플의 속사정 1 숑넨 여성기 소재주의 성..."
 },
 {
@@ -66331,7 +65875,7 @@ export const shongBinData = [{
     views: 692,
     price: 600,
     likes: 9,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 기존 글이랑 남돌 여돌이라는 설정만 같음 이어지는 시리즈 글 아님!!! 주의!!!!! siso 2025. 8. 1. · 궁전 아이돌 썰체 숑넨녀(..."
 },
 {
@@ -67279,7 +66823,7 @@ export const shongBinData = [{
     views: 702,
     price: 300,
     likes: 8,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "전편 보신 분들만 읽어주세요... https://posty.pe/7gid99 뾰뵤의세상 캠퍼스 커플의 속사정 1 숑넨 여성기 소재주의 성찬이 원빈과..."
 },
 {
@@ -67423,7 +66967,7 @@ export const shongBinData = [{
     views: 605,
     price: 600,
     likes: 8,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 스핀 리퀘 받아서 씀 축선아이돌 보구싶어요 | SpinSpin 리퀘박스 siso 스핀스핀 리퀘박스 기존 글이랑 축선 설정만 같음 이어지는 시리즈 ..."
 },
 {
@@ -68587,7 +68131,7 @@ export const shongBinData = [{
     views: 514,
     price: 600,
     likes: 7,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 스핀 리퀘 받아서 씀 항상 잘 보고있어요🫶🫶야외플 보고싶어용 | SpinSpin 리퀘박스 siso 스핀스핀 리퀘박스 더티톡이랑 합쳐진 것도 보고싶..."
 },
 {
@@ -69751,7 +69295,7 @@ export const shongBinData = [{
     views: 340,
     price: 600,
     likes: 6,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 스핀 리퀘 받아서 씀 카페썰 이어서 휴게실에서 거울플 하는거 보고싶어요☺️ | SpinSpin 리퀘박스 siso 스핀스핀 리퀘박스 기존 글과 같은..."
 },
 {
@@ -69775,7 +69319,7 @@ export const shongBinData = [{
     views: 606,
     price: 300,
     likes: 6,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "전편 보신 분들만 읽어주세요... https://posty.pe/7gid99 뾰뵤의세상 캠퍼스 커플의 속사정 1 숑넨 여성기 소재주의 성찬이 원빈과..."
 },
 {
@@ -71251,7 +70795,7 @@ export const shongBinData = [{
     views: 315,
     price: 600,
     likes: 5,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "썰체 숑넨녀(ts) 빻음..... 스핀 리퀘 받아서 씀 겨드랑이2 써주세오ㅠㅠㅠㅠ제발 ㅠㅠㅠ | SpinSpin 리퀘박스 siso 스핀스핀 리퀘박스 기존 글이랑 제목만 같고 내용은..."
 },
 {
@@ -71263,7 +70807,7 @@ export const shongBinData = [{
     views: 243,
     price: 400,
     likes: 5,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "소재주의 뽕빨 주의 *이런 저런 소재가 있어서 1편을 보고 봐주세요. https://posty.pe/gy4oqf 뾰뵤의세상 4주 완성 치료센터 1 ..."
 },
 {
@@ -71707,7 +71251,7 @@ export const shongBinData = [{
     views: 210,
     price: 0,
     likes: 5,
-    "category": "webtoon",
+    "category": "novel",
     "summary": ""
 },
 {
@@ -72871,7 +72415,7 @@ export const shongBinData = [{
     views: 309,
     price: 400,
     likes: 4,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "소재주의 뽕빨 주의 *이런 저런 소재가 있어서 1편을 보고 봐주세요. https://posty.pe/gy4oqf 뾰뵤의세상 4주 완성 치료센터 1 ..."
 },
 {
@@ -72907,7 +72451,7 @@ export const shongBinData = [{
     views: 620,
     price: 300,
     likes: 4,
-    "category": "webtoon",
+    "category": "novel",
     "summary": "소재랑 워딩때문에 전편 보신 분들만... https://posty.pe/7gid99 뾰뵤의세상 캠퍼스 커플의 속사정 1 숑넨 여성기 소재주의 성찬이..."
 },
 {

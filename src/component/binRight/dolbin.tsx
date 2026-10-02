@@ -2636,7 +2636,7 @@ export const dolBinData = [
         views: 2500,
         price: 200,
         likes: 120,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "오늘의 날씨 일상다반사 돌넨 D-day = 은석 ♡ 원빈 후편 D+1871 어디쯤이야? 나 회사 앞. 알았어. 짧게 대답한 원빈이 전화를 끊..."
     },
     {
@@ -4426,18 +4426,6 @@ export const dolBinData = [
         likes: 51,
         "category": "novel",
         "summary": "꿀벌이 설탕을 먹고 댄스 파트너 돌넨이 회사 장기자랑에서 트러블메이커를 춘 뒤 벌어지는 일 금요일 저녁 벌어진 라이즈컴퍼니 워크숍 뒤풀이에서 사람..."
-    },
-    {
-        "url": "https://www.postype.com/@bbinibb020302/post/19113949",
-        "title": "삔녀",
-        "author": "니닌",
-        "date": "2025. 3. 28.",
-        "is_adult": "False",
-        views: 2100,
-        price: 0,
-        likes: 51,
-        "category": "webtoon",
-        "summary": "삔녀가 ㄴㅁㄴㅁ 좋아서 만듦 삔녀 얘기해 주는 사람이 많았으면 좋겠음... 니가 내 김태희고... 전지현이고... 유혜주 남편 됨"
     },
     {
         "url": "https://www.postype.com/@sunkiissed/post/17843504",
@@ -6312,18 +6300,6 @@ export const dolBinData = [
         "summary": "취급주의 소재 ; 삔뇨타 / 별 내용없음 빻음 텍스트 6,395 자 공백 제외"
     },
     {
-        "url": "https://www.postype.com/@bbinibb020302/post/19247712",
-        "title": "삔녀 +++",
-        "author": "니닌",
-        "date": "2025. 4. 16.",
-        "is_adult": "False",
-        views: 1000,
-        price: 0,
-        likes: 25,
-        "category": "webtoon",
-        "summary": "아 이 말더듬이 미소녀에게 황금 사과를... 내 페르세포네 아프로디테 프시케 헬레네 아르테미스"
-    },
-    {
         "url": "https://www.postype.com/@bbbiniee/post/18805095",
         "title": "집사 라이즈",
         "author": "마루",
@@ -6430,18 +6406,6 @@ export const dolBinData = [
         likes: 24,
         "category": "novel",
         "summary": "박히면서 오나홀 쓰는 거 보고 싶다. 진동하고 귀두 부분은 빙글빙글 돌아가는 오나홀. 가만히 자극 받는 것도 힘들 텐데, 뒤에서 전립선 노려서 박아주면 눈 까뒤집고 신음도 못지른채..."
-    },
-    {
-        "url": "https://www.postype.com/@bbinibb020302/post/19131038",
-        "title": "삔녀 +",
-        "author": "니닌",
-        "date": "2025. 3. 30.",
-        "is_adult": "False",
-        views: 968,
-        price: 0,
-        likes: 24,
-        "category": "webtoon",
-        "summary": "미소녀 무한제공"
     },
     {
         "url": "https://www.postype.com/@bbbiniee/post/18677322",
@@ -6742,18 +6706,6 @@ export const dolBinData = [
         likes: 21,
         "category": "novel",
         "summary": "때늦은 장마가 기승을 부렸다. 알바 시작 전까지는 한 방울도 안 오던 비가 하늘이 뚫린 것처럼 쏟아졌다. 어째 불안하더라니. 비가 오는 것쯤은 나쁘지 않았다만 한 시간쯤 뒤면 퇴근..."
-    },
-    {
-        "url": "https://www.postype.com/@bbinibb020302/post/19156388",
-        "title": "삔녀 ++",
-        "author": "니닌",
-        "date": "2025. 4. 3.",
-        "is_adult": "False",
-        views: 1300,
-        price: 0,
-        likes: 21,
-        "category": "webtoon",
-        "summary": "예쁜 게 죄야 돌녀랑 사귀면 좋겠다💕"
     },
     {
         "url": "https://www.postype.com/@today778/post/19134647",

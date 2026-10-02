@@ -1620,18 +1620,6 @@ export const shoBinData = [
         "summary": "log from x 1 / 2 1 / 2 1 / 3 사사키 X : @babyandtheSEA"
     },
     {
-        "url": "https://www.postype.com/@kkamgonull/post/16105334",
-        "title": "[톤넨] 발정기 온 삔냥이",
-        "author": "선지",
-        "date": "2024. 1. 25.",
-        "is_adult": "True",
-        views: 4800,
-        price: 500,
-        likes: 75,
-        "category": "novel",
-        "summary": "멍톤과 동거하는 깜고 넨 삐니 엄청 어려서 수인인지 그냥 고양이인지도 잘 모를 때 비 오는 골목에서 차녕이가 냥줍한 거였으면 조켓음 흙탕물에 젖은 애기 씻겨주고 드라이기로 보송하게..."
-    },
-    {
         "url": "https://www.postype.com/@umul112532/post/20867710",
         "title": "점심은 사랑을 싣고",
         "author": "우물",
@@ -2132,7 +2120,7 @@ export const shoBinData = [
         views: 2400,
         price: 1000,
         likes: 48,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "‼️ 소재주의: 여성기/컨트보이 ‼️ 썰체 (아래 이미지 참고) 1 / 2 결제하면... 내용이 어떻든 이제부터 나와 함께 하는 겁니다. 요즘엔 성인 걸어도 이런 소재... 싸불 ..."
     },
     {
@@ -2220,18 +2208,6 @@ export const shoBinData = [
         "summary": "여기서 이어지는 망상 라앤리 ep94의 24분 30초를 참고해주세요 "
     },
     {
-        "url": "https://www.postype.com/@simsnen/post/20196377",
-        "title": "9.용인",
-        "author": "심즈넨",
-        "date": "2025. 8. 20.",
-        "is_adult": "True",
-        views: 3900,
-        price: 0,
-        likes: 44,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
-    },
-    {
         "url": "https://www.postype.com/@kkamgonull/post/16030838",
         "title": "뺨 맞고 좋아서 우는 깜고",
         "author": "선지",
@@ -2314,30 +2290,6 @@ export const shoBinData = [
         likes: 41,
         "category": "novel",
         "summary": "종강 이주 앞둔 대학생 박원빈은 요 며칠 알바천사만 뒤졌다. 뭔 근무기간이 죄다 6개월 이상인지. 하릴없는 방학 기간, 딱 3개월만 치고 빠지길 바라는 박원빈을 위한 알바가 없었다..."
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/20693506",
-        "title": "15.고양",
-        "author": "심즈넨",
-        "date": "2025. 10. 21.",
-        "is_adult": "True",
-        views: 3000,
-        price: 0,
-        likes: 41,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/20045057",
-        "title": "7.시흥",
-        "author": "심즈넨",
-        "date": "2025. 7. 30.",
-        "is_adult": "True",
-        views: 2500,
-        price: 0,
-        likes: 41,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 이 초글..."
     },
     {
         "url": "https://www.postype.com/@lostinlov-e/post/22996808",
@@ -2568,18 +2520,6 @@ export const shoBinData = [
         "summary": "쇼타로는 냉미남임. 무느알? 정색할 때 ㄹㅇ 존잘이심. 자 박원빈한테 화난 쇼타로가 어떤 섹스를 해주실지... 드라이절정, 시오후키 주의. 텍스트 2,882 자 공백 제외"
     },
     {
-        "url": "https://www.postype.com/@simsnen/post/20332723",
-        "title": "10.하남",
-        "author": "심즈넨",
-        "date": "2025. 8. 31.",
-        "is_adult": "True",
-        views: 3200,
-        price: 0,
-        likes: 34,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
-    },
-    {
         "url": "https://www.postype.com/@multiuniverse/post/17253114",
         "title": "겨울 밤의 향기",
         "author": "Universe",
@@ -2674,18 +2614,6 @@ export const shoBinData = [
         likes: 32,
         "category": "novel",
         "summary": "BGM. Damien Rice- Cannonball 세상엔 여러 재난이 있다. 우리에게 가까운 걸로 따지면 지진, 태풍, 홍수, 우박, 낙뢰, 전염병, 가뭄, 한파와 폭염 멀리 보..."
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/20469772",
-        "title": "12.군포",
-        "author": "심즈넨",
-        "date": "2025. 9. 20.",
-        "is_adult": "True",
-        views: 2500,
-        price: 0,
-        likes: 32,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@deformation/post/19572886",
@@ -2796,18 +2724,6 @@ export const shoBinData = [
         "summary": "심심해서 색칠도 합..^^ 역시 양키를 벗어날 수 없는.. .. "
     },
     {
-        "url": "https://www.postype.com/@simsnen/post/20134823",
-        "title": "8.안성",
-        "author": "심즈넨",
-        "date": "2025. 8. 10.",
-        "is_adult": "True",
-        views: 2500,
-        price: 0,
-        likes: 29,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 안성의 ..."
-    },
-    {
         "url": "https://www.postype.com/@umul112532/post/19587061",
         "title": "락스타 로맨스 外",
         "author": "우물",
@@ -2842,18 +2758,6 @@ export const shoBinData = [
         likes: 28,
         "category": "webtoon",
         "summary": "그들을 애정합니다 카가미네숕넨 죄송합니다1 작아진다면! 천사넨2"
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/20543010",
-        "title": "13.광교",
-        "author": "심즈넨",
-        "date": "2025. 9. 30.",
-        "is_adult": "True",
-        views: 2200,
-        price: 0,
-        likes: 28,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@multiuniverse/post/20129179",
@@ -2900,7 +2804,7 @@ export const shoBinData = [
         views: 1400,
         price: 500,
         likes: 27,
-        "category": "webtoon",
+        "category": "novel",
         "summary": "소재주의: 컨트보이. 여성기 썰체입니다. 몰라몰라 뇌를 빼고 본능만 남겨둔 글 2편: https://posty.pe/fad4qo 오츠 제목 없음 2편..."
     },
     {
@@ -2914,18 +2818,6 @@ export const shoBinData = [
         likes: 27,
         "category": "novel",
         "summary": "치즈냥이의 이름은 '석이', 표정이 꼭 돌처럼 덤덤하게 굳어있어서 붙여진 이름이었다. 얌전한 듯하지만 호기심이 많고 겁 없이 용감한데 은근히 터프했다. 하지만 쇼타로에게만큼은 애교..."
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/19971312",
-        "title": "6.김포",
-        "author": "심즈넨",
-        "date": "2025. 7. 21.",
-        "is_adult": "True",
-        views: 2400,
-        price: 0,
-        likes: 27,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 오사카에..."
     },
     {
         "url": "https://www.postype.com/@bbbiniee/post/18702227",
@@ -3204,18 +3096,6 @@ export const shoBinData = [
         "summary": ".. "
     },
     {
-        "url": "https://www.postype.com/@simsnen/post/21004770",
-        "title": "19.평택",
-        "author": "심즈넨",
-        "date": "2025. 12. 1.",
-        "is_adult": "True",
-        views: 1600,
-        price: 0,
-        likes: 23,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※19~..."
-    },
-    {
         "url": "https://www.postype.com/@multiuniverse/post/20884172",
         "title": "Overdose",
         "author": "Universe",
@@ -3288,18 +3168,6 @@ export const shoBinData = [
         "summary": "정성찬x이찬영 텍스트 4,521 자 공백 제외"
     },
     {
-        "url": "https://www.postype.com/@simsnen/post/22292463",
-        "title": "[完]32.과천",
-        "author": "심즈넨",
-        "date": "2026. 6. 8.",
-        "is_adult": "True",
-        views: 1200,
-        price: 0,
-        likes: 22,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-    },
-    {
         "url": "https://www.postype.com/@kkamgonull/post/21752468",
         "title": "숕집사와 삔냐이",
         "author": "선지",
@@ -3310,18 +3178,6 @@ export const shoBinData = [
         likes: 22,
         "category": "novel",
         "summary": "짧게.. ㅎ 고양이카페 사장 타로랑 내향고양이 삐니 고양이수인들 한 열명정도 뽑앗는데 이번주에 한명 탈주해서 인원 부족해가지고 자기여친 삐니 몰래델꾸온 타로(이번주에 어린이날이라 ..."
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/20404306",
-        "title": "11.부천",
-        "author": "심즈넨",
-        "date": "2025. 9. 10.",
-        "is_adult": "True",
-        views: 2600,
-        price: 0,
-        likes: 22,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※9~1..."
     },
     {
         "url": "https://www.postype.com/@bbbiniee/post/18101406",
@@ -3408,18 +3264,6 @@ export const shoBinData = [
         "summary": "*본 글의 시대상은 일제강점기였던 1927년으로, 소재주의 차원에서 소액의 금액을 걸게 되었습니다. 또한 등장인물 및 언급된 특정 지명이나 단체명 그리고 전개 내용 모두 허구이며 ..."
     },
     {
-        "url": "https://www.postype.com/@bbinibb020302/post/19156388",
-        "title": "삔녀 ++",
-        "author": "니닌",
-        "date": "2025. 4. 3.",
-        "is_adult": "False",
-        views: 1300,
-        price: 0,
-        likes: 21,
-        "category": "webtoon",
-        "summary": "예쁜 게 죄야 돌녀랑 사귀면 좋겠다💕 "
-    },
-    {
         "url": "https://www.postype.com/@1125otsu0302/post/18940975",
         "title": "WILD CARD_04",
         "author": "오츠",
@@ -3478,54 +3322,6 @@ export const shoBinData = [
         likes: 21,
         "category": "novel",
         "summary": "정성찬x이찬영 텍스트 5,117 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@slowly-st/post/16047366",
-        "title": "Ares’ Love 2",
-        "author": "에스티",
-        "date": "2024. 1. 17.",
-        "is_adult": "False",
-        views: 771,
-        price: 100,
-        likes: 21,
-        "category": "novel",
-        "summary": "정성찬x이찬영 텍스트 6,511 자 공백 제외"
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/21879730",
-        "title": "30.양평",
-        "author": "심즈넨",
-        "date": "2026. 5. 23.",
-        "is_adult": "True",
-        views: 874,
-        price: 0,
-        likes: 20,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/20765984",
-        "title": "16.의정부",
-        "author": "심즈넨",
-        "date": "2025. 10. 31.",
-        "is_adult": "True",
-        views: 1900,
-        price: 0,
-        likes: 20,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/20612842",
-        "title": "14.남양주",
-        "author": "심즈넨",
-        "date": "2025. 10. 10.",
-        "is_adult": "True",
-        views: 1900,
-        price: 0,
-        likes: 20,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@multiuniverse/post/20347264",
@@ -3792,18 +3588,6 @@ export const shoBinData = [
         "summary": "정성찬x이찬영 텍스트 4,047 자 공백 제외"
     },
     {
-        "url": "https://www.postype.com/@simsnen/post/21727226",
-        "title": "28.양주",
-        "author": "심즈넨",
-        "date": "2026. 3. 1.",
-        "is_adult": "True",
-        views: 1300,
-        price: 0,
-        likes: 17,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-    },
-    {
         "url": "https://www.postype.com/@multiuniverse/post/20610285",
         "title": "Catnip 8.",
         "author": "Universe",
@@ -3912,18 +3696,6 @@ export const shoBinData = [
         "summary": "현장은 이미 불길한 침묵에 잠겨 있었다. 피부가 먼저 알아차리는 종류의 전조. 공기가 무겁게 눌리고, 금속이 미세하게 울렸다. 미세한 진동이 바닥을 타고 올라왔다. 쇼타로는 우뚝 ..."
     },
     {
-        "url": "https://www.postype.com/@simsnen/post/21069946",
-        "title": "20.광명",
-        "author": "심즈넨",
-        "date": "2025. 12. 12.",
-        "is_adult": "True",
-        views: 1300,
-        price: 0,
-        likes: 16,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 ※19~..."
-    },
-    {
         "url": "https://www.postype.com/@gguunbam/post/20039882",
         "title": "센티멘탈 블러드",
         "author": "군밤",
@@ -3984,18 +3756,6 @@ export const shoBinData = [
         "summary": "가끔 고양이의 눈을 바라다보면 사람의 말소리가 들리는 듯한 착각을 느꼈다. 저 먼 우주의 소용돌이 은하같은 모양을 가진 샛노란 눈동자는 아주 살짝씩 감겼고, 숨소리는 거칠었다. 고..."
     },
     {
-        "url": "https://www.postype.com/@simsnen/post/21819083",
-        "title": "29.의왕",
-        "author": "심즈넨",
-        "date": "2026. 3. 12.",
-        "is_adult": "True",
-        views: 1800,
-        price: 0,
-        likes: 15,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
-    },
-    {
         "url": "https://www.postype.com/@multiuniverse/post/21637367",
         "title": "작가로 살아남기 02",
         "author": "Universe",
@@ -4042,18 +3802,6 @@ export const shoBinData = [
         likes: 15,
         "category": "novel",
         "summary": "쇼타로가 자취하고 있는 자그마한 오피스텔의 거실 소파. 학교와 가까운 이곳은 집이 꽤나 먼 원빈이 자주 놀러와서 자고가는 아지트였다. 쇼타로는 다리를 흔들며 아이스크림을 맛있게 먹..."
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/19696271",
-        "title": "19금영상 업로드용 트위터 계정공유",
-        "author": "심즈넨",
-        "date": "2025. 6. 16.",
-        "is_adult": "True",
-        views: 7200,
-        price: 0,
-        likes: 15,
-        "category": "novel",
-        "summary": "텍스트 322 자 공백 제외 링크 1 개 이미지 1 장"
     },
     {
         "url": "https://www.postype.com/@umul112532/post/19587010",
@@ -4330,18 +4078,6 @@ export const shoBinData = [
         likes: 10,
         "category": "novel",
         "summary": "[M.G.Z.의 Park이 레이싱 불스를 추월합니다!] 순식간에 관중들이 들썩인다. 아직 한참이나 남은 랩 수에도 개의치 않고 새까만 배경에 파란색 포인트 컬러가 도색된 박원빈의 ..."
-    },
-    {
-        "url": "https://www.postype.com/@simsnen/post/21955877",
-        "title": "31.파주",
-        "author": "심즈넨",
-        "date": "2026. 5. 28.",
-        "is_adult": "True",
-        views: 912,
-        price: 0,
-        likes: 10,
-        "category": "novel",
-        "summary": "심즈넨 19금영상 업로드용 트위터 계정공유 노모자이크, 각 영상길이 1~3분 0P 성인 공지 숑넨 돌넨 숕넨 히넨 톤넨 7.2천 15 6 1 / ..."
     },
     {
         "url": "https://www.postype.com/@shibuyaorangehouse/post/21864516",
